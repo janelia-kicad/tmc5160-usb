@@ -1,0 +1,23 @@
+# This file is generated automatically from metadata
+# File edits may be overwritten!
+- Project Name: tmc5160_featherwing
+- Synopsis: TMC5160 stepper motor controller and driver in the Adafruit Feather Wing form factor.
+- Documentation Version: 1.0.0
+- Pcb Version: 1.0
+- Enclosure Version: 1.0
+- Supplemental BOM Version: 1.0
+- Release Date: 2024-03-20
+- Creation Date: 2024-03-20
+- Kicad Version: 7.0.11
+- License: BSD-3-Clause
+- URL: https://github.com/janelia-kicad/tmc5160_featherwing
+- Author: Peter Polidoro
+- Email: peter@polidoro.io
+- Copyright: 2024 Howard Hughes Medical Institute
+- References:
+  - [[https://www.analog.com/en/products/tmc5160.html][TMC5160]]
+  - [[https://learn.adafruit.com/adafruit-feather/feather-specification][Feather Specification]]
+
+[[./documentation/pcb/raytrace.png]]
+
+TMC5160 stepper motor controller and driver in the Adafruit Feather Wing form factor.
