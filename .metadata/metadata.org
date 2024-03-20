@@ -41,7 +41,7 @@ tmc5160_featherwing
 
 #+NAME: synopsis
 #+BEGIN_SRC text :exports none :noweb yes
-TMC5160 stepper motor controller and driver in the Adafruit Feather Wing form factor.
+TMC5160 high power stepper motor controller and driver in the Adafruit Feather Wing form factor.
 #+END_SRC
 
 #+NAME: references
@@ -57,7 +57,7 @@ TMC5160 stepper motor controller and driver in the Adafruit Feather Wing form fa
 
 #+NAME: description
 #+BEGIN_SRC text :exports none :noweb yes
-TMC5160 stepper motor controller and driver in the Adafruit Feather Wing form factor.
+
 #+END_SRC
 
 * General and Derived Variables                                    :noexport:

@@ -233,7 +233,7 @@
     "first_run_shown": false,
     "last_imperial_units": 0,
     "last_metric_units": 1,
-    "last_symbol_lib_dir": "",
+    "last_symbol_lib_dir": "${KICAD_JANELIA_LIBRARY}/symbols",
     "max_undo_items": 0,
     "never_show_rescue_dialog": false,
     "units": 0

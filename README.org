@@ -1,7 +1,7 @@
 # This file is generated automatically from metadata
 # File edits may be overwritten!
 - Project Name: tmc5160_featherwing
-- Synopsis: TMC5160 stepper motor controller and driver in the Adafruit Feather Wing form factor.
+- Synopsis: TMC5160 high power stepper motor controller and driver in the Adafruit Feather Wing form factor.
 - Documentation Version: 1.0.0
 - Pcb Version: 1.0
 - Enclosure Version: 1.0
@@ -19,5 +19,3 @@
   - [[https://learn.adafruit.com/adafruit-feather/feather-specification][Feather Specification]]
 
 [[./documentation/pcb/raytrace.png]]
-
-TMC5160 stepper motor controller and driver in the Adafruit Feather Wing form factor.
