@@ -341,8 +341,8 @@
       ""
     ],
     "first_run_shown": false,
-    "last_footprint3d_dir": "${KICAD_USER_DIR}/packages3D/Janelia.3dshapes",
-    "last_footprint_lib_dir": "${KICAD_JANELIA_LIBRARY}/footprints",
+    "last_footprint3d_dir": "${KICAD_JANELIA_LIBRARY}/3dmodels/Janelia.3dshapes",
+    "last_footprint_lib_dir": "${KICAD_JANELIA_LIBRARY}/footprints/Janelia.pretty",
     "last_imperial_units": 0,
     "last_metric_units": 1,
     "max_undo_items": 0,
