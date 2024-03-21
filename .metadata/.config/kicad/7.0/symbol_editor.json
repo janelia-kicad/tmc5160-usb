@@ -33,7 +33,7 @@
     "highlight_factor": 0.5,
     "select_factor": 0.75
   },
-  "lib_table_width": 698,
+  "lib_table_width": 369,
   "lib_tree": {
     "column_widths": null,
     "columns": []
