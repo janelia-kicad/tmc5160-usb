@@ -1,0 +1,17 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid aa9ba548-f258-48ef-826a-5764dea7d4f9)
+
+  (paper "A4")
+
+  (title_block
+    (title "tmc5160_featherwing")
+    (date "2024-03-22")
+    (rev "1.0")
+    (company "Howard Hughes Medical Institute")
+  )
+
+  (lib_symbols
+  )
+
+)
