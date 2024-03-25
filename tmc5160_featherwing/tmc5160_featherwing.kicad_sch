@@ -6,7 +6,7 @@
 
   (title_block
     (title "tmc5160_featherwing")
-    (date "2024-03-22")
+    (date "2024-03-25")
     (rev "1.0")
     (company "Howard Hughes Medical Institute")
   )
@@ -25,14 +25,14 @@
     (uuid a4045a19-d613-4318-befc-be32580bc18c)
   )
 
-  (sheet (at 59.69 60.96) (size 13.97 3.81) (fields_autoplaced)
+  (sheet (at 59.69 72.39) (size 13.97 3.81) (fields_autoplaced)
     (stroke (width 0.1524) (type solid))
     (fill (color 0 0 0 0.0000))
     (uuid 039ac378-5273-4081-85bf-9eb26cb5ed57)
-    (property "Sheetname" "driver_controller" (at 59.69 60.2484 0)
+    (property "Sheetname" "driver_controller" (at 59.69 71.6784 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
-    (property "Sheetfile" "driver_controller.kicad_sch" (at 59.69 65.3546 0)
+    (property "Sheetfile" "driver_controller.kicad_sch" (at 59.69 76.7846 0)
       (effects (font (size 1.27 1.27)) (justify left top))
     )
     (instances
@@ -63,14 +63,31 @@
     )
   )
 
-  (sheet (at 59.69 49.53) (size 12.7 3.81) (fields_autoplaced)
+  (sheet (at 59.69 48.26) (size 12.7 3.81) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 69dff8eb-dcc1-4f17-9e1d-cf8103035e92)
+    (property "Sheetname" "featherwing" (at 59.69 47.5484 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "featherwing.kicad_sch" (at 59.69 52.6546 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "tmc5160_featherwing"
+        (path "/df2b2e89-e055-4140-95de-f1df723db034" (page "13"))
+      )
+    )
+  )
+
+  (sheet (at 59.69 60.96) (size 12.7 3.81) (fields_autoplaced)
     (stroke (width 0.1524) (type solid))
     (fill (color 0 0 0 0.0000))
     (uuid c1dd8f61-494c-402f-8e59-08309c64fc3f)
-    (property "Sheetname" "power" (at 59.69 48.8184 0)
+    (property "Sheetname" "power" (at 59.69 60.2484 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
-    (property "Sheetfile" "power.kicad_sch" (at 59.69 53.9246 0)
+    (property "Sheetfile" "power.kicad_sch" (at 59.69 65.3546 0)
       (effects (font (size 1.27 1.27)) (justify left top))
     )
     (instances
