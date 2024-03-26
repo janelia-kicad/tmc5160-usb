@@ -106,10 +106,10 @@
     "search_and_replace": false
   },
   "footprint_chooser": {
-    "height": -1,
-    "sash_h": -1,
-    "sash_v": -1,
-    "width": -1
+    "height": 680,
+    "sash_h": 461,
+    "sash_v": 460,
+    "width": 880
   },
   "footprint_viewer": {
     "autozoom": true,
@@ -118,7 +118,7 @@
       "fullscreen_cursor": true
     },
     "display": 0,
-    "fp_list_width": 300,
+    "fp_list_width": 393,
     "grid": {
       "axes_enabled": true,
       "fast_grid_1": 4,
@@ -159,12 +159,12 @@
     "lib_list_width": 200,
     "maximized": false,
     "mru_path": "",
-    "perspective": "layout2|name=MainToolbar;caption=;state=139632;dir=1;layer=6;row=0;pos=0;prop=100000;bestw=747;besth=38;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=OptToolbar;caption=;state=139596;dir=4;layer=3;row=0;pos=0;prop=100000;bestw=34;besth=410;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=MsgPanel;caption=;state=131452;dir=3;layer=6;row=0;pos=0;prop=100000;bestw=390;besth=38;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=Libraries;caption=;state=1020;dir=4;layer=2;row=0;pos=0;prop=100000;bestw=200;besth=-1;minw=100;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=Footprints;caption=;state=1020;dir=4;layer=1;row=0;pos=0;prop=100000;bestw=300;besth=-1;minw=100;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=DrawFrame;caption=;state=1020;dir=5;layer=0;row=0;pos=0;prop=100000;bestw=390;besth=154;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|dock_size(1,6,0)=38|dock_size(4,3,0)=34|dock_size(3,6,0)=38|dock_size(4,2,0)=202|dock_size(4,1,0)=302|dock_size(5,0,0)=381|",
+    "perspective": "layout2|name=MainToolbar;caption=;state=139632;dir=1;layer=6;row=0;pos=0;prop=100000;bestw=747;besth=38;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=OptToolbar;caption=;state=139596;dir=4;layer=3;row=0;pos=0;prop=100000;bestw=34;besth=410;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=MsgPanel;caption=;state=131452;dir=3;layer=6;row=0;pos=0;prop=100000;bestw=390;besth=38;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=Libraries;caption=;state=1020;dir=4;layer=2;row=0;pos=0;prop=100000;bestw=200;besth=-1;minw=100;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=Footprints;caption=;state=1020;dir=4;layer=1;row=0;pos=0;prop=100000;bestw=300;besth=-1;minw=100;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=DrawFrame;caption=;state=1020;dir=5;layer=0;row=0;pos=0;prop=100000;bestw=390;besth=154;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|dock_size(1,6,0)=38|dock_size(4,3,0)=34|dock_size(3,6,0)=38|dock_size(4,2,0)=202|dock_size(4,1,0)=395|dock_size(5,0,0)=381|",
     "pos_x": 422,
     "pos_y": 269,
     "size_x": 1280,
     "size_y": 720,
-    "zoom": 10.053342429133739,
+    "zoom": 5.870683263996677,
     "zoom_factors": []
   },
   "footprint_wizard": {
@@ -347,7 +347,7 @@
     "last_imperial_units": 0,
     "last_metric_units": 1,
     "max_undo_items": 0,
-    "units": 0
+    "units": 1
   },
   "tools": {
     "pns": {
@@ -390,7 +390,7 @@
       "axes_enabled": false,
       "fast_grid_1": 4,
       "fast_grid_2": 5,
-      "last_size": 5,
+      "last_size": 15,
       "line_width": 1.0,
       "min_spacing": 10.0,
       "show": true,

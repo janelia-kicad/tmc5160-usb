@@ -231,7 +231,7 @@ Hello $addressee
 #+BEGIN_SRC org :noweb yes
 | Item | Description                                            | Manufacturer Part Number | Manufacturer    | Quantity |  Cost | Total |
 |------+--------------------------------------------------------+--------------------------+-----------------+----------+-------+-------|
-|    1 | TERM BLOCK PLUG 2POS STR 5MM                           |                  1754449 | Phoenix Contact |        1 |  1.82 |  1.82 |
+|    1 | TERM BLOCK PLUG 2POS STR 3.5MM                         |                  1840366 | Phoenix Contact |        1 |  2.43 |  2.43 |
 |    2 | TERM BLOCK PLUG 4POS STR 3.5MM                         |                  1840382 | Phoenix Contact |        1 |  4.80 |  4.80 |
 |------+--------------------------------------------------------+--------------------------+-----------------+----------+-------+-------|
 |      | Supplemental BOM Version: <<supplemental-bom-version>> |                          |                 |          | Total |  6.62 |
