@@ -6,7 +6,7 @@
 
   (title_block
     (title "tmc5160_featherwing")
-    (date "2024-04-04")
+    (date "2024-04-05")
     (rev "1.0")
     (company "Howard Hughes Medical Institute")
   )
@@ -516,7 +516,7 @@
   (symbol (lib_id "Janelia:Conn_01x16_P2.54MM_HeaderHoles") (at 74.93 90.17 0) (unit 1)
     (in_bom no) (on_board yes) (dnp no)
     (uuid 23761d20-12ba-4060-8e2a-e88acc4d9aed)
-    (property "Reference" "J3" (at 73.66 69.85 0)
+    (property "Reference" "J6" (at 73.66 69.85 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "Conn_01x16_P2.54MM_HeaderHoles" (at 76.2 90.17 90)
@@ -547,7 +547,7 @@
     (instances
       (project "tmc5160_featherwing"
         (path "/df2b2e89-e055-4140-95de-f1df723db034/69dff8eb-dcc1-4f17-9e1d-cf8103035e92"
-          (reference "J3") (unit 1)
+          (reference "J6") (unit 1)
         )
       )
     )
@@ -556,7 +556,7 @@
   (symbol (lib_id "Janelia:Conn_01x12_P2.54MM_HeaderHoles") (at 175.26 95.25 0) (unit 1)
     (in_bom no) (on_board yes) (dnp no)
     (uuid fb2c7fa1-e843-42dc-b6c7-baaeabaf5f39)
-    (property "Reference" "J4" (at 173.99 80.01 0)
+    (property "Reference" "J7" (at 173.99 80.01 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "Conn_01x12_P2.54MM_HeaderHoles" (at 176.53 95.25 90)
@@ -583,7 +583,7 @@
     (instances
       (project "tmc5160_featherwing"
         (path "/df2b2e89-e055-4140-95de-f1df723db034/69dff8eb-dcc1-4f17-9e1d-cf8103035e92"
-          (reference "J4") (unit 1)
+          (reference "J7") (unit 1)
         )
       )
     )
