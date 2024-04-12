@@ -6,7 +6,7 @@
 
   (title_block
     (title "tmc5160_featherwing")
-    (date "2024-04-11")
+    (date "2024-04-12")
     (rev "1.0")
     (company "Howard Hughes Medical Institute")
   )
@@ -287,7 +287,7 @@
         )
       )
     )
-    (symbol "Janelia:R_15_0402" (pin_numbers hide) (pin_names (offset 0)) (in_bom yes) (on_board yes)
+    (symbol "Janelia:R_15_0.1W_0402" (pin_numbers hide) (pin_names (offset 0)) (in_bom yes) (on_board yes)
       (property "Reference" "R" (at 2.032 0 90)
         (effects (font (size 1.016 1.016)))
       )
@@ -324,13 +324,13 @@
       (property "ki_fp_filters" "R? SM0603 SM0805 R?-* SM1206" (at 0 0 0)
         (effects (font (size 1.27 1.27)) hide)
       )
-      (symbol "R_15_0402_0_1"
+      (symbol "R_15_0.1W_0402_0_1"
         (rectangle (start -1.016 3.81) (end 1.016 -3.81)
           (stroke (width 0.3048) (type default))
           (fill (type none))
         )
       )
-      (symbol "R_15_0402_1_1"
+      (symbol "R_15_0.1W_0402_1_1"
         (pin passive line (at 0 6.35 270) (length 2.54)
           (name "~" (effects (font (size 1.524 1.524))))
           (number "1" (effects (font (size 1.524 1.524))))
@@ -474,75 +474,10 @@
     (uuid 7e9aef19-0e6c-485c-83b5-0f4563dafd3f)
   )
 
-  (symbol (lib_id "Janelia:R_15_0402") (at 132.08 80.01 90) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
-    (uuid 0af9c913-8b7f-492f-a7ab-bde5546adf65)
-    (property "Reference" "R2" (at 132.08 77.47 90)
-      (effects (font (size 1.016 1.016)))
-    )
-    (property "Value" "15" (at 132.08 80.01 90) (do_not_autoplace)
-      (effects (font (size 0.762 0.762)))
-    )
-    (property "Footprint" "Janelia:R_0402_1005Metric" (at 132.08 81.788 90)
-      (effects (font (size 0.762 0.762)) hide)
-    )
-    (property "Datasheet" "" (at 132.08 77.978 90)
-      (effects (font (size 0.762 0.762)))
-    )
-    (property "Vendor" "Digi-Key" (at 129.54 75.438 90)
-      (effects (font (size 1.524 1.524)) hide)
-    )
-    (property "Vendor Part Number" "P15.0LCT-ND" (at 127 72.898 90)
-      (effects (font (size 1.524 1.524)) hide)
-    )
-    (property "Description" "RES SMD 15 OHM 1% 1/10W" (at 124.46 70.358 90)
-      (effects (font (size 1.524 1.524)) hide)
-    )
-    (property "Package" "0402" (at 132.08 80.01 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Manufacturer" "Panasonic Electronic Components" (at 132.08 80.01 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Manufacturer Part Number" "ERJ-2RKF15R0X" (at 132.08 80.01 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid 402c12db-2f38-42a2-89cd-2f9dc3fd7cf8))
-    (pin "2" (uuid d12baedf-b244-4734-bea5-93b5f05c3685))
-    (instances
-      (project "tmc5160_featherwing"
-        (path "/df2b2e89-e055-4140-95de-f1df723db034/039ac378-5273-4081-85bf-9eb26cb5ed57/77ec754f-e73d-4b40-8cb6-04aa79ed075b"
-          (reference "R2") (unit 1)
-        )
-        (path "/df2b2e89-e055-4140-95de-f1df723db034/039ac378-5273-4081-85bf-9eb26cb5ed57/3a5be366-e07c-4cea-9d17-ab6873df58d0"
-          (reference "R3") (unit 1)
-        )
-        (path "/df2b2e89-e055-4140-95de-f1df723db034/039ac378-5273-4081-85bf-9eb26cb5ed57/015fc9e7-3ba8-423b-8c7a-1e6ac6af06ca"
-          (reference "R4") (unit 1)
-        )
-        (path "/df2b2e89-e055-4140-95de-f1df723db034/039ac378-5273-4081-85bf-9eb26cb5ed57/310c6d75-c755-45f6-91bd-c6a3e28c41c3"
-          (reference "R5") (unit 1)
-        )
-        (path "/df2b2e89-e055-4140-95de-f1df723db034/039ac378-5273-4081-85bf-9eb26cb5ed57/e5ac0a82-cfa0-413a-a1a3-5e88ae5fe4fa"
-          (reference "R6") (unit 1)
-        )
-        (path "/df2b2e89-e055-4140-95de-f1df723db034/039ac378-5273-4081-85bf-9eb26cb5ed57/33c1e78d-612d-4de4-b4ab-c1f2402fd86d"
-          (reference "R7") (unit 1)
-        )
-        (path "/df2b2e89-e055-4140-95de-f1df723db034/039ac378-5273-4081-85bf-9eb26cb5ed57/3cc889de-698d-4e8a-bf98-2840b1fad77e"
-          (reference "R8") (unit 1)
-        )
-        (path "/df2b2e89-e055-4140-95de-f1df723db034/039ac378-5273-4081-85bf-9eb26cb5ed57/166b4ba4-5822-49d8-b309-f52ce04f60b1"
-          (reference "R1") (unit 1)
-        )
-      )
-    )
-  )
-
   (symbol (lib_id "Janelia:BUK7D36-60EX") (at 147.32 80.01 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 68a94f9f-b28f-49f1-a34f-0be587083b7a)
-    (property "Reference" "U2" (at 151.13 80.01 0) (do_not_autoplace)
+    (property "Reference" "U4" (at 151.13 80.01 0) (do_not_autoplace)
       (effects (font (size 1.524 1.524)) (justify left))
     )
     (property "Value" "BUK7D36-60EX" (at 147.32 76.2 90) (do_not_autoplace)
@@ -583,28 +518,93 @@
     (instances
       (project "tmc5160_featherwing"
         (path "/df2b2e89-e055-4140-95de-f1df723db034/039ac378-5273-4081-85bf-9eb26cb5ed57/166b4ba4-5822-49d8-b309-f52ce04f60b1"
-          (reference "U2") (unit 1)
-        )
-        (path "/df2b2e89-e055-4140-95de-f1df723db034/039ac378-5273-4081-85bf-9eb26cb5ed57/77ec754f-e73d-4b40-8cb6-04aa79ed075b"
-          (reference "U3") (unit 1)
-        )
-        (path "/df2b2e89-e055-4140-95de-f1df723db034/039ac378-5273-4081-85bf-9eb26cb5ed57/3a5be366-e07c-4cea-9d17-ab6873df58d0"
           (reference "U4") (unit 1)
         )
-        (path "/df2b2e89-e055-4140-95de-f1df723db034/039ac378-5273-4081-85bf-9eb26cb5ed57/015fc9e7-3ba8-423b-8c7a-1e6ac6af06ca"
+        (path "/df2b2e89-e055-4140-95de-f1df723db034/039ac378-5273-4081-85bf-9eb26cb5ed57/77ec754f-e73d-4b40-8cb6-04aa79ed075b"
           (reference "U5") (unit 1)
         )
-        (path "/df2b2e89-e055-4140-95de-f1df723db034/039ac378-5273-4081-85bf-9eb26cb5ed57/310c6d75-c755-45f6-91bd-c6a3e28c41c3"
+        (path "/df2b2e89-e055-4140-95de-f1df723db034/039ac378-5273-4081-85bf-9eb26cb5ed57/3a5be366-e07c-4cea-9d17-ab6873df58d0"
           (reference "U6") (unit 1)
         )
-        (path "/df2b2e89-e055-4140-95de-f1df723db034/039ac378-5273-4081-85bf-9eb26cb5ed57/e5ac0a82-cfa0-413a-a1a3-5e88ae5fe4fa"
+        (path "/df2b2e89-e055-4140-95de-f1df723db034/039ac378-5273-4081-85bf-9eb26cb5ed57/015fc9e7-3ba8-423b-8c7a-1e6ac6af06ca"
           (reference "U7") (unit 1)
         )
-        (path "/df2b2e89-e055-4140-95de-f1df723db034/039ac378-5273-4081-85bf-9eb26cb5ed57/33c1e78d-612d-4de4-b4ab-c1f2402fd86d"
+        (path "/df2b2e89-e055-4140-95de-f1df723db034/039ac378-5273-4081-85bf-9eb26cb5ed57/310c6d75-c755-45f6-91bd-c6a3e28c41c3"
           (reference "U8") (unit 1)
         )
-        (path "/df2b2e89-e055-4140-95de-f1df723db034/039ac378-5273-4081-85bf-9eb26cb5ed57/3cc889de-698d-4e8a-bf98-2840b1fad77e"
+        (path "/df2b2e89-e055-4140-95de-f1df723db034/039ac378-5273-4081-85bf-9eb26cb5ed57/e5ac0a82-cfa0-413a-a1a3-5e88ae5fe4fa"
           (reference "U9") (unit 1)
+        )
+        (path "/df2b2e89-e055-4140-95de-f1df723db034/039ac378-5273-4081-85bf-9eb26cb5ed57/33c1e78d-612d-4de4-b4ab-c1f2402fd86d"
+          (reference "U10") (unit 1)
+        )
+        (path "/df2b2e89-e055-4140-95de-f1df723db034/039ac378-5273-4081-85bf-9eb26cb5ed57/3cc889de-698d-4e8a-bf98-2840b1fad77e"
+          (reference "U11") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "Janelia:R_15_0.1W_0402") (at 132.08 80.01 90) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no)
+    (uuid d567f4dd-7271-4d5d-84b0-777e53ab3edb)
+    (property "Reference" "R10" (at 132.08 77.47 90)
+      (effects (font (size 1.016 1.016)))
+    )
+    (property "Value" "15" (at 132.08 80.01 90) (do_not_autoplace)
+      (effects (font (size 0.762 0.762)))
+    )
+    (property "Footprint" "Janelia:R_0402_1005Metric" (at 132.08 81.788 90)
+      (effects (font (size 0.762 0.762)) hide)
+    )
+    (property "Datasheet" "" (at 132.08 77.978 90)
+      (effects (font (size 0.762 0.762)))
+    )
+    (property "Vendor" "Digi-Key" (at 129.54 75.438 90)
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "Vendor Part Number" "P15.0LCT-ND" (at 127 72.898 90)
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "Description" "RES SMD 15 OHM 1% 1/10W" (at 124.46 70.358 90)
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "Package" "0402" (at 132.08 80.01 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Manufacturer" "Panasonic Electronic Components" (at 132.08 80.01 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Manufacturer Part Number" "ERJ-2RKF15R0X" (at 132.08 80.01 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "2" (uuid cf54e939-bf99-46e7-8a3a-1fddaf396197))
+    (pin "1" (uuid 8eec8ecf-90ab-444e-af31-0870c3c5f2ca))
+    (instances
+      (project "tmc5160_featherwing"
+        (path "/df2b2e89-e055-4140-95de-f1df723db034/039ac378-5273-4081-85bf-9eb26cb5ed57/166b4ba4-5822-49d8-b309-f52ce04f60b1"
+          (reference "R10") (unit 1)
+        )
+        (path "/df2b2e89-e055-4140-95de-f1df723db034/039ac378-5273-4081-85bf-9eb26cb5ed57/77ec754f-e73d-4b40-8cb6-04aa79ed075b"
+          (reference "R11") (unit 1)
+        )
+        (path "/df2b2e89-e055-4140-95de-f1df723db034/039ac378-5273-4081-85bf-9eb26cb5ed57/3a5be366-e07c-4cea-9d17-ab6873df58d0"
+          (reference "R12") (unit 1)
+        )
+        (path "/df2b2e89-e055-4140-95de-f1df723db034/039ac378-5273-4081-85bf-9eb26cb5ed57/015fc9e7-3ba8-423b-8c7a-1e6ac6af06ca"
+          (reference "R13") (unit 1)
+        )
+        (path "/df2b2e89-e055-4140-95de-f1df723db034/039ac378-5273-4081-85bf-9eb26cb5ed57/310c6d75-c755-45f6-91bd-c6a3e28c41c3"
+          (reference "R14") (unit 1)
+        )
+        (path "/df2b2e89-e055-4140-95de-f1df723db034/039ac378-5273-4081-85bf-9eb26cb5ed57/e5ac0a82-cfa0-413a-a1a3-5e88ae5fe4fa"
+          (reference "R15") (unit 1)
+        )
+        (path "/df2b2e89-e055-4140-95de-f1df723db034/039ac378-5273-4081-85bf-9eb26cb5ed57/33c1e78d-612d-4de4-b4ab-c1f2402fd86d"
+          (reference "R16") (unit 1)
+        )
+        (path "/df2b2e89-e055-4140-95de-f1df723db034/039ac378-5273-4081-85bf-9eb26cb5ed57/3cc889de-698d-4e8a-bf98-2840b1fad77e"
+          (reference "R17") (unit 1)
         )
       )
     )
