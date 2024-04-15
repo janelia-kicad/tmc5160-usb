@@ -229,12 +229,11 @@ Hello $addressee
 
 #+NAME: supplemental-bom
 #+BEGIN_SRC org :noweb yes
-| Item | Description                                            | Manufacturer Part Number | Manufacturer    | Quantity |  Cost | Total |
-|------+--------------------------------------------------------+--------------------------+-----------------+----------+-------+-------|
-|    1 | TERM BLOCK PLUG 2POS STR 3.5MM                         |                  1840366 | Phoenix Contact |        1 |  2.43 |  2.43 |
-|    2 | TERM BLOCK PLUG 4POS STR 3.5MM                         |                  1840382 | Phoenix Contact |        1 |  4.80 |  4.80 |
-|------+--------------------------------------------------------+--------------------------+-----------------+----------+-------+-------|
-|      | Supplemental BOM Version: <<supplemental-bom-version>> |                          |                 |          | Total |  6.62 |
+| Item | Description                                            | Manufacturer Part Number | Manufacturer      | Quantity | Cost  | Total |
+|------+--------------------------------------------------------+--------------------------+-------------------+----------+-------+-------|
+|    1 | FAN BLOWER 17X3MM 3VDC RECT CONN                       | ASB01703HA3-00CAH        | Delta Electronics |        1 | 19.54 | 19.54 |
+|------+--------------------------------------------------------+--------------------------+-------------------+----------+-------+-------|
+|      | Supplemental BOM Version: <<supplemental-bom-version>> |                          |                   |          | Total | 19.54 |
 ,#+TBLFM: $7=$5*$6;%0.2f::@>$7=vsum(@2..@-1);%0.2f
 #+END_SRC
 
