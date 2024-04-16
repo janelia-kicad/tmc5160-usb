@@ -480,7 +480,7 @@
     ],
     [
       "039ac378-5273-4081-85bf-9eb26cb5ed57",
-      "driver_controller"
+      "driver-controller"
     ],
     [
       "166b4ba4-5822-49d8-b309-f52ce04f60b1",
@@ -516,7 +516,7 @@
     ],
     [
       "69dff8eb-dcc1-4f17-9e1d-cf8103035e92",
-      "featherwing"
+      "pico-hat"
     ]
   ],
   "text_variables": {}
