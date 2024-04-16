@@ -11,12 +11,12 @@
 
 #+NAME: project-name
 #+BEGIN_SRC text :exports none :noweb yes
-tmc5160_featherwing
+pico-hat-stepper
 #+END_SRC
 
 #+NAME: repository-name
 #+BEGIN_SRC text :exports none :noweb yes
-tmc5160_featherwing
+pico-hat-stepper
 #+END_SRC
 
 #+NAME: documentation-version
@@ -41,13 +41,13 @@ tmc5160_featherwing
 
 #+NAME: synopsis
 #+BEGIN_SRC text :exports none :noweb yes
-TMC5160 high power stepper motor controller and driver in the Adafruit Feather Wing form factor.
+TMC5160 high power stepper motor controller and driver in the Raspberry Pi Pico HAT form factor.
 #+END_SRC
 
 #+NAME: references
 #+BEGIN_SRC text :exports none :noweb yes
 [[https://www.analog.com/en/products/tmc5160.html][TMC5160]]
-[[https://learn.adafruit.com/adafruit-feather/feather-specification][Feather Specification]]
+[[https://www.raspberrypi.com/products/raspberry-pi-pico/][Raspberry Pi Pico]]
 #+END_SRC
 
 #+NAME: creation-date

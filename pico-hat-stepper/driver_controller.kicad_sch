@@ -5,7 +5,7 @@
   (paper "A4")
 
   (title_block
-    (title "tmc5160_featherwing")
+    (title "pico-hat-stepper")
     (date "2024-04-16")
     (rev "1.0")
     (company "Howard Hughes Medical Institute")
@@ -2494,7 +2494,7 @@
     (pin "1" (uuid fa487710-34a4-4cbf-adb9-53b116762a85))
     (pin "2" (uuid c1cdff03-8f70-4486-8ab9-673a29c128d4))
     (instances
-      (project "tmc5160_featherwing"
+      (project "pico-hat-stepper"
         (path "/df2b2e89-e055-4140-95de-f1df723db034/039ac378-5273-4081-85bf-9eb26cb5ed57"
           (reference "C11") (unit 1)
         )
@@ -2538,7 +2538,7 @@
     (pin "1" (uuid 1e0cc8fe-c354-4d27-98d4-e0e8c6163724))
     (pin "2" (uuid e56d69b5-57e2-477a-941f-fe21f43aec48))
     (instances
-      (project "tmc5160_featherwing"
+      (project "pico-hat-stepper"
         (path "/df2b2e89-e055-4140-95de-f1df723db034/039ac378-5273-4081-85bf-9eb26cb5ed57"
           (reference "R4") (unit 1)
         )
@@ -2582,7 +2582,7 @@
     (pin "2" (uuid 6e0ac64d-7fe1-4f0a-95c7-bbca541dc4fe))
     (pin "1" (uuid def0e2a8-d09e-42a1-98fe-5d81c3919f2b))
     (instances
-      (project "tmc5160_featherwing"
+      (project "pico-hat-stepper"
         (path "/df2b2e89-e055-4140-95de-f1df723db034/039ac378-5273-4081-85bf-9eb26cb5ed57"
           (reference "C15") (unit 1)
         )
@@ -2623,7 +2623,7 @@
     (pin "1" (uuid beec6ce8-a083-49b7-bd9a-b0bf0196d2b9))
     (pin "2" (uuid 650d3028-27e6-4935-86f0-fbe36cec5c26))
     (instances
-      (project "tmc5160_featherwing"
+      (project "pico-hat-stepper"
         (path "/df2b2e89-e055-4140-95de-f1df723db034/039ac378-5273-4081-85bf-9eb26cb5ed57"
           (reference "C19") (unit 1)
         )
@@ -2667,7 +2667,7 @@
     (pin "1" (uuid c3be7a3c-89ba-4ca3-952a-c0b5b6ddb648))
     (pin "2" (uuid 4701184d-0369-4cca-b4d3-e2622e558777))
     (instances
-      (project "tmc5160_featherwing"
+      (project "pico-hat-stepper"
         (path "/df2b2e89-e055-4140-95de-f1df723db034/039ac378-5273-4081-85bf-9eb26cb5ed57"
           (reference "C9") (unit 1)
         )
@@ -2711,7 +2711,7 @@
     (pin "2" (uuid 57f2adc6-d23b-457d-a37f-1a60d8b96467))
     (pin "1" (uuid 86c86ef9-160f-421c-9414-fce7db53f1ab))
     (instances
-      (project "tmc5160_featherwing"
+      (project "pico-hat-stepper"
         (path "/df2b2e89-e055-4140-95de-f1df723db034/039ac378-5273-4081-85bf-9eb26cb5ed57"
           (reference "C12") (unit 1)
         )
@@ -2754,7 +2754,7 @@
     (pin "4" (uuid 95fde51d-a60b-480e-b84f-3ee60f789e08))
     (pin "3" (uuid c15d1ce2-d0cc-44f9-a91d-a3f235759f41))
     (instances
-      (project "tmc5160_featherwing"
+      (project "pico-hat-stepper"
         (path "/df2b2e89-e055-4140-95de-f1df723db034/039ac378-5273-4081-85bf-9eb26cb5ed57"
           (reference "J5") (unit 1)
         )
@@ -2803,7 +2803,7 @@
     (pin "4" (uuid b5d7a705-e534-4e3f-b936-51e103d5e0e8))
     (pin "2" (uuid 8a32fe93-b74a-4aff-b081-07d034f0209a))
     (instances
-      (project "tmc5160_featherwing"
+      (project "pico-hat-stepper"
         (path "/df2b2e89-e055-4140-95de-f1df723db034/039ac378-5273-4081-85bf-9eb26cb5ed57"
           (reference "U3") (unit 1)
         )
@@ -2847,7 +2847,7 @@
     (pin "2" (uuid 0457dc66-c0e4-4181-9d83-2db26c73fcbb))
     (pin "1" (uuid b29a4744-d8d6-41e4-8580-df3f6095d47c))
     (instances
-      (project "tmc5160_featherwing"
+      (project "pico-hat-stepper"
         (path "/df2b2e89-e055-4140-95de-f1df723db034/039ac378-5273-4081-85bf-9eb26cb5ed57"
           (reference "C3") (unit 1)
         )
@@ -2891,7 +2891,7 @@
     (pin "1" (uuid 7ec16474-64a6-404d-981b-fec1da276a06))
     (pin "2" (uuid d4afd172-57a5-458b-bf7c-b8fcc6677193))
     (instances
-      (project "tmc5160_featherwing"
+      (project "pico-hat-stepper"
         (path "/df2b2e89-e055-4140-95de-f1df723db034/039ac378-5273-4081-85bf-9eb26cb5ed57"
           (reference "C10") (unit 1)
         )
@@ -2935,7 +2935,7 @@
     (pin "2" (uuid 7aa6d62b-6ace-4762-a21d-bcc926aa6dd8))
     (pin "1" (uuid 7fa7cae1-21e7-44e1-83a3-1f531db4286a))
     (instances
-      (project "tmc5160_featherwing"
+      (project "pico-hat-stepper"
         (path "/df2b2e89-e055-4140-95de-f1df723db034/039ac378-5273-4081-85bf-9eb26cb5ed57"
           (reference "C16") (unit 1)
         )
@@ -3025,7 +3025,7 @@
     (pin "27" (uuid 4c11eb78-6945-427b-8770-85d0fa04cacd))
     (pin "18" (uuid 1d8f7f80-0421-422d-8fc2-9b1d9bf86100))
     (instances
-      (project "tmc5160_featherwing"
+      (project "pico-hat-stepper"
         (path "/df2b2e89-e055-4140-95de-f1df723db034/039ac378-5273-4081-85bf-9eb26cb5ed57"
           (reference "U2") (unit 1)
         )
@@ -3069,7 +3069,7 @@
     (pin "1" (uuid 0ea07a37-de9d-4c69-a5df-b47717f9cd11))
     (pin "2" (uuid f059ce22-655c-4b4a-9fca-c1b280ff9ce9))
     (instances
-      (project "tmc5160_featherwing"
+      (project "pico-hat-stepper"
         (path "/df2b2e89-e055-4140-95de-f1df723db034/039ac378-5273-4081-85bf-9eb26cb5ed57"
           (reference "C4") (unit 1)
         )
@@ -3113,7 +3113,7 @@
     (pin "2" (uuid 3af9c6f4-a9ef-434e-ba55-8f1e486687e0))
     (pin "1" (uuid d1f71d04-1406-476c-84d6-e841620e2c33))
     (instances
-      (project "tmc5160_featherwing"
+      (project "pico-hat-stepper"
         (path "/df2b2e89-e055-4140-95de-f1df723db034/039ac378-5273-4081-85bf-9eb26cb5ed57"
           (reference "C18") (unit 1)
         )
@@ -3157,7 +3157,7 @@
     (pin "1" (uuid 6a536a9d-1734-4db4-a34a-6dc9ae353d78))
     (pin "2" (uuid 882b295d-24cb-40d1-948f-9b62af2deb33))
     (instances
-      (project "tmc5160_featherwing"
+      (project "pico-hat-stepper"
         (path "/df2b2e89-e055-4140-95de-f1df723db034/039ac378-5273-4081-85bf-9eb26cb5ed57"
           (reference "R3") (unit 1)
         )
@@ -3201,7 +3201,7 @@
     (pin "2" (uuid 9df0ec78-e557-4a59-aabe-16b068c5e46c))
     (pin "1" (uuid e5def5fb-e026-43d8-8844-abcb7321a100))
     (instances
-      (project "tmc5160_featherwing"
+      (project "pico-hat-stepper"
         (path "/df2b2e89-e055-4140-95de-f1df723db034/039ac378-5273-4081-85bf-9eb26cb5ed57"
           (reference "R5") (unit 1)
         )
@@ -3244,7 +3244,7 @@
     (pin "1" (uuid b6622e1b-6e1a-4fd5-b339-9a985b088c7d))
     (pin "2" (uuid ab05c396-7e3e-4e94-b7ef-fa0421de0798))
     (instances
-      (project "tmc5160_featherwing"
+      (project "pico-hat-stepper"
         (path "/df2b2e89-e055-4140-95de-f1df723db034/039ac378-5273-4081-85bf-9eb26cb5ed57"
           (reference "X1") (unit 1)
         )
@@ -3288,7 +3288,7 @@
     (pin "1" (uuid 4f31cdd1-21fe-40db-8e24-3f792c922156))
     (pin "2" (uuid e618085c-b769-44f8-b43e-6aee4e46fb19))
     (instances
-      (project "tmc5160_featherwing"
+      (project "pico-hat-stepper"
         (path "/df2b2e89-e055-4140-95de-f1df723db034/039ac378-5273-4081-85bf-9eb26cb5ed57"
           (reference "R7") (unit 1)
         )
@@ -3332,7 +3332,7 @@
     (pin "2" (uuid 4074a62c-81c4-458f-aa48-5d0ea437f3b8))
     (pin "1" (uuid d8b0c7be-4256-498a-87a9-6d5a3482e5d1))
     (instances
-      (project "tmc5160_featherwing"
+      (project "pico-hat-stepper"
         (path "/df2b2e89-e055-4140-95de-f1df723db034/039ac378-5273-4081-85bf-9eb26cb5ed57"
           (reference "C8") (unit 1)
         )
@@ -3373,7 +3373,7 @@
     (pin "1" (uuid bfe559d8-16ea-40fd-8d68-68281fd8b318))
     (pin "2" (uuid 9c4dbe2a-d779-45b7-9755-8c4d7926e57f))
     (instances
-      (project "tmc5160_featherwing"
+      (project "pico-hat-stepper"
         (path "/df2b2e89-e055-4140-95de-f1df723db034/039ac378-5273-4081-85bf-9eb26cb5ed57"
           (reference "J4") (unit 1)
         )
@@ -3417,7 +3417,7 @@
     (pin "2" (uuid 0807656a-181f-4997-88c0-02e8164a0392))
     (pin "1" (uuid 2d5ed1a1-f504-4fdb-b647-97e80d8e4a71))
     (instances
-      (project "tmc5160_featherwing"
+      (project "pico-hat-stepper"
         (path "/df2b2e89-e055-4140-95de-f1df723db034/039ac378-5273-4081-85bf-9eb26cb5ed57"
           (reference "D3") (unit 1)
         )
@@ -3461,7 +3461,7 @@
     (pin "1" (uuid 8ae86f6c-b54e-44ee-b01a-0031d91627e5))
     (pin "2" (uuid 8b3a36f4-a812-44fc-a244-69735c2ec628))
     (instances
-      (project "tmc5160_featherwing"
+      (project "pico-hat-stepper"
         (path "/df2b2e89-e055-4140-95de-f1df723db034/039ac378-5273-4081-85bf-9eb26cb5ed57"
           (reference "C13") (unit 1)
         )
@@ -3505,7 +3505,7 @@
     (pin "1" (uuid b5a6b881-c31d-42fd-bc61-65996ba5758c))
     (pin "2" (uuid 8a309baf-f68d-4269-89f2-7a1d08e100e2))
     (instances
-      (project "tmc5160_featherwing"
+      (project "pico-hat-stepper"
         (path "/df2b2e89-e055-4140-95de-f1df723db034/039ac378-5273-4081-85bf-9eb26cb5ed57"
           (reference "R8") (unit 1)
         )
@@ -3549,7 +3549,7 @@
     (pin "1" (uuid ef9219e2-9a90-4da0-b48e-2ec6e21866f9))
     (pin "2" (uuid 88640290-d6df-4909-992a-9f2f59eb24be))
     (instances
-      (project "tmc5160_featherwing"
+      (project "pico-hat-stepper"
         (path "/df2b2e89-e055-4140-95de-f1df723db034/039ac378-5273-4081-85bf-9eb26cb5ed57"
           (reference "R6") (unit 1)
         )
@@ -3593,7 +3593,7 @@
     (pin "2" (uuid 01657b59-9392-49cf-88d6-ebd1c34cd8bc))
     (pin "1" (uuid d1409915-c2c0-4de7-ae75-fe26f88d2b2e))
     (instances
-      (project "tmc5160_featherwing"
+      (project "pico-hat-stepper"
         (path "/df2b2e89-e055-4140-95de-f1df723db034/039ac378-5273-4081-85bf-9eb26cb5ed57"
           (reference "C6") (unit 1)
         )
@@ -3637,7 +3637,7 @@
     (pin "2" (uuid f0d674a4-4f58-4349-bc34-b46b132627a5))
     (pin "1" (uuid 6260cfc9-656a-4ff6-a10d-a96ebfa997a2))
     (instances
-      (project "tmc5160_featherwing"
+      (project "pico-hat-stepper"
         (path "/df2b2e89-e055-4140-95de-f1df723db034/039ac378-5273-4081-85bf-9eb26cb5ed57"
           (reference "R9") (unit 1)
         )
@@ -3681,7 +3681,7 @@
     (pin "2" (uuid 5090312e-b060-4fae-bd75-fd4561aa1327))
     (pin "1" (uuid de30d786-2a9c-4ea6-b3df-7d55219460a6))
     (instances
-      (project "tmc5160_featherwing"
+      (project "pico-hat-stepper"
         (path "/df2b2e89-e055-4140-95de-f1df723db034/039ac378-5273-4081-85bf-9eb26cb5ed57"
           (reference "C14") (unit 1)
         )
@@ -3725,7 +3725,7 @@
     (pin "2" (uuid b4b2de09-400e-4fc8-b50b-8f1273f5f1f8))
     (pin "1" (uuid e8e93e14-8538-4159-ae59-259a1acb0152))
     (instances
-      (project "tmc5160_featherwing"
+      (project "pico-hat-stepper"
         (path "/df2b2e89-e055-4140-95de-f1df723db034/039ac378-5273-4081-85bf-9eb26cb5ed57"
           (reference "C17") (unit 1)
         )
@@ -3769,7 +3769,7 @@
     (pin "2" (uuid 3c6726f2-3b0c-4db2-af25-2757b91edfe7))
     (pin "1" (uuid 2dfa71bc-9d37-4253-a73d-f15f749a89f9))
     (instances
-      (project "tmc5160_featherwing"
+      (project "pico-hat-stepper"
         (path "/df2b2e89-e055-4140-95de-f1df723db034/039ac378-5273-4081-85bf-9eb26cb5ed57"
           (reference "C5") (unit 1)
         )
@@ -3813,7 +3813,7 @@
     (pin "2" (uuid 3329d00e-511a-4a3e-a86f-f15388ad1e8e))
     (pin "1" (uuid 25a1692f-7628-40b5-ad73-4966d940f2a7))
     (instances
-      (project "tmc5160_featherwing"
+      (project "pico-hat-stepper"
         (path "/df2b2e89-e055-4140-95de-f1df723db034/039ac378-5273-4081-85bf-9eb26cb5ed57"
           (reference "C7") (unit 1)
         )
@@ -3844,7 +3844,7 @@
       (uuid 8c9acaa4-c2a5-4b2f-840a-a509bcfb368d)
     )
     (instances
-      (project "tmc5160_featherwing"
+      (project "pico-hat-stepper"
         (path "/df2b2e89-e055-4140-95de-f1df723db034/039ac378-5273-4081-85bf-9eb26cb5ed57" (page "8"))
       )
     )
@@ -3873,7 +3873,7 @@
       (uuid a1aeff8e-1f94-4554-927f-0a7ca4d1897a)
     )
     (instances
-      (project "tmc5160_featherwing"
+      (project "pico-hat-stepper"
         (path "/df2b2e89-e055-4140-95de-f1df723db034/039ac378-5273-4081-85bf-9eb26cb5ed57" (page "5"))
       )
     )
@@ -3902,7 +3902,7 @@
       (uuid 77f855be-d2b9-46e6-9184-990ff8263e16)
     )
     (instances
-      (project "tmc5160_featherwing"
+      (project "pico-hat-stepper"
         (path "/df2b2e89-e055-4140-95de-f1df723db034/039ac378-5273-4081-85bf-9eb26cb5ed57" (page "9"))
       )
     )
@@ -3931,7 +3931,7 @@
       (uuid 96df8956-fdd7-4863-8935-35e2a3851955)
     )
     (instances
-      (project "tmc5160_featherwing"
+      (project "pico-hat-stepper"
         (path "/df2b2e89-e055-4140-95de-f1df723db034/039ac378-5273-4081-85bf-9eb26cb5ed57" (page "11"))
       )
     )
@@ -3960,7 +3960,7 @@
       (uuid 6be43c8d-2a03-4cbd-af1b-5766c9dcecf3)
     )
     (instances
-      (project "tmc5160_featherwing"
+      (project "pico-hat-stepper"
         (path "/df2b2e89-e055-4140-95de-f1df723db034/039ac378-5273-4081-85bf-9eb26cb5ed57" (page "7"))
       )
     )
@@ -3989,7 +3989,7 @@
       (uuid f7578275-b86c-4a9e-8691-83cdf215328c)
     )
     (instances
-      (project "tmc5160_featherwing"
+      (project "pico-hat-stepper"
         (path "/df2b2e89-e055-4140-95de-f1df723db034/039ac378-5273-4081-85bf-9eb26cb5ed57" (page "12"))
       )
     )
@@ -4018,7 +4018,7 @@
       (uuid 8b433b57-8023-418a-8f67-60af809b1f61)
     )
     (instances
-      (project "tmc5160_featherwing"
+      (project "pico-hat-stepper"
         (path "/df2b2e89-e055-4140-95de-f1df723db034/039ac378-5273-4081-85bf-9eb26cb5ed57" (page "6"))
       )
     )
@@ -4047,7 +4047,7 @@
       (uuid 3c19a911-63a8-4236-ba87-1d41efe74162)
     )
     (instances
-      (project "tmc5160_featherwing"
+      (project "pico-hat-stepper"
         (path "/df2b2e89-e055-4140-95de-f1df723db034/039ac378-5273-4081-85bf-9eb26cb5ed57" (page "10"))
       )
     )

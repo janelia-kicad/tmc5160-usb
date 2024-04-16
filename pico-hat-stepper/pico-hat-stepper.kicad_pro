@@ -390,7 +390,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "tmc5160_featherwing.kicad_pro",
+    "filename": "pico-hat-stepper.kicad_pro",
     "version": 1
   },
   "net_settings": {

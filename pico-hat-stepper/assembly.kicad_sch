@@ -5,7 +5,7 @@
   (paper "A4")
 
   (title_block
-    (title "tmc5160_featherwing")
+    (title "pico-hat-stepper")
     (date "2024-04-16")
     (rev "1.0")
     (company "Howard Hughes Medical Institute")
@@ -152,7 +152,7 @@
     )
     (pin "1" (uuid db679d9d-14c6-4d7c-8816-ce472618aae5))
     (instances
-      (project "tmc5160_featherwing"
+      (project "pico-hat-stepper"
         (path "/df2b2e89-e055-4140-95de-f1df723db034/0ec4fe58-7f94-4826-b0e2-2bc8f3ffe81e"
           (reference "H1") (unit 1)
         )
@@ -179,7 +179,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "tmc5160_featherwing"
+      (project "pico-hat-stepper"
         (path "/df2b2e89-e055-4140-95de-f1df723db034/0ec4fe58-7f94-4826-b0e2-2bc8f3ffe81e"
           (reference "FID2") (unit 1)
         )
@@ -207,7 +207,7 @@
     )
     (pin "1" (uuid 3db8a7cf-8568-444b-a6a7-be3ecb00dc81))
     (instances
-      (project "tmc5160_featherwing"
+      (project "pico-hat-stepper"
         (path "/df2b2e89-e055-4140-95de-f1df723db034/0ec4fe58-7f94-4826-b0e2-2bc8f3ffe81e"
           (reference "H3") (unit 1)
         )
@@ -234,7 +234,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "tmc5160_featherwing"
+      (project "pico-hat-stepper"
         (path "/df2b2e89-e055-4140-95de-f1df723db034/0ec4fe58-7f94-4826-b0e2-2bc8f3ffe81e"
           (reference "FID4") (unit 1)
         )
@@ -261,7 +261,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "tmc5160_featherwing"
+      (project "pico-hat-stepper"
         (path "/df2b2e89-e055-4140-95de-f1df723db034/0ec4fe58-7f94-4826-b0e2-2bc8f3ffe81e"
           (reference "FID1") (unit 1)
         )
@@ -289,7 +289,7 @@
     )
     (pin "1" (uuid 64028e7f-f242-47c7-becf-6dd6cff496f1))
     (instances
-      (project "tmc5160_featherwing"
+      (project "pico-hat-stepper"
         (path "/df2b2e89-e055-4140-95de-f1df723db034/0ec4fe58-7f94-4826-b0e2-2bc8f3ffe81e"
           (reference "H4") (unit 1)
         )
@@ -317,7 +317,7 @@
     )
     (pin "1" (uuid aa2b3579-5df2-464e-b10e-e1ee7ac15667))
     (instances
-      (project "tmc5160_featherwing"
+      (project "pico-hat-stepper"
         (path "/df2b2e89-e055-4140-95de-f1df723db034/0ec4fe58-7f94-4826-b0e2-2bc8f3ffe81e"
           (reference "H2") (unit 1)
         )
@@ -344,7 +344,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "tmc5160_featherwing"
+      (project "pico-hat-stepper"
         (path "/df2b2e89-e055-4140-95de-f1df723db034/0ec4fe58-7f94-4826-b0e2-2bc8f3ffe81e"
           (reference "FID3") (unit 1)
         )

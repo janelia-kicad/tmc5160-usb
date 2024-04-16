@@ -5,7 +5,7 @@
   (paper "A4")
 
   (title_block
-    (title "tmc5160_featherwing")
+    (title "pico-hat-stepper")
     (date "2024-04-16")
     (rev "1.0")
     (company "Howard Hughes Medical Institute")
@@ -256,7 +256,7 @@
       (uuid 971a3653-aa7c-4ccc-b6e2-371c5acb1339)
     )
     (instances
-      (project "tmc5160_featherwing"
+      (project "pico-hat-stepper"
         (path "/df2b2e89-e055-4140-95de-f1df723db034" (page "4"))
       )
     )
@@ -277,7 +277,7 @@
       (uuid 27cfdaec-c4e6-4a5e-aff6-ae19f93ba201)
     )
     (instances
-      (project "tmc5160_featherwing"
+      (project "pico-hat-stepper"
         (path "/df2b2e89-e055-4140-95de-f1df723db034" (page "2"))
       )
     )
@@ -330,7 +330,7 @@
       (uuid 85a282f0-8206-4a81-a49c-f5cecabce3c6)
     )
     (instances
-      (project "tmc5160_featherwing"
+      (project "pico-hat-stepper"
         (path "/df2b2e89-e055-4140-95de-f1df723db034" (page "13"))
       )
     )
@@ -367,7 +367,7 @@
       (uuid 50982f48-bfaf-4358-989a-4ebd3f450f10)
     )
     (instances
-      (project "tmc5160_featherwing"
+      (project "pico-hat-stepper"
         (path "/df2b2e89-e055-4140-95de-f1df723db034" (page "3"))
       )
     )
