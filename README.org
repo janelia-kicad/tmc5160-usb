@@ -1,16 +1,16 @@
 # This file is generated automatically from metadata
 # File edits may be overwritten!
-- Project Name: pico-hat-stepper
-- Synopsis: TMC5160 high power stepper motor controller and driver in the Raspberry Pi Pico HAT form factor.
+- Project Name: stepper-controller
+- Synopsis: Stepper motor controller and driver in various form factors.
 - Documentation Version: 1.0.0
 - Pcb Version: 1.0
 - Enclosure Version: 1.0
 - Supplemental BOM Version: 1.0
-- Release Date: 2024-04-16
+- Release Date: 2024-04-17
 - Creation Date: 2024-03-20
 - Kicad Version: 7.0.11
 - License: BSD-3-Clause
-- URL: https://github.com/janelia-kicad/pico-hat-stepper
+- URL: https://github.com/janelia-kicad/stepper-controller
 - Author: Peter Polidoro
 - Email: peter@polidoro.io
 - Copyright: 2024 Howard Hughes Medical Institute

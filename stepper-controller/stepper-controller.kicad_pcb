@@ -6,7 +6,7 @@
 
   (paper "A4")
   (title_block
-    (title "pico-hat-stepper")
+    (title "stepper-controller")
     (date "2024-04-04")
     (rev "1.0")
     (company "Howard Hughes Medical Institute")

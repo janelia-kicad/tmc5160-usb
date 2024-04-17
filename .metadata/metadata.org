@@ -11,12 +11,12 @@
 
 #+NAME: project-name
 #+BEGIN_SRC text :exports none :noweb yes
-pico-hat-stepper
+stepper-controller
 #+END_SRC
 
 #+NAME: repository-name
 #+BEGIN_SRC text :exports none :noweb yes
-pico-hat-stepper
+stepper-controller
 #+END_SRC
 
 #+NAME: documentation-version
@@ -41,7 +41,7 @@ pico-hat-stepper
 
 #+NAME: synopsis
 #+BEGIN_SRC text :exports none :noweb yes
-TMC5160 high power stepper motor controller and driver in the Raspberry Pi Pico HAT form factor.
+Stepper motor controller and driver in various form factors.
 #+END_SRC
 
 #+NAME: references

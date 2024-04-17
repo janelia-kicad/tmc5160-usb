@@ -5,7 +5,7 @@
   (paper "A4")
 
   (title_block
-    (title "pico-hat-stepper")
+    (title "stepper-controller")
     (date "2024-04-16")
     (rev "1.0")
     (company "Howard Hughes Medical Institute")
@@ -1343,7 +1343,7 @@
     (pin "1" (uuid 1682cf35-8e92-4e64-82a8-ed47d08d9b12))
     (pin "3" (uuid 6638d6df-de1d-4aa7-93df-cd5d0f098afe))
     (instances
-      (project "pico-hat-stepper"
+      (project "stepper-controller"
         (path "/df2b2e89-e055-4140-95de-f1df723db034/c1dd8f61-494c-402f-8e59-08309c64fc3f"
           (reference "J8") (unit 1)
         )
@@ -1387,7 +1387,7 @@
     (pin "2" (uuid 878f4cbd-389e-4832-8ae1-79e57b4bb926))
     (pin "1" (uuid 64e25c8d-2aad-404d-b5ac-118b98be374e))
     (instances
-      (project "pico-hat-stepper"
+      (project "stepper-controller"
         (path "/df2b2e89-e055-4140-95de-f1df723db034/c1dd8f61-494c-402f-8e59-08309c64fc3f"
           (reference "C20") (unit 1)
         )
@@ -1414,7 +1414,7 @@
     (pin "1" (uuid 318abb3a-7a76-46fc-9446-3b7818734fa7))
     (pin "3" (uuid 5b7a16ab-e08f-45fe-9a73-bcdceb877e69))
     (instances
-      (project "pico-hat-stepper"
+      (project "stepper-controller"
         (path "/df2b2e89-e055-4140-95de-f1df723db034/c1dd8f61-494c-402f-8e59-08309c64fc3f"
           (reference "J3") (unit 1)
         )
@@ -1458,7 +1458,7 @@
     (pin "2" (uuid fbf3c077-2c01-4fe5-a50a-bd548cc5ea56))
     (pin "1" (uuid 394f7b56-c232-468d-a42a-36b8d6d0ad86))
     (instances
-      (project "pico-hat-stepper"
+      (project "stepper-controller"
         (path "/df2b2e89-e055-4140-95de-f1df723db034/c1dd8f61-494c-402f-8e59-08309c64fc3f"
           (reference "R18") (unit 1)
         )
@@ -1502,7 +1502,7 @@
     (pin "1" (uuid 8de4a38b-df35-4b65-bef2-afed07eca5a8))
     (pin "2" (uuid 0d8ae082-6f3a-47b8-be88-9f6d06f77146))
     (instances
-      (project "pico-hat-stepper"
+      (project "stepper-controller"
         (path "/df2b2e89-e055-4140-95de-f1df723db034/c1dd8f61-494c-402f-8e59-08309c64fc3f"
           (reference "D2") (unit 1)
         )
@@ -1546,7 +1546,7 @@
     (pin "2" (uuid f0e08c9d-7f70-4ca7-bda9-86dd1c11f0ed))
     (pin "1" (uuid dd429195-8253-4baf-bbfb-9f474a04c014))
     (instances
-      (project "pico-hat-stepper"
+      (project "stepper-controller"
         (path "/df2b2e89-e055-4140-95de-f1df723db034/c1dd8f61-494c-402f-8e59-08309c64fc3f"
           (reference "C2") (unit 1)
         )
@@ -1587,7 +1587,7 @@
     (pin "2" (uuid a799f50d-69dc-4679-ad9a-c647fca5381c))
     (pin "1" (uuid 97542bf3-33b5-405a-934d-74e02cc8bb55))
     (instances
-      (project "pico-hat-stepper"
+      (project "stepper-controller"
         (path "/df2b2e89-e055-4140-95de-f1df723db034/c1dd8f61-494c-402f-8e59-08309c64fc3f"
           (reference "J2") (unit 1)
         )
@@ -1614,7 +1614,7 @@
     (pin "1" (uuid 3beec4d4-a8fe-4456-be4b-2ce34738b52f))
     (pin "3" (uuid a72cd9be-239e-4b07-9ed0-da6c6fa6f5df))
     (instances
-      (project "pico-hat-stepper"
+      (project "stepper-controller"
         (path "/df2b2e89-e055-4140-95de-f1df723db034/c1dd8f61-494c-402f-8e59-08309c64fc3f"
           (reference "J1") (unit 1)
         )
@@ -1666,7 +1666,7 @@
     (pin "5" (uuid 410e6c8c-a8d9-4880-bccc-9c1dd5050525))
     (pin "3" (uuid 8ba8ff33-cc92-47c7-85e9-a890161ea36e))
     (instances
-      (project "pico-hat-stepper"
+      (project "stepper-controller"
         (path "/df2b2e89-e055-4140-95de-f1df723db034/c1dd8f61-494c-402f-8e59-08309c64fc3f"
           (reference "U1") (unit 1)
         )
@@ -1711,7 +1711,7 @@
     (pin "3" (uuid 49187e93-e349-433b-be6b-37186c1e6b36))
     (pin "1" (uuid a4d9d9c8-01a3-4c62-98a1-751b9b63b2b8))
     (instances
-      (project "pico-hat-stepper"
+      (project "stepper-controller"
         (path "/df2b2e89-e055-4140-95de-f1df723db034/c1dd8f61-494c-402f-8e59-08309c64fc3f"
           (reference "Q1") (unit 1)
         )
@@ -1755,7 +1755,7 @@
     (pin "1" (uuid be2e8750-0da5-404b-a6c7-d6868a15ad64))
     (pin "2" (uuid e62809a9-5568-4b72-a7d2-e41738f45401))
     (instances
-      (project "pico-hat-stepper"
+      (project "stepper-controller"
         (path "/df2b2e89-e055-4140-95de-f1df723db034/c1dd8f61-494c-402f-8e59-08309c64fc3f"
           (reference "R2") (unit 1)
         )
@@ -1799,7 +1799,7 @@
     (pin "1" (uuid f66e37ec-eb6e-428e-9fc1-50f6d55d23a0))
     (pin "2" (uuid b1520d90-d4aa-4ff7-8c00-f980fcb64176))
     (instances
-      (project "pico-hat-stepper"
+      (project "stepper-controller"
         (path "/df2b2e89-e055-4140-95de-f1df723db034/c1dd8f61-494c-402f-8e59-08309c64fc3f"
           (reference "C1") (unit 1)
         )
@@ -1843,7 +1843,7 @@
     (pin "1" (uuid a1e17de4-f2d3-4fee-8033-758da850e8f6))
     (pin "2" (uuid f5b82b2c-2c25-42c0-8db8-7f8c81145fce))
     (instances
-      (project "pico-hat-stepper"
+      (project "stepper-controller"
         (path "/df2b2e89-e055-4140-95de-f1df723db034/c1dd8f61-494c-402f-8e59-08309c64fc3f"
           (reference "D1") (unit 1)
         )
@@ -1887,7 +1887,7 @@
     (pin "2" (uuid 00f09492-5a7f-40fc-8428-adae7a0711b7))
     (pin "1" (uuid 3f088a89-4037-40d4-afe2-4c44ae559913))
     (instances
-      (project "pico-hat-stepper"
+      (project "stepper-controller"
         (path "/df2b2e89-e055-4140-95de-f1df723db034/c1dd8f61-494c-402f-8e59-08309c64fc3f"
           (reference "R1") (unit 1)
         )
