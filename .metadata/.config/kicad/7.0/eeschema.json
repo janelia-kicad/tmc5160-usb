@@ -9,14 +9,14 @@
     "sort_order": 0
   },
   "appearance": {
-    "color_theme": "_builtin_default",
+    "color_theme": "user",
     "default_font": "KiCad Font",
-    "edit_label_height": 520,
+    "edit_label_height": 480,
     "edit_label_visible_columns": "0 1 2 3 4 5 6 7",
-    "edit_label_width": 1025,
-    "edit_sheet_height": 389,
+    "edit_label_width": 985,
+    "edit_sheet_height": -1,
     "edit_sheet_visible_columns": "0 1 2 3 4 5 6 7",
-    "edit_sheet_width": 1039,
+    "edit_sheet_width": -1,
     "edit_symbol_height": 594,
     "edit_symbol_visible_columns": "0 1 2 3 4 5 6 7",
     "edit_symbol_width": 1126,
@@ -48,22 +48,22 @@
   "bom": {
     "plugins": [
       {
-        "command": "/gnu/store/pg8yqcbr1r67fwcyp97v36ilmglsi25z-python-3.9.9/bin/python3 \"/gnu/store/126jwnfjbl0kc91g4p094fiv4cfl5524-kicad-7.0.1/share/kicad/plugins/bom_csv_grouped_extra.py\" \"%I\" \"%O.csv\"",
+        "command": "",
         "name": "bom_csv_grouped_extra",
         "path": "bom_csv_grouped_extra.py"
       },
       {
-        "command": "/gnu/store/pg8yqcbr1r67fwcyp97v36ilmglsi25z-python-3.9.9/bin/python3 \"/gnu/store/126jwnfjbl0kc91g4p094fiv4cfl5524-kicad-7.0.1/share/kicad/plugins/bom_csv_grouped_by_value.py\" \"%I\" \"%O.csv\"",
+        "command": "",
         "name": "bom_csv_grouped_by_value",
         "path": "bom_csv_grouped_by_value.py"
       },
       {
-        "command": "/gnu/store/pg8yqcbr1r67fwcyp97v36ilmglsi25z-python-3.9.9/bin/python3 \"/gnu/store/j0915285midbd6yhvi3lvwshjrnh86zl-kicad-7.0.1/share/kicad/plugins/bom_csv_grouped_by_value_with_fp.py\" \"%I\" \"%O.csv\"",
+        "command": "",
         "name": "bom_csv_grouped_by_value_with_fp",
         "path": "bom_csv_grouped_by_value_with_fp.py"
       }
     ],
-    "selected_plugin": "bom_csv_grouped_extra"
+    "selected_plugin": ""
   },
   "color_picker": {
     "default_tab": 0
@@ -85,7 +85,7 @@
     "default_sheet_border_color": "rgba(0, 0, 0, 0.000)",
     "default_text_size": 50,
     "default_wire_thickness": 6,
-    "field_names": "(templatefields)",
+    "field_names": "",
     "junction_size_choice": 3,
     "junction_size_mult_list": [
       0.0,
@@ -103,15 +103,11 @@
   "field_editor": {
     "column_widths": {},
     "fields_group_by": {},
-    "fields_show": {
-      "Reference": true
-    }
+    "fields_show": {}
   },
   "find_replace": {
-    "find_history": [
-      "MOUNTING_HOLE_2.5"
-    ],
-    "find_string": "MOUNTING_HOLE_2.5",
+    "find_history": [],
+    "find_string": "",
     "match_case": false,
     "match_mode": 0,
     "replace_history": [],
@@ -133,8 +129,8 @@
   },
   "lib_tree": {
     "column_widths": {
-      "Description": 460,
-      "Item": 461
+      "Description": 301,
+      "Item": 300
     },
     "columns": [
       "Item",
@@ -171,18 +167,18 @@
     "export_comment7": false,
     "export_comment8": false,
     "export_comment9": false,
-    "export_company": true,
-    "export_date": true,
+    "export_company": false,
+    "export_date": false,
     "export_paper": false,
-    "export_revision": true,
-    "export_title": true
+    "export_revision": false,
+    "export_title": false
   },
   "plot": {
     "background_color": false,
     "color": true,
-    "color_theme": "solarized-light",
-    "format": 5,
-    "frame_reference": false,
+    "color_theme": "user",
+    "format": 0,
+    "frame_reference": true,
     "hpgl_origin": 0,
     "hpgl_paper_size": 0,
     "hpgl_pen_size": 0.5,
@@ -221,22 +217,21 @@
     }
   },
   "symbol_chooser": {
-    "height": 610,
+    "height": 713,
     "keep_symbol": false,
     "place_all_units": true,
     "sash_pos_h": 440,
-    "sash_pos_v": 460,
-    "width": 790
+    "sash_pos_v": 546,
+    "width": 780
   },
   "system": {
     "file_history": [
-      "/home/polidorop/Repositories/kicad/pico-hat-stepper/pico-hat-stepper/pico-hat-stepper.kicad_sch",
-      "/home/polidorop/Repositories/peter/wingbeat_detector/wingbeat_detector/wingbeat_detector.kicad_sch"
+      "/home/polidorop/Repositories/kicad/stepper-controller/stepper-controller/stepper-controller.kicad_sch"
     ],
     "first_run_shown": false,
     "last_imperial_units": 0,
     "last_metric_units": 1,
-    "last_symbol_lib_dir": "/home/polidorop/Downloads/BUK7D36_60EX/KiCADv6",
+    "last_symbol_lib_dir": "",
     "max_undo_items": 0,
     "never_show_rescue_dialog": false,
     "units": 0
@@ -254,19 +249,19 @@
       "last_size": 1,
       "line_width": 1.0,
       "min_spacing": 10.0,
-      "show": false,
+      "show": true,
       "snap": 0,
       "style": 0,
       "user_grid_x": "10 mil",
       "user_grid_y": "10 mil"
     },
-    "maximized": true,
+    "maximized": false,
     "mru_path": "",
-    "perspective": "layout2|name=InfoBar;caption=;state=131454;dir=1;layer=1;row=0;pos=0;prop=100000;bestw=20;besth=30;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=MainToolbar;caption=;state=139632;dir=1;layer=6;row=0;pos=0;prop=100000;bestw=1204;besth=34;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=MsgPanel;caption=;state=131452;dir=3;layer=6;row=0;pos=0;prop=100000;bestw=390;besth=38;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=SchematicHierarchy;caption=Schematic Hierarchy;state=2099148;dir=4;layer=3;row=0;pos=0;prop=100000;bestw=200;besth=200;minw=120;minh=60;maxw=-1;maxh=-1;floatx=252;floaty=70;floatw=200;floath=200|name=OptToolbar;caption=;state=139596;dir=4;layer=2;row=0;pos=0;prop=100000;bestw=34;besth=396;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=ToolsToolbar;caption=;state=139596;dir=2;layer=2;row=0;pos=0;prop=100000;bestw=34;besth=762;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=DrawFrame;caption=;state=1020;dir=5;layer=0;row=0;pos=0;prop=100000;bestw=390;besth=154;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|dock_size(1,6,0)=34|dock_size(3,6,0)=38|dock_size(4,2,0)=34|dock_size(2,2,0)=34|dock_size(5,0,0)=392|dock_size(4,3,0)=202|",
+    "perspective": "",
     "pos_x": 0,
-    "pos_y": 25,
-    "size_x": 1900,
-    "size_y": 1124,
+    "pos_y": 0,
+    "size_x": 0,
+    "size_y": 0,
     "zoom_factors": [
       0.05,
       0.07,
