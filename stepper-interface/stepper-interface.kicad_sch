@@ -6,7 +6,7 @@
 
   (title_block
     (title "stepper-interface")
-    (date "2024-04-17")
+    (date "2024-04-18")
     (rev "1.0")
     (company "Howard Hughes Medical Institute")
   )
@@ -303,10 +303,10 @@
     (stroke (width 0.1524) (type solid))
     (fill (color 0 0 0 0.0000))
     (uuid 69dff8eb-dcc1-4f17-9e1d-cf8103035e92)
-    (property "Sheetname" "pico-hat" (at 130.81 84.3784 0)
+    (property "Sheetname" "microcontroller" (at 130.81 84.3784 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
-    (property "Sheetfile" "pico-hat.kicad_sch" (at 130.81 100.9146 0)
+    (property "Sheetfile" "microcontroller.kicad_sch" (at 130.81 100.9146 0)
       (effects (font (size 1.27 1.27)) (justify left top))
     )
     (pin "GND" passive (at 130.81 90.17 180)
