@@ -6,7 +6,7 @@
 
   (paper "A4")
   (title_block
-    (title "stepper-controller")
+    (title "stepper-interface")
     (date "2024-04-17")
     (rev "1.0")
     (company "Howard Hughes Medical Institute")

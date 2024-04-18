@@ -390,7 +390,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "stepper-controller.kicad_pro",
+    "filename": "stepper-interface.kicad_pro",
     "version": 1
   },
   "net_settings": {

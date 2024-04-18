@@ -5,7 +5,7 @@
   (paper "A4")
 
   (title_block
-    (title "stepper-controller")
+    (title "stepper-interface")
     (date "2024-04-16")
     (rev "1.0")
     (company "Howard Hughes Medical Institute")
@@ -642,7 +642,7 @@
     (pin "17" (uuid 3ae73016-e8fb-4f61-b733-1ff968d72167))
     (pin "3" (uuid c3d383b1-e8d2-42ea-8eac-934222c0e4a6))
     (instances
-      (project "stepper-controller"
+      (project "stepper-interface"
         (path "/df2b2e89-e055-4140-95de-f1df723db034/69dff8eb-dcc1-4f17-9e1d-cf8103035e92"
           (reference "J5") (unit 1)
         )
@@ -704,7 +704,7 @@
     (pin "26" (uuid 0a750223-26d9-4ae0-b055-e52200be9d5b))
     (pin "22" (uuid bd333ee2-9eff-4a83-9c77-8ee178dff940))
     (instances
-      (project "stepper-controller"
+      (project "stepper-interface"
         (path "/df2b2e89-e055-4140-95de-f1df723db034/69dff8eb-dcc1-4f17-9e1d-cf8103035e92"
           (reference "J6") (unit 1)
         )
@@ -751,7 +751,7 @@
     (pin "2" (uuid da8ceabc-9bca-4cc3-a1b3-a8f5086b5c0e))
     (pin "1" (uuid 093f3922-b696-415c-8c66-4afd81157571))
     (instances
-      (project "stepper-controller"
+      (project "stepper-interface"
         (path "/df2b2e89-e055-4140-95de-f1df723db034/69dff8eb-dcc1-4f17-9e1d-cf8103035e92"
           (reference "D4") (unit 1)
         )

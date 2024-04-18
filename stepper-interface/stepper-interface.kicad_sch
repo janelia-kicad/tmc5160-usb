@@ -5,7 +5,7 @@
   (paper "A4")
 
   (title_block
-    (title "stepper-controller")
+    (title "stepper-interface")
     (date "2024-04-17")
     (rev "1.0")
     (company "Howard Hughes Medical Institute")
@@ -272,7 +272,7 @@
       (uuid 971a3653-aa7c-4ccc-b6e2-371c5acb1339)
     )
     (instances
-      (project "stepper-controller"
+      (project "stepper-interface"
         (path "/df2b2e89-e055-4140-95de-f1df723db034" (page "4"))
       )
     )
@@ -293,7 +293,7 @@
       (uuid 27cfdaec-c4e6-4a5e-aff6-ae19f93ba201)
     )
     (instances
-      (project "stepper-controller"
+      (project "stepper-interface"
         (path "/df2b2e89-e055-4140-95de-f1df723db034" (page "2"))
       )
     )
@@ -350,7 +350,7 @@
       (uuid df512252-6a3b-4cd8-b507-38b3af68823d)
     )
     (instances
-      (project "stepper-controller"
+      (project "stepper-interface"
         (path "/df2b2e89-e055-4140-95de-f1df723db034" (page "13"))
       )
     )
@@ -391,7 +391,7 @@
       (uuid 636461ad-aa18-4e9b-9b44-d3b8177b32ad)
     )
     (instances
-      (project "stepper-controller"
+      (project "stepper-interface"
         (path "/df2b2e89-e055-4140-95de-f1df723db034" (page "3"))
       )
     )

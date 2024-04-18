@@ -5,7 +5,7 @@
   (paper "A4")
 
   (title_block
-    (title "stepper-controller")
+    (title "stepper-interface")
     (date "2024-04-16")
     (rev "1.0")
     (company "Howard Hughes Medical Institute")
@@ -1162,7 +1162,7 @@
     (pin "1" (uuid 1682cf35-8e92-4e64-82a8-ed47d08d9b12))
     (pin "3" (uuid 6638d6df-de1d-4aa7-93df-cd5d0f098afe))
     (instances
-      (project "stepper-controller"
+      (project "stepper-interface"
         (path "/df2b2e89-e055-4140-95de-f1df723db034/c1dd8f61-494c-402f-8e59-08309c64fc3f"
           (reference "J2") (unit 1)
         )
@@ -1214,7 +1214,7 @@
     (pin "5" (uuid 1e7176b1-5a23-4eae-8de5-a58ddced259f))
     (pin "3" (uuid 121d4981-0b8a-4201-b0b9-426e6e328f50))
     (instances
-      (project "stepper-controller"
+      (project "stepper-interface"
         (path "/df2b2e89-e055-4140-95de-f1df723db034/c1dd8f61-494c-402f-8e59-08309c64fc3f"
           (reference "U3") (unit 1)
         )
@@ -1239,7 +1239,7 @@
     )
     (pin "1" (uuid 226201d2-6b69-48ea-a672-6fbe161ff971))
     (instances
-      (project "stepper-controller"
+      (project "stepper-interface"
         (path "/df2b2e89-e055-4140-95de-f1df723db034/c1dd8f61-494c-402f-8e59-08309c64fc3f"
           (reference "#FLG02") (unit 1)
         )
@@ -1283,7 +1283,7 @@
     (pin "2" (uuid f9dfe262-8abf-40a9-b217-5a8cf9a6d774))
     (pin "1" (uuid 72d9779f-6dab-46e9-969e-5af44ddf2432))
     (instances
-      (project "stepper-controller"
+      (project "stepper-interface"
         (path "/df2b2e89-e055-4140-95de-f1df723db034/c1dd8f61-494c-402f-8e59-08309c64fc3f"
           (reference "C4") (unit 1)
         )
@@ -1335,7 +1335,7 @@
     (pin "5" (uuid 0be049b7-dbdd-4e56-94a1-232db50620c7))
     (pin "3" (uuid af54b830-a62f-43be-bccb-9dbae5e65fe1))
     (instances
-      (project "stepper-controller"
+      (project "stepper-interface"
         (path "/df2b2e89-e055-4140-95de-f1df723db034/c1dd8f61-494c-402f-8e59-08309c64fc3f"
           (reference "U1") (unit 1)
         )
@@ -1379,7 +1379,7 @@
     (pin "2" (uuid a1b6bb34-aaab-4902-b359-5ea4e626e38b))
     (pin "1" (uuid 6aa92f32-3f93-4fd3-8e98-ca5b4a8f9ca7))
     (instances
-      (project "stepper-controller"
+      (project "stepper-interface"
         (path "/df2b2e89-e055-4140-95de-f1df723db034/c1dd8f61-494c-402f-8e59-08309c64fc3f"
           (reference "C3") (unit 1)
         )
@@ -1423,7 +1423,7 @@
     (pin "1" (uuid 8de4a38b-df35-4b65-bef2-afed07eca5a8))
     (pin "2" (uuid 0d8ae082-6f3a-47b8-be88-9f6d06f77146))
     (instances
-      (project "stepper-controller"
+      (project "stepper-interface"
         (path "/df2b2e89-e055-4140-95de-f1df723db034/c1dd8f61-494c-402f-8e59-08309c64fc3f"
           (reference "D2") (unit 1)
         )
@@ -1467,7 +1467,7 @@
     (pin "2" (uuid f0e08c9d-7f70-4ca7-bda9-86dd1c11f0ed))
     (pin "1" (uuid dd429195-8253-4baf-bbfb-9f474a04c014))
     (instances
-      (project "stepper-controller"
+      (project "stepper-interface"
         (path "/df2b2e89-e055-4140-95de-f1df723db034/c1dd8f61-494c-402f-8e59-08309c64fc3f"
           (reference "C5") (unit 1)
         )
@@ -1508,7 +1508,7 @@
     (pin "2" (uuid a799f50d-69dc-4679-ad9a-c647fca5381c))
     (pin "1" (uuid 97542bf3-33b5-405a-934d-74e02cc8bb55))
     (instances
-      (project "stepper-controller"
+      (project "stepper-interface"
         (path "/df2b2e89-e055-4140-95de-f1df723db034/c1dd8f61-494c-402f-8e59-08309c64fc3f"
           (reference "J1") (unit 1)
         )
@@ -1552,7 +1552,7 @@
     (pin "2" (uuid 611bd494-91cd-4e61-a1a6-47e7b42d153f))
     (pin "1" (uuid ae99899e-1458-46fb-a395-835960b2b9d1))
     (instances
-      (project "stepper-controller"
+      (project "stepper-interface"
         (path "/df2b2e89-e055-4140-95de-f1df723db034/c1dd8f61-494c-402f-8e59-08309c64fc3f"
           (reference "C1") (unit 1)
         )
@@ -1604,7 +1604,7 @@
     (pin "5" (uuid 410e6c8c-a8d9-4880-bccc-9c1dd5050525))
     (pin "3" (uuid 8ba8ff33-cc92-47c7-85e9-a890161ea36e))
     (instances
-      (project "stepper-controller"
+      (project "stepper-interface"
         (path "/df2b2e89-e055-4140-95de-f1df723db034/c1dd8f61-494c-402f-8e59-08309c64fc3f"
           (reference "U2") (unit 1)
         )
@@ -1648,7 +1648,7 @@
     (pin "1" (uuid be2e8750-0da5-404b-a6c7-d6868a15ad64))
     (pin "2" (uuid e62809a9-5568-4b72-a7d2-e41738f45401))
     (instances
-      (project "stepper-controller"
+      (project "stepper-interface"
         (path "/df2b2e89-e055-4140-95de-f1df723db034/c1dd8f61-494c-402f-8e59-08309c64fc3f"
           (reference "R2") (unit 1)
         )
@@ -1673,7 +1673,7 @@
     )
     (pin "1" (uuid 707cb9b5-aa34-4f5a-9c55-d515f527e126))
     (instances
-      (project "stepper-controller"
+      (project "stepper-interface"
         (path "/df2b2e89-e055-4140-95de-f1df723db034/c1dd8f61-494c-402f-8e59-08309c64fc3f"
           (reference "#FLG01") (unit 1)
         )
@@ -1717,7 +1717,7 @@
     (pin "1" (uuid a1e17de4-f2d3-4fee-8033-758da850e8f6))
     (pin "2" (uuid f5b82b2c-2c25-42c0-8db8-7f8c81145fce))
     (instances
-      (project "stepper-controller"
+      (project "stepper-interface"
         (path "/df2b2e89-e055-4140-95de-f1df723db034/c1dd8f61-494c-402f-8e59-08309c64fc3f"
           (reference "D1") (unit 1)
         )
@@ -1761,7 +1761,7 @@
     (pin "2" (uuid 00f09492-5a7f-40fc-8428-adae7a0711b7))
     (pin "1" (uuid 3f088a89-4037-40d4-afe2-4c44ae559913))
     (instances
-      (project "stepper-controller"
+      (project "stepper-interface"
         (path "/df2b2e89-e055-4140-95de-f1df723db034/c1dd8f61-494c-402f-8e59-08309c64fc3f"
           (reference "R1") (unit 1)
         )
@@ -1805,7 +1805,7 @@
     (pin "2" (uuid d8d2cce7-c0a0-4311-9aed-f775e7ef1091))
     (pin "1" (uuid bc6f0524-900e-451f-a101-40c799e638b1))
     (instances
-      (project "stepper-controller"
+      (project "stepper-interface"
         (path "/df2b2e89-e055-4140-95de-f1df723db034/c1dd8f61-494c-402f-8e59-08309c64fc3f"
           (reference "C6") (unit 1)
         )
@@ -1849,7 +1849,7 @@
     (pin "2" (uuid 6e504270-57d2-476b-a4f6-6a6222d96a51))
     (pin "1" (uuid 5f515e00-6523-4f8f-8c53-f8f1d30f6043))
     (instances
-      (project "stepper-controller"
+      (project "stepper-interface"
         (path "/df2b2e89-e055-4140-95de-f1df723db034/c1dd8f61-494c-402f-8e59-08309c64fc3f"
           (reference "C2") (unit 1)
         )
