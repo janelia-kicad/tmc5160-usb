@@ -7,7 +7,7 @@
   (paper "A4")
   (title_block
     (title "stepper-interface")
-    (date "2024-04-17")
+    (date "2024-04-22")
     (rev "1.0")
     (company "Howard Hughes Medical Institute")
   )
@@ -224,7 +224,7 @@
 
   (footprint "Janelia:C_0805_2012Metric" (layer "F.Cu")
     (tstamp 06c402d6-bd35-4775-a67b-89d2aba78f1c)
-    (at 203.17 32.275)
+    (at 244.32 18.025)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Description" "CAP CER 1UF 100V X7S")
@@ -283,7 +283,7 @@
 
   (footprint "Janelia:MountingHole_3.2mm_M3_Pad" (layer "F.Cu")
     (tstamp 06e621ec-8c92-41ff-a743-a937482407e5)
-    (at 241.4 106.6)
+    (at 167.9 117.1)
     (descr "Mounting Hole 3.2mm, M3")
     (tags "mounting hole 3.2mm m3")
     (property "Sheetfile" "assembly.kicad_sch")
@@ -315,7 +315,7 @@
 
   (footprint "Janelia:DRB0008B" (layer "F.Cu")
     (tstamp 12641150-aa39-4fc4-af7b-97db70270015)
-    (at 240 32.275)
+    (at 281.15 18.025)
     (tags "TPS7A1633DRBT ")
     (property "Description" "IC REG LINEAR 3.3V 100MA")
     (property "Manufacturer" "Texas Instruments")
@@ -388,7 +388,7 @@
 
   (footprint "Janelia:MountingHole_3.2mm_M3_Pad" (layer "F.Cu")
     (tstamp 15c57e0c-cbf4-4c90-a449-cea4758904d1)
-    (at 121.4 141.6)
+    (at 136.9 117.1)
     (descr "Mounting Hole 3.2mm, M3")
     (tags "mounting hole 3.2mm m3")
     (property "Sheetfile" "assembly.kicad_sch")
@@ -420,7 +420,7 @@
 
   (footprint "Janelia:R_0402_1005Metric" (layer "F.Cu")
     (tstamp 1e80f9ad-c36d-44e3-9b21-e8311f9f5925)
-    (at 222.2 44.975)
+    (at 263.35 30.725)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Description" "RES SMD 64.9 OHM 1% 1/10W")
@@ -479,7 +479,7 @@
 
   (footprint "Janelia:QFN-56-1EP_7x7mm_P0.4mm_EP3.2x3.2mm" (layer "F.Cu")
     (tstamp 2110f991-dc93-4ce9-86c4-42ee6531d70e)
-    (at 205.9625 124)
+    (at 229.9625 141)
     (descr "QFN, 56 Pin (https://datasheets.raspberrypi.com/rp2040/rp2040-datasheet.pdf#page=634), generated with kicad-footprint-generator ipc_noLead_generator.py")
     (tags "QFN NoLead")
     (property "Description" "IC MCU 32BIT EXT MEM")
@@ -676,7 +676,7 @@
 
   (footprint "Janelia:R_0402_1005Metric" (layer "F.Cu")
     (tstamp 2594e2d0-9586-4701-81bc-e4a4f7b76069)
-    (at 228.57 44.975)
+    (at 269.72 30.725)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Description" "RES SMD 15 OHM 1% 1/10W")
@@ -735,7 +735,7 @@
 
   (footprint "Janelia:C_0402_1005Metric" (layer "F.Cu")
     (tstamp 31c76e0a-7ead-4bc1-b0ae-585bbf253476)
-    (at 143.55 139.83)
+    (at 100.55 160.83)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Description" "CAP CER 0.22UF 25V X6S")
@@ -794,7 +794,7 @@
 
   (footprint "Janelia:C_0402_1005Metric" (layer "F.Cu")
     (tstamp 32407892-104f-4b92-b7b4-b9bf6a85a55f)
-    (at 143.55 141.8)
+    (at 100.55 162.8)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Description" "CAP CER 0.22UF 25V X6S")
@@ -853,7 +853,7 @@
 
   (footprint "Janelia:C_0402_1005Metric" (layer "F.Cu")
     (tstamp 3a188a87-f9c7-4a38-b983-0ca0b9495163)
-    (at 137.81 141.8)
+    (at 94.81 162.8)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Description" "CAP CER 0.1UF 100V X5R")
@@ -912,7 +912,7 @@
 
   (footprint "Janelia:Molex_Pico-SPOX-87438_1x02-P1.5MM_Horizontal" (layer "F.Cu")
     (tstamp 41b721cb-5400-43f4-bef9-b338b43b2b18)
-    (at 125.4 53.6 90)
+    (at 103.85 26.5 90)
     (property "Description" "CONN HEADER SMD R/A 2POS 1.5MM")
     (property "Manufactuer Part Number" "0874380243")
     (property "Manufacturer" "Molex")
@@ -1013,10 +1013,10 @@
       (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
       (polygon
         (pts
-          (xy 123.675 53.275)
-          (xy 123.675 52.425)
-          (xy 124.475 52.425)
-          (xy 124.475 53.275)
+          (xy 102.125 26.175)
+          (xy 102.125 25.325)
+          (xy 102.925 25.325)
+          (xy 102.925 26.175)
         )
       )
     )
@@ -1027,10 +1027,10 @@
       (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
       (polygon
         (pts
-          (xy 123.675 54.775)
-          (xy 123.675 53.925)
-          (xy 124.475 53.925)
-          (xy 124.475 54.775)
+          (xy 102.125 27.675)
+          (xy 102.125 26.825)
+          (xy 102.925 26.825)
+          (xy 102.925 27.675)
         )
       )
     )
@@ -1048,7 +1048,7 @@
 
   (footprint "Janelia:BUK7D3660EX_NEX" (layer "F.Cu")
     (tstamp 43ed11a2-b1e3-4b0f-99ec-4d7dca649afd)
-    (at 54.3459 74.950001)
+    (at 32.7959 47.850001)
     (tags "BUK7D36-60EX ")
     (property "Description" "MOSFET N-CH 60V 5.5A/14A")
     (property "Manufacturer" "Nexperia USA Inc.")
@@ -1143,7 +1143,7 @@
 
   (footprint "Janelia:BUK7D3660EX_NEX" (layer "F.Cu")
     (tstamp 44bc2ebe-70bb-4489-b78b-a3402b433e29)
-    (at 194.28 29.735 180)
+    (at 235.43 15.485 180)
     (tags "BUK7D36-60EX ")
     (property "Description" "MOSFET N-CH 60V 5.5A/14A")
     (property "Manufacturer" "Nexperia USA Inc.")
@@ -1238,7 +1238,7 @@
 
   (footprint "Janelia:R_0402_1005Metric" (layer "F.Cu")
     (tstamp 458ff503-4e8d-4cc5-a3e8-88de7434ca6f)
-    (at 228.57 33.235)
+    (at 269.72 18.985)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Description" "RES 47 OHM 1% 1/16W")
@@ -1297,7 +1297,7 @@
 
   (footprint "Janelia:C_0805_2012Metric" (layer "F.Cu")
     (tstamp 46b0f4f1-bb26-4af3-b3cc-542779d8fb80)
-    (at 116.4 118.6 180)
+    (at 73.4 139.6 180)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Description" "CAP CER 1UF 100V X7S")
@@ -1356,7 +1356,7 @@
 
   (footprint "Janelia:R_0402_1005Metric" (layer "F.Cu")
     (tstamp 47aac99e-4c6b-4a95-b98f-e34aac5f44a4)
-    (at 160.98 137.62)
+    (at 117.98 158.62)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Description" "RES SMD 15 OHM 1% 1/10W")
@@ -1415,7 +1415,7 @@
 
   (footprint "Janelia:D_SMA" (layer "F.Cu")
     (tstamp 4d85673e-661d-49f8-b220-6b3113063e3f)
-    (at 149.055 139.15)
+    (at 106.055 160.15)
     (descr "Diode SMA (DO-214AC)")
     (tags "Diode SMA (DO-214AC)")
     (property "Description" "TVS DIODE 51VWM 82.4VC")
@@ -1489,7 +1489,7 @@
 
   (footprint "Janelia:C_0402_1005Metric" (layer "F.Cu")
     (tstamp 4eaa024b-74a9-4453-ad4e-220fd2af7ff8)
-    (at 164.1 129.65)
+    (at 121.1 150.65)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Description" "CAP CER 0.1UF 100V X5R")
@@ -1548,7 +1548,7 @@
 
   (footprint "Janelia:C_0805_2012Metric" (layer "F.Cu")
     (tstamp 4f51c663-6cac-46e8-a7f3-c4c8e4aa18e7)
-    (at 48.0118 69.560701)
+    (at 26.4618 42.460701)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Description" "CAP CER 2.2UF 100V X7T")
@@ -1607,7 +1607,7 @@
 
   (footprint "Janelia:C_0402_1005Metric" (layer "F.Cu")
     (tstamp 57de3bec-bd9b-4755-8f1e-6999bcbe47af)
-    (at 196.82 41.165)
+    (at 237.97 26.915)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Description" "CAP CER 10UF 6.3V X5R")
@@ -1666,7 +1666,7 @@
 
   (footprint "Janelia:C_0402_1005Metric" (layer "F.Cu")
     (tstamp 5c19e0eb-f6d9-4882-a164-99c29137c222)
-    (at 140.68 141.8)
+    (at 97.68 162.8)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Description" "CAP CER 0.1UF 100V X5R")
@@ -1725,7 +1725,7 @@
 
   (footprint "Janelia:R_0402_1005Metric" (layer "F.Cu")
     (tstamp 5e3595ab-4d3b-41d8-891d-5fbf2b6fc294)
-    (at 165.89 145.6)
+    (at 122.89 166.6)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Description" "RES SMD 15 OHM 1% 1/10W")
@@ -1784,7 +1784,7 @@
 
   (footprint "Janelia:BUK7D3660EX_NEX" (layer "F.Cu")
     (tstamp 61e3f29f-67f6-4913-b386-13a24158d237)
-    (at 222.9341 38.1143)
+    (at 264.0841 23.8643)
     (tags "BUK7D36-60EX ")
     (property "Description" "MOSFET N-CH 60V 5.5A/14A")
     (property "Manufacturer" "Nexperia USA Inc.")
@@ -1879,7 +1879,7 @@
 
   (footprint "Janelia:C_0402_1005Metric" (layer "F.Cu")
     (tstamp 66a74ca0-1e0c-4cb4-9830-06dbd4bd51a3)
-    (at 140.68 139.83)
+    (at 97.68 160.83)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Description" "CAP CER 0.1UF 100V X5R")
@@ -1938,7 +1938,7 @@
 
   (footprint "Janelia:DRB0008B" (layer "F.Cu")
     (tstamp 67429de2-e99a-4238-bf10-051f5a245534)
-    (at 116.4 122.6)
+    (at 73.4 143.6)
     (tags "TPS7A1633DRBT ")
     (property "Description" "IC REG LINEAR 3.3V 100MA")
     (property "Manufacturer" "Texas Instruments")
@@ -2011,7 +2011,7 @@
 
   (footprint "Janelia:C_0402_1005Metric" (layer "F.Cu")
     (tstamp 68241285-ad3e-460f-9bba-6ebd6d9104fa)
-    (at 140.68 143.77)
+    (at 97.68 164.77)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Description" "CAP CER 0.47UF 35V X5R")
@@ -2070,7 +2070,7 @@
 
   (footprint "Janelia:R_0402_1005Metric" (layer "F.Cu")
     (tstamp 6aeeff46-f397-4635-ab89-83abec12c30b)
-    (at 222.2 33.235)
+    (at 263.35 18.985)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Description" "RES 47 OHM 1% 1/16W")
@@ -2129,7 +2129,7 @@
 
   (footprint "Janelia:C_0805_2012Metric" (layer "F.Cu")
     (tstamp 6c3cfeb1-5ad1-4b77-8d16-bf7023fde5b7)
-    (at 113.4 122.6 -90)
+    (at 70.4 143.6 -90)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Description" "CAP CER 1UF 100V X7S")
@@ -2188,7 +2188,7 @@
 
   (footprint "Janelia:CP_Elec_EEEFK1J221AV" (layer "F.Cu")
     (tstamp 71ddfeda-4a28-4e00-abf3-1a9be25caffc)
-    (at 54.5118 57.520701)
+    (at 32.9618 30.420701)
     (property "Description" "CAP ALUM 220UF 20% 63V SMD")
     (property "Manufacturer" "Panasonic Electronic Components")
     (property "Manufacturer Part Number" "EEE-FK1J221AV")
@@ -2386,7 +2386,7 @@
 
   (footprint "Janelia:21-100593_ADI" (layer "F.Cu")
     (tstamp 72e21d7c-9d58-454f-901a-e64ad417c5ef)
-    (at 229.3041 30.3643)
+    (at 270.4541 16.1143)
     (tags "TMC5160A-WA ")
     (property "Description" "IC MTR DRVR BIPOLAR 8-60V")
     (property "Manufacturer" "Analog Devices Inc.")
@@ -3094,7 +3094,7 @@
 
   (footprint "Janelia:R_0402_1005Metric" (layer "F.Cu")
     (tstamp 738b2bbc-37f9-4a48-b7a3-fbc8c833ff0f)
-    (at 165.89 141.61)
+    (at 122.89 162.61)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Description" "RES SMD 15 OHM 1% 1/10W")
@@ -3153,7 +3153,7 @@
 
   (footprint "Janelia:BUK7D3660EX_NEX" (layer "F.Cu")
     (tstamp 75739abd-d39b-4198-858a-b26ba41de2b5)
-    (at 158.4 78.6)
+    (at 199.55 64.35)
     (tags "BUK7D36-60EX ")
     (property "Description" "MOSFET N-CH 60V 5.5A/14A")
     (property "Manufacturer" "Nexperia USA Inc.")
@@ -3248,7 +3248,7 @@
 
   (footprint "Janelia:JST_SUR_BM03B-SURS-TF_1x03-1MP_P0.80mm_Vertical" (layer "F.Cu")
     (tstamp 7630dfec-b12c-4c1b-a77d-ed94f861bbf3)
-    (at 110.4 81.6 -90)
+    (at 88.85 54.5 -90)
     (descr "JST SUR series connector, BM03B-SURS-TF (http://www.jst-mfg.com/product/pdf/eng/eSUR.pdf), generated with kicad-footprint-generator")
     (tags "connector JST SUR vertical")
     (property "Description" "CONN HEADER SMD 3POS 0.8MM")
@@ -3324,7 +3324,7 @@
 
   (footprint "Janelia:R_0402_1005Metric" (layer "F.Cu")
     (tstamp 7d80f072-8d44-44b3-8c50-733dd28aa103)
-    (at 160.98 145.6)
+    (at 117.98 166.6)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Description" "RES SMD 15 OHM 1% 1/10W")
@@ -3383,7 +3383,7 @@
 
   (footprint "Janelia:C_0603_1608Metric" (layer "F.Cu")
     (tstamp 8120d57b-9d53-4db6-bf83-48e57e2b904d)
-    (at 137.81 143.77)
+    (at 94.81 164.77)
     (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Description" "CAP CER 0.022UF 100V X7R")
@@ -3442,7 +3442,7 @@
 
   (footprint "Janelia:R_0402_1005Metric" (layer "F.Cu")
     (tstamp 81d9722b-e3dd-4745-b288-788e769dac5b)
-    (at 160.98 133.63)
+    (at 117.98 154.63)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Description" "RES SMD 15 OHM 1% 1/10W")
@@ -3501,7 +3501,7 @@
 
   (footprint "Janelia:BUK7D3660EX_NEX" (layer "F.Cu")
     (tstamp 82deedc1-491e-4857-89d4-d4e8ecaad260)
-    (at 216.5641 38.1143)
+    (at 257.7141 23.8643)
     (tags "BUK7D36-60EX ")
     (property "Description" "MOSFET N-CH 60V 5.5A/14A")
     (property "Manufacturer" "Nexperia USA Inc.")
@@ -3596,7 +3596,7 @@
 
   (footprint "Janelia:R_0402_1005Metric" (layer "F.Cu")
     (tstamp 831b5299-935e-44fc-8fd4-d636efd3c384)
-    (at 228.57 40.985)
+    (at 269.72 26.735)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Description" "RES SMD 2.2 OHM 5% 1/10W")
@@ -3655,7 +3655,7 @@
 
   (footprint "Janelia:LED_0402_1005Metric" (layer "F.Cu")
     (tstamp 88e9932c-4066-4a15-a23e-138f676c9129)
-    (at 143.4 79.6 90)
+    (at 184.55 65.35 90)
     (descr "LED SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags "LED")
     (property "Description" "")
@@ -3717,7 +3717,7 @@
 
   (footprint "Janelia:R_0402_1005Metric" (layer "F.Cu")
     (tstamp 8a3d3c26-daa3-4092-bed8-af85e398e6fa)
-    (at 222.2 40.985)
+    (at 263.35 26.735)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Description" "RES 47 OHM 1% 1/16W")
@@ -3776,7 +3776,7 @@
 
   (footprint "Janelia:C_0402_1005Metric" (layer "F.Cu")
     (tstamp 8ae64cce-7da2-4778-ab1e-c12ef08910df)
-    (at 137.81 139.83)
+    (at 94.81 160.83)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Description" "CAP CER 10UF 6.3V X5R")
@@ -3835,7 +3835,7 @@
 
   (footprint "Janelia:C_0402_1005Metric" (layer "F.Cu")
     (tstamp 8d690500-7c5a-4f7e-bda3-8e0af3eeca53)
-    (at 143.55 137.86)
+    (at 100.55 158.86)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Description" "CAP CER 0.22UF 25V X6S")
@@ -3894,7 +3894,7 @@
 
   (footprint "Janelia:MountingHole_3.2mm_M3_Pad" (layer "F.Cu")
     (tstamp 95957675-5b74-4cc4-aa2b-ccb6414c551b)
-    (at 178.4 63.6)
+    (at 167.9 86.1)
     (descr "Mounting Hole 3.2mm, M3")
     (tags "mounting hole 3.2mm m3")
     (property "Sheetfile" "assembly.kicad_sch")
@@ -3926,7 +3926,7 @@
 
   (footprint "Janelia:C_0402_1005Metric" (layer "F.Cu")
     (tstamp 97605d61-8a8e-4b5d-ae29-8e382311b709)
-    (at 155.3 141.39)
+    (at 112.3 162.39)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Description" "CAP CER 2.2UF 35V X5R")
@@ -3984,7 +3984,7 @@
 
   (footprint "Janelia:Molex_Pico-Clasp-501568_1x02_P1MM_Horizontal" (layer "F.Cu")
     (tstamp 9abcad1e-a8d4-49fc-bfd0-b2977aeb3af2)
-    (at 101.4 136.6 90)
+    (at 58.4 157.6 90)
     (property "Description" "CONN HEADER SMD R/A 2POS 1MM")
     (property "Manufactuer Part Number" "5015680207")
     (property "Manufacturer" "Molex")
@@ -4089,26 +4089,26 @@
       (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
       (polygon
         (pts
-          (xy 101.845 135.25)
-          (xy 99 135.25)
-          (xy 99 135.795)
-          (xy 99.605 135.795)
-          (xy 99.605 136.405)
-          (xy 99 136.405)
-          (xy 99 136.795)
-          (xy 99.605 136.795)
-          (xy 99.605 137.405)
-          (xy 99 137.405)
-          (xy 99 137.95)
-          (xy 101.845 137.95)
-          (xy 101.845 137.795)
-          (xy 103.655 137.795)
-          (xy 103.655 137.95)
-          (xy 104.65 137.95)
-          (xy 104.65 135.25)
-          (xy 103.655 135.25)
-          (xy 103.655 135.405)
-          (xy 101.845 135.405)
+          (xy 58.845 156.25)
+          (xy 56 156.25)
+          (xy 56 156.795)
+          (xy 56.605 156.795)
+          (xy 56.605 157.405)
+          (xy 56 157.405)
+          (xy 56 157.795)
+          (xy 56.605 157.795)
+          (xy 56.605 158.405)
+          (xy 56 158.405)
+          (xy 56 158.95)
+          (xy 58.845 158.95)
+          (xy 58.845 158.795)
+          (xy 60.655 158.795)
+          (xy 60.655 158.95)
+          (xy 61.65 158.95)
+          (xy 61.65 156.25)
+          (xy 60.655 156.25)
+          (xy 60.655 156.405)
+          (xy 58.845 156.405)
         )
       )
     )
@@ -4126,7 +4126,7 @@
 
   (footprint "Janelia:Molex_Pico-SPOX-87438_1x04-P1.5mm_Horizontal" (layer "F.Cu")
     (tstamp a59f276f-3274-40e6-90ed-3511b35bcfbc)
-    (at 218.4 82.6 90)
+    (at 259.55 68.35 90)
     (property "Description" "CONN HEADER SMD R/A 4POS 1.5MM")
     (property "Manufacturer" "Molex")
     (property "Manufacturer Part Number" "0874380443")
@@ -4269,10 +4269,10 @@
       (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
       (polygon
         (pts
-          (xy 216.675 80.775)
-          (xy 216.675 79.925)
-          (xy 217.475 79.925)
-          (xy 217.475 80.775)
+          (xy 257.825 66.525)
+          (xy 257.825 65.675)
+          (xy 258.625 65.675)
+          (xy 258.625 66.525)
         )
       )
     )
@@ -4283,10 +4283,10 @@
       (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
       (polygon
         (pts
-          (xy 216.675 82.275)
-          (xy 216.675 81.425)
-          (xy 217.475 81.425)
-          (xy 217.475 82.275)
+          (xy 257.825 68.025)
+          (xy 257.825 67.175)
+          (xy 258.625 67.175)
+          (xy 258.625 68.025)
         )
       )
     )
@@ -4297,10 +4297,10 @@
       (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
       (polygon
         (pts
-          (xy 216.675 83.775)
-          (xy 216.675 82.925)
-          (xy 217.475 82.925)
-          (xy 217.475 83.775)
+          (xy 257.825 69.525)
+          (xy 257.825 68.675)
+          (xy 258.625 68.675)
+          (xy 258.625 69.525)
         )
       )
     )
@@ -4311,10 +4311,10 @@
       (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
       (polygon
         (pts
-          (xy 216.675 85.275)
-          (xy 216.675 84.425)
-          (xy 217.475 84.425)
-          (xy 217.475 85.275)
+          (xy 257.825 71.025)
+          (xy 257.825 70.175)
+          (xy 258.625 70.175)
+          (xy 258.625 71.025)
         )
       )
     )
@@ -4332,7 +4332,7 @@
 
   (footprint "Janelia:MountingHole_3.2mm_M3_Pad" (layer "F.Cu")
     (tstamp aff57614-b73e-42bd-a31f-d1687b484b51)
-    (at 140.4 58.6)
+    (at 136.9 86.1)
     (descr "Mounting Hole 3.2mm, M3")
     (tags "mounting hole 3.2mm m3")
     (property "Sheetfile" "assembly.kicad_sch")
@@ -4364,7 +4364,7 @@
 
   (footprint "Janelia:R_0402_1005Metric" (layer "F.Cu")
     (tstamp b05a531e-852b-455e-a437-e12beb52ecd1)
-    (at 160.98 141.61)
+    (at 117.98 162.61)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Description" "RES SMD 15 OHM 1% 1/10W")
@@ -4423,7 +4423,7 @@
 
   (footprint "Janelia:C_0402_1005Metric" (layer "F.Cu")
     (tstamp b71d07d2-c77d-4d52-9419-8c56310530e7)
-    (at 155.3 138.38)
+    (at 112.3 159.38)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Description" "CAP CER 0.22UF 25V X6S")
@@ -4513,7 +4513,7 @@
 
   (footprint "Janelia:R_1206_3216Metric" (layer "F.Cu")
     (tstamp b86df51f-d09f-456d-bb8b-6a0a5d3b843a)
-    (at 147.79 143.07)
+    (at 104.79 164.07)
     (descr "Resistor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Description" "RES 0.15 OHM 1% 1W")
@@ -4572,7 +4572,7 @@
 
   (footprint "Janelia:C_0402_1005Metric" (layer "F.Cu")
     (tstamp bbc4648d-45ff-411f-a8b3-9382327150d1)
-    (at 140.68 137.86)
+    (at 97.68 158.86)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Description" "CAP CER 0.1UF 100V X5R")
@@ -4631,7 +4631,7 @@
 
   (footprint "Janelia:C_0805_2012Metric" (layer "F.Cu")
     (tstamp bd7481fc-0dd3-41f2-b5a1-25724a3ede73)
-    (at 48.0118 66.550701)
+    (at 26.4618 39.450701)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Description" "CAP CER 2.2UF 100V X7T")
@@ -4690,7 +4690,7 @@
 
   (footprint "Janelia:BUK7D3660EX_NEX" (layer "F.Cu")
     (tstamp c47a49c9-5ce3-4296-b445-9dd6a96e6985)
-    (at 229.3041 38.1143)
+    (at 270.4541 23.8643)
     (tags "BUK7D36-60EX ")
     (property "Description" "MOSFET N-CH 60V 5.5A/14A")
     (property "Manufacturer" "Nexperia USA Inc.")
@@ -4785,7 +4785,7 @@
 
   (footprint "Janelia:OSC_ECS-2520S33-160-FN-TR" (layer "F.Cu")
     (tstamp c69d39fb-7600-4bea-812f-73bf671c1ad7)
-    (at 180.4 83.6)
+    (at 221.55 69.35)
     (property "Description" "XTAL OSC XO 16.0000MHZ HCMOS SMD")
     (property "Manufacturer" "ECS Inc.")
     (property "Manufacturer Part Number" "ECS-2520S33-160-FN-TR")
@@ -4877,7 +4877,7 @@
 
   (footprint "Janelia:R_0402_1005Metric" (layer "F.Cu")
     (tstamp d66e695a-b19c-4a52-848a-7d6d0c052a66)
-    (at 215.83 33.235)
+    (at 256.98 18.985)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Description" "RES 47 OHM 1% 1/16W")
@@ -4936,7 +4936,7 @@
 
   (footprint "Janelia:DRB0008B" (layer "F.Cu")
     (tstamp d85620df-6881-4f76-b326-394a6936fff0)
-    (at 240 38.625)
+    (at 281.15 24.375)
     (tags "TPS7A1633DRBT ")
     (property "Description" "IC REG LINEAR 3.3V 100MA")
     (property "Manufacturer" "Texas Instruments")
@@ -5009,7 +5009,7 @@
 
   (footprint "Janelia:BUK7D3660EX_NEX" (layer "F.Cu")
     (tstamp dec77d8a-8e97-4287-9657-406730a15597)
-    (at 47.9759 74.950001)
+    (at 26.4259 47.850001)
     (tags "BUK7D36-60EX ")
     (property "Description" "MOSFET N-CH 60V 5.5A/14A")
     (property "Manufacturer" "Nexperia USA Inc.")
@@ -5104,7 +5104,7 @@
 
   (footprint "Janelia:C_0402_1005Metric" (layer "F.Cu")
     (tstamp df70c104-63a0-4dcb-a1ad-3b76c5f0b9b9)
-    (at 143.55 143.77)
+    (at 100.55 164.77)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Description" "CAP CER 2.2UF 35V X5R")
@@ -5162,7 +5162,7 @@
 
   (footprint "Janelia:C_0402_1005Metric" (layer "F.Cu")
     (tstamp ebdc4e23-4c68-4f73-8e30-3655191d7023)
-    (at 137.81 137.86)
+    (at 94.81 158.86)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Description" "CAP CER 10UF 6.3V X5R")
@@ -5221,7 +5221,7 @@
 
   (footprint "Janelia:R_0402_1005Metric" (layer "F.Cu")
     (tstamp f2ae1d2b-94ce-4012-b7fc-a69a3b97cfc2)
-    (at 165.89 133.63)
+    (at 122.89 154.63)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Description" "RES SMD 15 OHM 1% 1/10W")
@@ -5280,7 +5280,7 @@
 
   (footprint "Janelia:SOT192P237X122-4N" (layer "F.Cu")
     (tstamp fcc5b6e7-2869-4510-83da-6128fd5beb5e)
-    (at 216.5641 30.3643)
+    (at 257.7141 16.1143)
     (property "Description" "IC SWITCH DEBOUNCER")
     (property "Manufacturer" "Analog Devices Inc./Maxim Integrated")
     (property "Manufacturer Part Number" "MAX6816EUS+T")
@@ -5342,7 +5342,7 @@
 
   (footprint "Janelia:C_0402_1005Metric" (layer "F.Cu")
     (tstamp fe700a9f-fe5f-45b8-9db0-d6955ccda646)
-    (at 145.1 129.35)
+    (at 102.1 150.35)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Description" "CAP CER 0.1UF 100V X5R")
@@ -5401,7 +5401,7 @@
 
   (footprint "Janelia:R_1206_3216Metric" (layer "F.Cu")
     (tstamp feb656de-c104-428a-abaa-dfc75efbb95a)
-    (at 215.83 40.985)
+    (at 256.98 26.735)
     (descr "Resistor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Description" "RES 0.15 OHM 1% 1W")
@@ -5460,7 +5460,7 @@
 
   (footprint "Janelia:R_0402_1005Metric" (layer "F.Cu")
     (tstamp ff03a553-ba36-4dbe-90dd-94816a8de643)
-    (at 165.89 137.62)
+    (at 122.89 158.62)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Description" "RES SMD 15 OHM 1% 1/10W")
@@ -5519,7 +5519,7 @@
 
   (footprint "Janelia:LED_0402_1005Metric" (layer "F.Cu")
     (tstamp ff36f4fb-86cd-4738-9be1-cc18759eb160)
-    (at 161.215 127.67)
+    (at 118.215 148.67)
     (descr "LED SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags "LED")
     (property "Description" "LED GREEN CLEAR")
@@ -5581,7 +5581,7 @@
 
   (footprint "Janelia:BUK7D3660EX_NEX" (layer "F.Cu")
     (tstamp ff9d78b6-412b-494b-ac82-3b5336a6338d)
-    (at 222.9341 30.3643)
+    (at 264.0841 16.1143)
     (tags "BUK7D36-60EX ")
     (property "Description" "MOSFET N-CH 60V 5.5A/14A")
     (property "Manufacturer" "Nexperia USA Inc.")
@@ -5738,7 +5738,7 @@
 
   (footprint "Janelia:USB_C_Receptacle_Amphenol_10137062-00021LF" (layer "B.Cu")
     (tstamp ffdb58b3-2e3c-4731-ae03-d36eaf628d5d)
-    (at 152.4 101.6 -90)
+    (at 235.65 112.6 -90)
     (property "Description" "CONN RCP USB3.1 TYPEC 24P SMD RA")
     (property "Manufacturer" "Amphenol ICC (FCI)")
     (property "Manufacturer Part Number" "10137062-00021LF")
@@ -5850,21 +5850,21 @@
     )
   )
 
-  (gr_line (start 116.4 110.49) (end 116.4 92.71)
+  (gr_line (start 132.4 117.1) (end 132.4 86.1)
     (stroke (width 0.1) (type default)) (layer "Edge.Cuts") (tstamp 6b0feb0c-cd36-4556-9736-84c934d6cd77))
-  (gr_arc (start 116.4 92.71) (mid 117.143949 90.913949) (end 118.94 90.17)
-    (stroke (width 0.1) (type default)) (layer "Edge.Cuts") (tstamp 75631ca7-8cd9-4d12-9168-996cdb4f6f12))
-  (gr_line (start 188.4 92.71) (end 188.4 110.49)
+  (gr_line (start 172.4 86.1) (end 172.4 117.1)
     (stroke (width 0.1) (type default)) (layer "Edge.Cuts") (tstamp 7c4e8751-c848-4ab9-ba6f-40c8ec9aae67))
-  (gr_arc (start 185.86 90.17) (mid 187.656051 90.913949) (end 188.4 92.71)
-    (stroke (width 0.1) (type default)) (layer "Edge.Cuts") (tstamp 89fd92d5-aebd-48ed-91c0-b7ebbd53dbe7))
-  (gr_arc (start 188.4 110.49) (mid 187.656051 112.286051) (end 185.86 113.03)
-    (stroke (width 0.1) (type default)) (layer "Edge.Cuts") (tstamp c9c7999c-d412-4e7e-9a1e-1611a4e21055))
-  (gr_line (start 185.86 113.03) (end 118.94 113.03)
+  (gr_arc (start 172.4 117.1) (mid 171.081981 120.281981) (end 167.9 121.6)
+    (stroke (width 0.1) (type default)) (layer "Edge.Cuts") (tstamp b1c40e29-ac85-4ec2-84f5-b113106b0969))
+  (gr_arc (start 167.9 81.6) (mid 171.081981 82.918019) (end 172.4 86.1)
+    (stroke (width 0.1) (type default)) (layer "Edge.Cuts") (tstamp bb76cc66-96a8-4cb3-9173-c2ed521b479b))
+  (gr_arc (start 136.9 121.6) (mid 133.718019 120.281981) (end 132.4 117.1)
+    (stroke (width 0.1) (type default)) (layer "Edge.Cuts") (tstamp bde8a8f1-43d9-440b-80a4-4fba01592213))
+  (gr_line (start 167.9 121.6) (end 136.9 121.6)
     (stroke (width 0.1) (type default)) (layer "Edge.Cuts") (tstamp d8f6c380-93b7-4865-bded-65195c03d06e))
-  (gr_arc (start 118.94 113.03) (mid 117.143949 112.286051) (end 116.4 110.49)
-    (stroke (width 0.1) (type default)) (layer "Edge.Cuts") (tstamp e714128a-8439-4f65-aaa8-4152d2343612))
-  (gr_line (start 118.94 90.17) (end 185.86 90.17)
+  (gr_arc (start 132.4 86.1) (mid 133.718019 82.918019) (end 136.9 81.6)
+    (stroke (width 0.1) (type default)) (layer "Edge.Cuts") (tstamp ea927bfd-7729-4654-8721-9b502d3d1b02))
+  (gr_line (start 136.9 81.6) (end 167.9 81.6)
     (stroke (width 0.1) (type default)) (layer "Edge.Cuts") (tstamp f55d0ea1-85c2-421b-81de-07a85222c456))
 
 )
