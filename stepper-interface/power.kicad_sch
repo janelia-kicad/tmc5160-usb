@@ -1483,7 +1483,7 @@
   (symbol (lib_id "power:PWR_FLAG") (at 90.17 36.83 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 27cbec9e-f094-486e-a2bd-7e8d37d4e70a)
-    (property "Reference" "#FLG02" (at 90.17 34.925 0)
+    (property "Reference" "#FLG03" (at 90.17 34.925 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "PWR_FLAG" (at 90.17 31.75 0)
@@ -1499,7 +1499,7 @@
     (instances
       (project "stepper-interface"
         (path "/df2b2e89-e055-4140-95de-f1df723db034/c1dd8f61-494c-402f-8e59-08309c64fc3f"
-          (reference "#FLG02") (unit 1)
+          (reference "#FLG03") (unit 1)
         )
       )
     )
@@ -1508,7 +1508,7 @@
   (symbol (lib_id "Janelia:C_47uF_10V_0805") (at 199.39 67.31 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 358f1cac-ef87-4fa6-826d-cba6fe945d8b)
-    (property "Reference" "C6" (at 201.93 66.04 0)
+    (property "Reference" "C2" (at 201.93 66.04 0)
       (effects (font (size 1.016 1.016)) (justify left))
     )
     (property "Value" "47uF_10V" (at 201.93 68.58 0)
@@ -1543,7 +1543,7 @@
     (instances
       (project "stepper-interface"
         (path "/df2b2e89-e055-4140-95de-f1df723db034/c1dd8f61-494c-402f-8e59-08309c64fc3f"
-          (reference "C6") (unit 1)
+          (reference "C2") (unit 1)
         )
       )
     )
@@ -1722,7 +1722,7 @@
   (symbol (lib_id "Janelia:C_2.2uF_100V_0805") (at 128.27 67.31 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 73d9a65a-c297-48fb-bde6-0ce7310489b6)
-    (property "Reference" "C3" (at 130.81 66.04 0)
+    (property "Reference" "C1" (at 130.81 66.04 0)
       (effects (font (size 1.016 1.016)) (justify left))
     )
     (property "Value" "2.2uF_100V" (at 130.81 68.58 0)
@@ -1757,7 +1757,7 @@
     (instances
       (project "stepper-interface"
         (path "/df2b2e89-e055-4140-95de-f1df723db034/c1dd8f61-494c-402f-8e59-08309c64fc3f"
-          (reference "C3") (unit 1)
+          (reference "C1") (unit 1)
         )
       )
     )
@@ -1766,7 +1766,7 @@
   (symbol (lib_id "Janelia:C_1uF_25V_0402") (at 116.84 142.24 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 86a40aae-2466-4da8-bb51-4878c0deeaba)
-    (property "Reference" "C2" (at 119.38 140.97 0)
+    (property "Reference" "C5" (at 119.38 140.97 0)
       (effects (font (size 1.016 1.016)) (justify left))
     )
     (property "Value" "1uF_25V" (at 119.38 143.51 0)
@@ -1801,7 +1801,7 @@
     (instances
       (project "stepper-interface"
         (path "/df2b2e89-e055-4140-95de-f1df723db034/c1dd8f61-494c-402f-8e59-08309c64fc3f"
-          (reference "C2") (unit 1)
+          (reference "C5") (unit 1)
         )
       )
     )
@@ -1810,7 +1810,7 @@
   (symbol (lib_id "power:PWR_FLAG") (at 77.47 36.83 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 88babcf1-d0b1-4fa2-ab26-7eba667d2593)
-    (property "Reference" "#FLG04" (at 77.47 34.925 0)
+    (property "Reference" "#FLG02" (at 77.47 34.925 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "PWR_FLAG" (at 77.47 31.75 0)
@@ -1826,7 +1826,7 @@
     (instances
       (project "stepper-interface"
         (path "/df2b2e89-e055-4140-95de-f1df723db034/c1dd8f61-494c-402f-8e59-08309c64fc3f"
-          (reference "#FLG04") (unit 1)
+          (reference "#FLG02") (unit 1)
         )
       )
     )
@@ -2093,7 +2093,7 @@
   (symbol (lib_id "Janelia:C_1uF_25V_0402") (at 177.8 142.24 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid bcd9359d-d1a9-4d2e-a14b-93c50e9b4b98)
-    (property "Reference" "C5" (at 180.34 140.97 0)
+    (property "Reference" "C6" (at 180.34 140.97 0)
       (effects (font (size 1.016 1.016)) (justify left))
     )
     (property "Value" "1uF_25V" (at 180.34 143.51 0)
@@ -2128,7 +2128,7 @@
     (instances
       (project "stepper-interface"
         (path "/df2b2e89-e055-4140-95de-f1df723db034/c1dd8f61-494c-402f-8e59-08309c64fc3f"
-          (reference "C5") (unit 1)
+          (reference "C6") (unit 1)
         )
       )
     )
@@ -2137,7 +2137,7 @@
   (symbol (lib_id "Janelia:C_1uF_25V_0402") (at 116.84 105.41 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid fdb785e7-f568-47e8-a87d-af684aecdc5a)
-    (property "Reference" "C1" (at 119.38 104.14 0)
+    (property "Reference" "C3" (at 119.38 104.14 0)
       (effects (font (size 1.016 1.016)) (justify left))
     )
     (property "Value" "1uF_25V" (at 119.38 106.68 0)
@@ -2172,7 +2172,7 @@
     (instances
       (project "stepper-interface"
         (path "/df2b2e89-e055-4140-95de-f1df723db034/c1dd8f61-494c-402f-8e59-08309c64fc3f"
-          (reference "C1") (unit 1)
+          (reference "C3") (unit 1)
         )
       )
     )

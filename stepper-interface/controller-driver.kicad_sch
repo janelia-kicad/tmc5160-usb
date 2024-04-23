@@ -2525,7 +2525,7 @@
   (symbol (lib_id "Janelia:C_0.22uF_25V_0402") (at 123.19 73.66 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 027022d9-5835-4f52-b5f6-3cb3f40f99c3)
-    (property "Reference" "C15" (at 127 73.025 0)
+    (property "Reference" "C21" (at 127 73.025 0)
       (effects (font (size 1.016 1.016)) (justify left))
     )
     (property "Value" "0.22uF_25V" (at 127 74.9299 0)
@@ -2560,7 +2560,7 @@
     (instances
       (project "stepper-interface"
         (path "/df2b2e89-e055-4140-95de-f1df723db034/039ac378-5273-4081-85bf-9eb26cb5ed57"
-          (reference "C15") (unit 1)
+          (reference "C21") (unit 1)
         )
       )
     )
@@ -2569,7 +2569,7 @@
   (symbol (lib_id "Janelia:R_47_0.063W_0402") (at 97.79 129.54 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 0c6bd7c6-2010-4c33-be99-74ad06f02f05)
-    (property "Reference" "R4" (at 97.79 127.508 90)
+    (property "Reference" "R8" (at 97.79 127.508 90)
       (effects (font (size 1.016 1.016)))
     )
     (property "Value" "47" (at 97.79 129.54 90) (do_not_autoplace)
@@ -2604,7 +2604,7 @@
     (instances
       (project "stepper-interface"
         (path "/df2b2e89-e055-4140-95de-f1df723db034/039ac378-5273-4081-85bf-9eb26cb5ed57"
-          (reference "R4") (unit 1)
+          (reference "R8") (unit 1)
         )
       )
     )
@@ -2613,7 +2613,7 @@
   (symbol (lib_id "Janelia:C_0.1uF_100V_0402") (at 154.94 38.1 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 0e754d29-a3a9-4216-ba99-7c6e6ec6d22b)
-    (property "Reference" "C19" (at 158.75 37.465 0)
+    (property "Reference" "C13" (at 158.75 37.465 0)
       (effects (font (size 1.016 1.016)) (justify left))
     )
     (property "Value" "0.1uF_100V" (at 158.75 39.3699 0)
@@ -2648,7 +2648,7 @@
     (instances
       (project "stepper-interface"
         (path "/df2b2e89-e055-4140-95de-f1df723db034/039ac378-5273-4081-85bf-9eb26cb5ed57"
-          (reference "C19") (unit 1)
+          (reference "C13") (unit 1)
         )
       )
     )
@@ -2657,7 +2657,7 @@
   (symbol (lib_id "Janelia:C_0.22uF_25V_0402") (at 92.71 73.66 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 175d2d0d-9a44-49f1-a49c-d3d9c4a0abcc)
-    (property "Reference" "C13" (at 96.52 73.025 0)
+    (property "Reference" "C19" (at 96.52 73.025 0)
       (effects (font (size 1.016 1.016)) (justify left))
     )
     (property "Value" "0.22uF_25V" (at 96.52 74.9299 0)
@@ -2692,7 +2692,7 @@
     (instances
       (project "stepper-interface"
         (path "/df2b2e89-e055-4140-95de-f1df723db034/039ac378-5273-4081-85bf-9eb26cb5ed57"
-          (reference "C13") (unit 1)
+          (reference "C19") (unit 1)
         )
       )
     )
@@ -2701,7 +2701,7 @@
   (symbol (lib_id "Janelia:C_2.2uF_35V_0402") (at 124.46 38.1 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 1db301e8-3fb0-4e09-b0b3-fb33785ebbd0)
-    (property "Reference" "C16" (at 124.46 35.56 0)
+    (property "Reference" "C11" (at 124.46 35.56 0)
       (effects (font (size 1.016 1.016)) (justify left))
     )
     (property "Value" "2.2uF_35V" (at 124.46 38.1 0)
@@ -2736,7 +2736,7 @@
     (instances
       (project "stepper-interface"
         (path "/df2b2e89-e055-4140-95de-f1df723db034/039ac378-5273-4081-85bf-9eb26cb5ed57"
-          (reference "C16") (unit 1)
+          (reference "C11") (unit 1)
         )
       )
     )
@@ -2745,7 +2745,7 @@
   (symbol (lib_id "Janelia:CP_100uF_63V_10.8x10.3mm_Polymer_Antivib") (at 246.38 38.1 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 1ed770bb-7aa7-4cf7-a969-e5c01689e91d)
-    (property "Reference" "C23" (at 248.92 36.9189 0)
+    (property "Reference" "C17" (at 248.92 36.9189 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "100uF_63V" (at 248.92 38.8238 0)
@@ -2777,7 +2777,7 @@
     (instances
       (project "stepper-interface"
         (path "/df2b2e89-e055-4140-95de-f1df723db034/039ac378-5273-4081-85bf-9eb26cb5ed57"
-          (reference "C23") (unit 1)
+          (reference "C17") (unit 1)
         )
       )
     )
@@ -2786,7 +2786,7 @@
   (symbol (lib_id "Janelia:Conn_01x04_P1.5mm_Molex_Pico-SPOX-87438_Horizontal") (at 267.97 107.95 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 1f273c53-cdd2-43fd-a43c-f7c6d5c5f387)
-    (property "Reference" "J4" (at 265.43 114.3 0) (do_not_autoplace)
+    (property "Reference" "J3" (at 265.43 114.3 0) (do_not_autoplace)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "Molex_Pico-SPOX_Horizontal" (at 269.24 106.68 90) (do_not_autoplace)
@@ -2820,7 +2820,7 @@
     (instances
       (project "stepper-interface"
         (path "/df2b2e89-e055-4140-95de-f1df723db034/039ac378-5273-4081-85bf-9eb26cb5ed57"
-          (reference "J4") (unit 1)
+          (reference "J3") (unit 1)
         )
       )
     )
@@ -2878,7 +2878,7 @@
   (symbol (lib_id "Janelia:C_0.1uF_100V_0402") (at 21.59 179.07 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 32391be2-7a21-4415-9a91-52a0b0b5563b)
-    (property "Reference" "C7" (at 25.4 178.435 0)
+    (property "Reference" "C24" (at 25.4 178.435 0)
       (effects (font (size 1.016 1.016)) (justify left))
     )
     (property "Value" "0.1uF_100V" (at 25.4 180.3399 0)
@@ -2913,7 +2913,7 @@
     (instances
       (project "stepper-interface"
         (path "/df2b2e89-e055-4140-95de-f1df723db034/039ac378-5273-4081-85bf-9eb26cb5ed57"
-          (reference "C7") (unit 1)
+          (reference "C24") (unit 1)
         )
       )
     )
@@ -2922,7 +2922,7 @@
   (symbol (lib_id "Janelia:C_0.22uF_25V_0402") (at 107.95 73.66 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 36e7859b-b64b-4c49-819b-9f5dedf4c954)
-    (property "Reference" "C14" (at 111.76 73.025 0)
+    (property "Reference" "C20" (at 111.76 73.025 0)
       (effects (font (size 1.016 1.016)) (justify left))
     )
     (property "Value" "0.22uF_25V" (at 111.76 74.9299 0)
@@ -2957,7 +2957,7 @@
     (instances
       (project "stepper-interface"
         (path "/df2b2e89-e055-4140-95de-f1df723db034/039ac378-5273-4081-85bf-9eb26cb5ed57"
-          (reference "C14") (unit 1)
+          (reference "C20") (unit 1)
         )
       )
     )
@@ -2966,7 +2966,7 @@
   (symbol (lib_id "Janelia:C_0.1uF_100V_0402") (at 195.58 38.1 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 3a55f158-e4d0-4f5a-a4c6-183dc296f1b4)
-    (property "Reference" "C20" (at 199.39 37.465 0)
+    (property "Reference" "C14" (at 199.39 37.465 0)
       (effects (font (size 1.016 1.016)) (justify left))
     )
     (property "Value" "0.1uF_100V" (at 199.39 39.3699 0)
@@ -3001,7 +3001,7 @@
     (instances
       (project "stepper-interface"
         (path "/df2b2e89-e055-4140-95de-f1df723db034/039ac378-5273-4081-85bf-9eb26cb5ed57"
-          (reference "C20") (unit 1)
+          (reference "C14") (unit 1)
         )
       )
     )
@@ -3100,7 +3100,7 @@
   (symbol (lib_id "Janelia:C_22nF_100V_0603") (at 46.99 38.1 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 5291deed-b6ac-4ca3-9f7d-8ec15fc39465)
-    (property "Reference" "C8" (at 50.8 37.465 0)
+    (property "Reference" "C7" (at 50.8 37.465 0)
       (effects (font (size 1.016 1.016)) (justify left))
     )
     (property "Value" "22nF_100V" (at 50.8 39.3699 0)
@@ -3135,7 +3135,7 @@
     (instances
       (project "stepper-interface"
         (path "/df2b2e89-e055-4140-95de-f1df723db034/039ac378-5273-4081-85bf-9eb26cb5ed57"
-          (reference "C8") (unit 1)
+          (reference "C7") (unit 1)
         )
       )
     )
@@ -3144,7 +3144,7 @@
   (symbol (lib_id "Janelia:C_2.2uF_100V_0805") (at 228.6 38.1 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 52cbeae6-5a85-451d-a277-65d796dd63d4)
-    (property "Reference" "C22" (at 232.41 37.465 0)
+    (property "Reference" "C16" (at 232.41 37.465 0)
       (effects (font (size 1.016 1.016)) (justify left))
     )
     (property "Value" "2.2uF_100V" (at 232.41 39.3699 0)
@@ -3179,7 +3179,7 @@
     (instances
       (project "stepper-interface"
         (path "/df2b2e89-e055-4140-95de-f1df723db034/039ac378-5273-4081-85bf-9eb26cb5ed57"
-          (reference "C22") (unit 1)
+          (reference "C16") (unit 1)
         )
       )
     )
@@ -3188,7 +3188,7 @@
   (symbol (lib_id "Janelia:R_47_0.063W_0402") (at 97.79 111.76 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 57407bb6-9b0a-40a0-98ab-f44ec9318849)
-    (property "Reference" "R3" (at 97.79 109.728 90)
+    (property "Reference" "R4" (at 97.79 109.728 90)
       (effects (font (size 1.016 1.016)))
     )
     (property "Value" "47" (at 97.79 111.76 90) (do_not_autoplace)
@@ -3223,7 +3223,7 @@
     (instances
       (project "stepper-interface"
         (path "/df2b2e89-e055-4140-95de-f1df723db034/039ac378-5273-4081-85bf-9eb26cb5ed57"
-          (reference "R3") (unit 1)
+          (reference "R4") (unit 1)
         )
       )
     )
@@ -3232,7 +3232,7 @@
   (symbol (lib_id "Janelia:R_0.15_1W_1206_CS") (at 106.68 120.65 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 5e579d71-2bcd-479e-979a-0a25f7894aaa)
-    (property "Reference" "R5" (at 108.712 120.65 90)
+    (property "Reference" "R6" (at 108.712 120.65 90)
       (effects (font (size 1.016 1.016)))
     )
     (property "Value" "0.15" (at 106.68 120.65 90) (do_not_autoplace)
@@ -3267,7 +3267,7 @@
     (instances
       (project "stepper-interface"
         (path "/df2b2e89-e055-4140-95de-f1df723db034/039ac378-5273-4081-85bf-9eb26cb5ed57"
-          (reference "R5") (unit 1)
+          (reference "R6") (unit 1)
         )
       )
     )
@@ -3276,7 +3276,7 @@
   (symbol (lib_id "power:PWR_FLAG") (at 22.86 62.23 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 6b222146-f3e9-47a3-8780-093267663095)
-    (property "Reference" "#FLG03" (at 22.86 60.325 0)
+    (property "Reference" "#FLG04" (at 22.86 60.325 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "PWR_FLAG" (at 22.86 57.15 0)
@@ -3292,7 +3292,7 @@
     (instances
       (project "stepper-interface"
         (path "/df2b2e89-e055-4140-95de-f1df723db034/039ac378-5273-4081-85bf-9eb26cb5ed57"
-          (reference "#FLG03") (unit 1)
+          (reference "#FLG04") (unit 1)
         )
       )
     )
@@ -3344,7 +3344,7 @@
   (symbol (lib_id "Janelia:R_47_0.063W_0402") (at 128.27 111.76 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 8117c7e7-5f25-45e6-9fcb-f364b23e7056)
-    (property "Reference" "R7" (at 128.27 109.728 90)
+    (property "Reference" "R5" (at 128.27 109.728 90)
       (effects (font (size 1.016 1.016)))
     )
     (property "Value" "47" (at 128.27 111.76 90) (do_not_autoplace)
@@ -3379,7 +3379,7 @@
     (instances
       (project "stepper-interface"
         (path "/df2b2e89-e055-4140-95de-f1df723db034/039ac378-5273-4081-85bf-9eb26cb5ed57"
-          (reference "R7") (unit 1)
+          (reference "R5") (unit 1)
         )
       )
     )
@@ -3388,7 +3388,7 @@
   (symbol (lib_id "Janelia:C_0.47uF_35V_0402") (at 92.71 38.1 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 865db556-e559-4ea5-9271-3ee863ec3f2c)
-    (property "Reference" "C12" (at 96.52 37.465 0)
+    (property "Reference" "C10" (at 96.52 37.465 0)
       (effects (font (size 1.016 1.016)) (justify left))
     )
     (property "Value" "0.47uF_35V" (at 96.52 39.3699 0)
@@ -3423,7 +3423,7 @@
     (instances
       (project "stepper-interface"
         (path "/df2b2e89-e055-4140-95de-f1df723db034/039ac378-5273-4081-85bf-9eb26cb5ed57"
-          (reference "C12") (unit 1)
+          (reference "C10") (unit 1)
         )
       )
     )
@@ -3432,7 +3432,7 @@
   (symbol (lib_id "Janelia:CP_100uF_63V_10.8x10.3mm_Polymer_Antivib") (at 260.35 38.1 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 87d0848c-1dc3-4c11-9222-a5928da5d83b)
-    (property "Reference" "C24" (at 262.89 36.9189 0)
+    (property "Reference" "C18" (at 262.89 36.9189 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "100uF_63V" (at 262.89 38.8238 0)
@@ -3464,7 +3464,7 @@
     (instances
       (project "stepper-interface"
         (path "/df2b2e89-e055-4140-95de-f1df723db034/039ac378-5273-4081-85bf-9eb26cb5ed57"
-          (reference "C24") (unit 1)
+          (reference "C18") (unit 1)
         )
       )
     )
@@ -3473,7 +3473,7 @@
   (symbol (lib_id "Janelia:Conn_01x02_P1mm_Molex_Pico-Clasp-501330_Horizontal") (at 161.29 180.34 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 9ee20151-5f4c-4a98-9a94-9447cad479c6)
-    (property "Reference" "J3" (at 158.75 182.88 0) (do_not_autoplace)
+    (property "Reference" "J4" (at 158.75 182.88 0) (do_not_autoplace)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "Molex_Pico-SPOX_Horizontal" (at 162.56 179.07 90) (do_not_autoplace)
@@ -3505,7 +3505,7 @@
     (instances
       (project "stepper-interface"
         (path "/df2b2e89-e055-4140-95de-f1df723db034/039ac378-5273-4081-85bf-9eb26cb5ed57"
-          (reference "J3") (unit 1)
+          (reference "J4") (unit 1)
         )
       )
     )
@@ -3558,7 +3558,7 @@
   (symbol (lib_id "Janelia:C_0.22uF_25V_0402") (at 138.43 73.66 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid b600b328-f974-4a1a-9b9b-a4b014cfad08)
-    (property "Reference" "C17" (at 142.24 73.025 0)
+    (property "Reference" "C22" (at 142.24 73.025 0)
       (effects (font (size 1.016 1.016)) (justify left))
     )
     (property "Value" "0.22uF_25V" (at 142.24 74.9299 0)
@@ -3593,7 +3593,7 @@
     (instances
       (project "stepper-interface"
         (path "/df2b2e89-e055-4140-95de-f1df723db034/039ac378-5273-4081-85bf-9eb26cb5ed57"
-          (reference "C17") (unit 1)
+          (reference "C22") (unit 1)
         )
       )
     )
@@ -3602,7 +3602,7 @@
   (symbol (lib_id "Janelia:R_47_0.063W_0402") (at 128.27 129.54 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid c96e5330-f93e-4fe1-a970-ec499309c9f4)
-    (property "Reference" "R8" (at 128.27 127.508 90)
+    (property "Reference" "R9" (at 128.27 127.508 90)
       (effects (font (size 1.016 1.016)))
     )
     (property "Value" "47" (at 128.27 129.54 90) (do_not_autoplace)
@@ -3637,7 +3637,7 @@
     (instances
       (project "stepper-interface"
         (path "/df2b2e89-e055-4140-95de-f1df723db034/039ac378-5273-4081-85bf-9eb26cb5ed57"
-          (reference "R8") (unit 1)
+          (reference "R9") (unit 1)
         )
       )
     )
@@ -3646,7 +3646,7 @@
   (symbol (lib_id "Janelia:R_2.2_0402") (at 110.49 38.1 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid ca90f7b8-a133-4406-a298-b26f6e13f4eb)
-    (property "Reference" "R6" (at 112.522 38.1 90)
+    (property "Reference" "R3" (at 112.522 38.1 90)
       (effects (font (size 1.016 1.016)))
     )
     (property "Value" "2.2" (at 110.49 38.1 90) (do_not_autoplace)
@@ -3681,7 +3681,7 @@
     (instances
       (project "stepper-interface"
         (path "/df2b2e89-e055-4140-95de-f1df723db034/039ac378-5273-4081-85bf-9eb26cb5ed57"
-          (reference "R6") (unit 1)
+          (reference "R3") (unit 1)
         )
       )
     )
@@ -3690,7 +3690,7 @@
   (symbol (lib_id "Janelia:C_0.1uF_100V_0402") (at 77.47 38.1 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid cd7d3e3e-629f-4e99-973d-cd9deb7f530d)
-    (property "Reference" "C10" (at 81.28 37.465 0)
+    (property "Reference" "C9" (at 81.28 37.465 0)
       (effects (font (size 1.016 1.016)) (justify left))
     )
     (property "Value" "0.1uF_100V" (at 81.28 39.3699 0)
@@ -3725,7 +3725,7 @@
     (instances
       (project "stepper-interface"
         (path "/df2b2e89-e055-4140-95de-f1df723db034/039ac378-5273-4081-85bf-9eb26cb5ed57"
-          (reference "C10") (unit 1)
+          (reference "C9") (unit 1)
         )
       )
     )
@@ -3734,7 +3734,7 @@
   (symbol (lib_id "Janelia:R_0.15_1W_1206_CS") (at 137.16 120.65 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid d7ce6e8d-6ef1-41e3-b326-89e22c09319e)
-    (property "Reference" "R9" (at 139.192 120.65 90)
+    (property "Reference" "R7" (at 139.192 120.65 90)
       (effects (font (size 1.016 1.016)))
     )
     (property "Value" "0.15" (at 137.16 120.65 90) (do_not_autoplace)
@@ -3769,7 +3769,7 @@
     (instances
       (project "stepper-interface"
         (path "/df2b2e89-e055-4140-95de-f1df723db034/039ac378-5273-4081-85bf-9eb26cb5ed57"
-          (reference "R9") (unit 1)
+          (reference "R7") (unit 1)
         )
       )
     )
@@ -3778,7 +3778,7 @@
   (symbol (lib_id "Janelia:C_2.2uF_35V_0402") (at 139.7 38.1 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid e505d20c-8432-4417-985f-1736c5f4bfe5)
-    (property "Reference" "C18" (at 143.51 37.465 0)
+    (property "Reference" "C12" (at 143.51 37.465 0)
       (effects (font (size 1.016 1.016)) (justify left))
     )
     (property "Value" "2.2uF_35V" (at 143.51 39.3699 0)
@@ -3813,7 +3813,7 @@
     (instances
       (project "stepper-interface"
         (path "/df2b2e89-e055-4140-95de-f1df723db034/039ac378-5273-4081-85bf-9eb26cb5ed57"
-          (reference "C18") (unit 1)
+          (reference "C12") (unit 1)
         )
       )
     )
@@ -3822,7 +3822,7 @@
   (symbol (lib_id "Janelia:C_2.2uF_100V_0805") (at 212.09 38.1 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid f00042f3-5269-4dd8-ad85-87a03feda42b)
-    (property "Reference" "C21" (at 215.9 37.465 0)
+    (property "Reference" "C15" (at 215.9 37.465 0)
       (effects (font (size 1.016 1.016)) (justify left))
     )
     (property "Value" "2.2uF_100V" (at 215.9 39.3699 0)
@@ -3857,7 +3857,7 @@
     (instances
       (project "stepper-interface"
         (path "/df2b2e89-e055-4140-95de-f1df723db034/039ac378-5273-4081-85bf-9eb26cb5ed57"
-          (reference "C21") (unit 1)
+          (reference "C15") (unit 1)
         )
       )
     )
@@ -3866,7 +3866,7 @@
   (symbol (lib_id "Janelia:C_0.1uF_100V_0402") (at 62.23 38.1 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid f4c85327-639d-44df-9c98-6605799e9031)
-    (property "Reference" "C9" (at 66.04 37.465 0)
+    (property "Reference" "C8" (at 66.04 37.465 0)
       (effects (font (size 1.016 1.016)) (justify left))
     )
     (property "Value" "0.1uF_100V" (at 66.04 39.3699 0)
@@ -3901,7 +3901,7 @@
     (instances
       (project "stepper-interface"
         (path "/df2b2e89-e055-4140-95de-f1df723db034/039ac378-5273-4081-85bf-9eb26cb5ed57"
-          (reference "C9") (unit 1)
+          (reference "C8") (unit 1)
         )
       )
     )
@@ -3910,7 +3910,7 @@
   (symbol (lib_id "Janelia:C_0.1uF_100V_0402") (at 85.09 177.8 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid feb840bf-6f2d-48de-840e-5fd011eef15a)
-    (property "Reference" "C11" (at 88.9 177.165 0)
+    (property "Reference" "C23" (at 88.9 177.165 0)
       (effects (font (size 1.016 1.016)) (justify left))
     )
     (property "Value" "0.1uF_100V" (at 88.9 179.0699 0)
@@ -3945,7 +3945,7 @@
     (instances
       (project "stepper-interface"
         (path "/df2b2e89-e055-4140-95de-f1df723db034/039ac378-5273-4081-85bf-9eb26cb5ed57"
-          (reference "C11") (unit 1)
+          (reference "C23") (unit 1)
         )
       )
     )
