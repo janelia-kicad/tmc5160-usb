@@ -164,7 +164,7 @@
     "pos_y": 269,
     "size_x": 1280,
     "size_y": 720,
-    "zoom": 3.925116636636461,
+    "zoom": 8.754785698703966,
     "zoom_factors": []
   },
   "footprint_wizard": {
@@ -265,7 +265,7 @@
     "associate_by_ref_sch": true,
     "delete_extra_footprints": true,
     "delete_shorting_tracks": false,
-    "report_filter": 29,
+    "report_filter": 21,
     "update_footprints": true
   },
   "pcb_display": {

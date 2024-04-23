@@ -229,7 +229,7 @@ Hello $addressee
 
 #+NAME: supplemental-bom
 #+BEGIN_SRC org :noweb yes
-| Item | Description                                            | Manufacturer Part Number | Manufacturer      | Quantity | Cost  | Total |
+| Item | Synopsis                                               | Manufacturer Part Number | Manufacturer      | Quantity | Cost  | Total |
 |------+--------------------------------------------------------+--------------------------+-------------------+----------+-------+-------|
 |    1 | FAN BLOWER 17X3MM 3VDC RECT CONN                       | ASB01703HA3-00CAH        | Delta Electronics |        1 | 19.54 | 19.54 |
 |------+--------------------------------------------------------+--------------------------+-------------------+----------+-------+-------|
