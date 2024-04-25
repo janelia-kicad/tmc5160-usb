@@ -6,7 +6,7 @@
 - Pcb Version: 1.0
 - Enclosure Version: 1.0
 - Supplemental BOM Version: 1.0
-- Release Date: 2024-04-18
+- Release Date: 2024-04-25
 - Creation Date: 2024-03-20
 - Kicad Version: 7.0.11
 - License: BSD-3-Clause
@@ -16,6 +16,6 @@
 - Copyright: 2024 Howard Hughes Medical Institute
 - References:
   - [[https://www.analog.com/en/products/tmc5160.html][TMC5160]]
-  - [[https://www.raspberrypi.com/products/raspberry-pi-pico/][Raspberry Pi Pico]]
+  - [[https://www.raspberrypi.com/documentation/microcontrollers/rp2040.html][RP2040]]
 
 [[./documentation/pcb/raytrace.png]]

@@ -477,7 +477,7 @@
   (symbol (lib_id "Janelia:BUK7D36-60EX") (at 147.32 80.01 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 68a94f9f-b28f-49f1-a34f-0be587083b7a)
-    (property "Reference" "U6" (at 151.13 80.01 0) (do_not_autoplace)
+    (property "Reference" "U501" (at 151.13 80.01 0) (do_not_autoplace)
       (effects (font (size 1.524 1.524)) (justify left))
     )
     (property "Value" "BUK7D36-60EX" (at 147.32 76.2 90) (do_not_autoplace)
@@ -518,28 +518,28 @@
     (instances
       (project "stepper-interface"
         (path "/df2b2e89-e055-4140-95de-f1df723db034/039ac378-5273-4081-85bf-9eb26cb5ed57/166b4ba4-5822-49d8-b309-f52ce04f60b1"
-          (reference "U6") (unit 1)
+          (reference "U501") (unit 1)
         )
         (path "/df2b2e89-e055-4140-95de-f1df723db034/039ac378-5273-4081-85bf-9eb26cb5ed57/77ec754f-e73d-4b40-8cb6-04aa79ed075b"
-          (reference "U7") (unit 1)
+          (reference "U601") (unit 1)
         )
         (path "/df2b2e89-e055-4140-95de-f1df723db034/039ac378-5273-4081-85bf-9eb26cb5ed57/3a5be366-e07c-4cea-9d17-ab6873df58d0"
-          (reference "U8") (unit 1)
+          (reference "U701") (unit 1)
         )
         (path "/df2b2e89-e055-4140-95de-f1df723db034/039ac378-5273-4081-85bf-9eb26cb5ed57/015fc9e7-3ba8-423b-8c7a-1e6ac6af06ca"
-          (reference "U9") (unit 1)
+          (reference "U801") (unit 1)
         )
         (path "/df2b2e89-e055-4140-95de-f1df723db034/039ac378-5273-4081-85bf-9eb26cb5ed57/310c6d75-c755-45f6-91bd-c6a3e28c41c3"
-          (reference "U10") (unit 1)
+          (reference "U901") (unit 1)
         )
         (path "/df2b2e89-e055-4140-95de-f1df723db034/039ac378-5273-4081-85bf-9eb26cb5ed57/e5ac0a82-cfa0-413a-a1a3-5e88ae5fe4fa"
-          (reference "U11") (unit 1)
+          (reference "U1001") (unit 1)
         )
         (path "/df2b2e89-e055-4140-95de-f1df723db034/039ac378-5273-4081-85bf-9eb26cb5ed57/33c1e78d-612d-4de4-b4ab-c1f2402fd86d"
-          (reference "U12") (unit 1)
+          (reference "U1101") (unit 1)
         )
         (path "/df2b2e89-e055-4140-95de-f1df723db034/039ac378-5273-4081-85bf-9eb26cb5ed57/3cc889de-698d-4e8a-bf98-2840b1fad77e"
-          (reference "U13") (unit 1)
+          (reference "U1201") (unit 1)
         )
       )
     )
@@ -548,7 +548,7 @@
   (symbol (lib_id "Janelia:R_15_0.1W_0402") (at 132.08 80.01 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid d567f4dd-7271-4d5d-84b0-777e53ab3edb)
-    (property "Reference" "R10" (at 132.08 77.978 90)
+    (property "Reference" "R501" (at 132.08 77.978 90)
       (effects (font (size 1.016 1.016)))
     )
     (property "Value" "15" (at 132.08 80.01 90) (do_not_autoplace)
@@ -583,28 +583,28 @@
     (instances
       (project "stepper-interface"
         (path "/df2b2e89-e055-4140-95de-f1df723db034/039ac378-5273-4081-85bf-9eb26cb5ed57/166b4ba4-5822-49d8-b309-f52ce04f60b1"
-          (reference "R10") (unit 1)
+          (reference "R501") (unit 1)
         )
         (path "/df2b2e89-e055-4140-95de-f1df723db034/039ac378-5273-4081-85bf-9eb26cb5ed57/77ec754f-e73d-4b40-8cb6-04aa79ed075b"
-          (reference "R11") (unit 1)
+          (reference "R601") (unit 1)
         )
         (path "/df2b2e89-e055-4140-95de-f1df723db034/039ac378-5273-4081-85bf-9eb26cb5ed57/3a5be366-e07c-4cea-9d17-ab6873df58d0"
-          (reference "R12") (unit 1)
+          (reference "R701") (unit 1)
         )
         (path "/df2b2e89-e055-4140-95de-f1df723db034/039ac378-5273-4081-85bf-9eb26cb5ed57/015fc9e7-3ba8-423b-8c7a-1e6ac6af06ca"
-          (reference "R13") (unit 1)
+          (reference "R801") (unit 1)
         )
         (path "/df2b2e89-e055-4140-95de-f1df723db034/039ac378-5273-4081-85bf-9eb26cb5ed57/310c6d75-c755-45f6-91bd-c6a3e28c41c3"
-          (reference "R14") (unit 1)
+          (reference "R901") (unit 1)
         )
         (path "/df2b2e89-e055-4140-95de-f1df723db034/039ac378-5273-4081-85bf-9eb26cb5ed57/e5ac0a82-cfa0-413a-a1a3-5e88ae5fe4fa"
-          (reference "R15") (unit 1)
+          (reference "R1001") (unit 1)
         )
         (path "/df2b2e89-e055-4140-95de-f1df723db034/039ac378-5273-4081-85bf-9eb26cb5ed57/33c1e78d-612d-4de4-b4ab-c1f2402fd86d"
-          (reference "R16") (unit 1)
+          (reference "R1101") (unit 1)
         )
         (path "/df2b2e89-e055-4140-95de-f1df723db034/039ac378-5273-4081-85bf-9eb26cb5ed57/3cc889de-698d-4e8a-bf98-2840b1fad77e"
-          (reference "R17") (unit 1)
+          (reference "R1201") (unit 1)
         )
       )
     )
