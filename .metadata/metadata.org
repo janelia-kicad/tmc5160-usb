@@ -232,10 +232,11 @@ Hello $addressee
 | Item | Synopsis                                               | Manufacturer Part Number | Manufacturer      | Quantity |  Cost | Total |
 |------+--------------------------------------------------------+--------------------------+-------------------+----------+-------+-------|
 |    1 | FAN BLOWER 17X3MM 3VDC RECT CONN                       |        ASB01703HA3-00CAH | Delta Electronics |        1 | 19.54 | 19.54 |
-|    2 | CONN RCPT HSG 2POS 1.50MM                              |               0874390200 | Molex             |        1 |  0.22 |  0.22 |
-|    3 | PICO-SPOX 874210000, 24 AWG,UL10                       |               0797580016 | Molex             |        2 |  1.04 |  2.08 |
+|    2 | Hex Standoff Threaded M2 Brass 6.00mm                  |                970060244 | Würth Elektronik  |        2 |  0.43 |  0.86 |
+|    3 | CONN RCPT HSG 2POS 1.50MM                              |               0874390200 | Molex             |        1 |  0.22 |  0.22 |
+|    4 | PICO-SPOX 874210000, 24 AWG,UL10                       |               0797580016 | Molex             |        2 |  1.04 |  2.08 |
 |------+--------------------------------------------------------+--------------------------+-------------------+----------+-------+-------|
-|      | Supplemental BOM Version: <<supplemental-bom-version>> |                          |                   |          | Total | 21.84 |
+|      | Supplemental BOM Version: <<supplemental-bom-version>> |                          |                   |          | Total | 22.70 |
 ,#+TBLFM: $7=$5*$6;%0.2f::@>$7=vsum(@2..@-1);%0.2f
 #+END_SRC
 

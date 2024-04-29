@@ -7,7 +7,7 @@
   (paper "A4")
   (title_block
     (title "stepper-interface")
-    (date "2024-04-26")
+    (date "2024-04-29")
     (rev "1.0")
     (company "Howard Hughes Medical Institute")
   )
@@ -361,7 +361,7 @@
 
   (footprint "Janelia:C_0402_1005Metric" (layer "F.Cu")
     (tstamp 1ad2a38b-5a6d-448f-97f6-d8f9c3b9b3c1)
-    (at 138.4 109.6 -90)
+    (at 138.4 91.6 -90)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Manufacturer" "Murata Electronics")
@@ -515,7 +515,7 @@
 
   (footprint "Janelia:R_0402_1005Metric" (layer "F.Cu")
     (tstamp 27f2d938-8da1-40cc-b774-3756372a0acb)
-    (at 133.4 93.6 90)
+    (at 133.4 111.6 90)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Manufacturer" "Panasonic Electronic Components")
@@ -691,7 +691,7 @@
 
   (footprint "Janelia:LED_0402_1005Metric" (layer "F.Cu")
     (tstamp 3ca9cb85-f71f-479b-b2e3-eb1cd32287a3)
-    (at 133.4 91.6 -90)
+    (at 133.4 109.6 -90)
     (descr "LED SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags "LED")
     (property "Manufacturer" "QT Brightek (QTB)")
@@ -940,7 +940,7 @@
 
   (footprint "Janelia:R_0402_1005Metric" (layer "F.Cu")
     (tstamp 488281ce-be64-4c62-9d90-c51e89ee8bfa)
-    (at 133.4 111.6 90)
+    (at 133.4 93.6 90)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Manufacturer" "Panasonic Electronic Components")
@@ -1918,7 +1918,7 @@
 
   (footprint "Janelia:C_0402_1005Metric" (layer "F.Cu")
     (tstamp 6fff12db-cfe6-4934-a25c-6d5b3aecd1aa)
-    (at 134.9 91.6 -90)
+    (at 134.9 109.6 -90)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Manufacturer" "Murata Electronics")
@@ -3868,7 +3868,7 @@
 
   (footprint "Janelia:JST_SUR_BM03B-SURS-TF_1x03-1MP_P0.80mm_Vertical" (layer "F.Cu")
     (tstamp c1ef98f6-f067-4ecf-9bdf-a83e317349df)
-    (at 135.9 110.6 90)
+    (at 135.9 92.6 90)
     (descr "JST SUR series connector, BM03B-SURS-TF (http://www.jst-mfg.com/product/pdf/eng/eSUR.pdf), generated with kicad-footprint-generator")
     (tags "connector JST SUR vertical")
     (property "Manufacturer" "JST Sales America Inc.")
@@ -4124,7 +4124,7 @@
 
   (footprint "Janelia:C_0402_1005Metric" (layer "F.Cu")
     (tstamp dae32e84-753a-46e1-acba-467e912b0e63)
-    (at 138.4 111.6 90)
+    (at 138.4 93.6 90)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Manufacturer" "Murata Electronics")
@@ -4181,81 +4181,108 @@
     )
   )
 
-  (footprint "Janelia:FAN_3VDC_17x17x3mm" (layer "F.Cu")
+  (footprint "Janelia:FAN_5VDC_25x25x8mm" (layer "F.Cu")
     (tstamp db6d58d7-65b8-4a49-a152-43cd9050e512)
-    (at 162.9 101.6)
-    (property "Manufacturer" "Delta Electronics")
-    (property "Manufacturer Part Number" "ASB01703HA3-00CAH")
+    (at 159.9 101.6)
+    (property "Manufacturer" "ebm-papst Inc.")
+    (property "Manufacturer Part Number" "255M")
     (property "Sheetfile" "power.kicad_sch")
     (property "Sheetname" "power")
-    (property "Synopsis" "FAN BLOWER 17X3MM 3VDC RECT CONN")
+    (property "Synopsis" "FAN AXIAL 25X8MM 5VDC WIRE")
     (property "Vendor" "Digi-Key")
-    (property "Vendor Part Number" "603-2067-ND")
-    (property "exclude_from_bom" "")
-    (property "ki_description" "Fan Blower 3VDC Square - 17mm L x 17mm H Sleeve 0.510 CFM (0.014m³/min) 3 Position Rectangular Connector")
+    (property "Vendor Part Number" "381-2353-ND")
+    (property "ki_description" "Fan Tubeaxial 5VDC Square - 25mm L x 25mm H Sintec 1.2 CFM (0.034m³/min) 2 Wire Leads")
     (property "ki_keywords" "Fan Motor")
-    (path "/c1dd8f61-494c-402f-8e59-08309c64fc3f/16893d1b-5b62-4d99-8d19-91e9d36d48db")
+    (path "/c1dd8f61-494c-402f-8e59-08309c64fc3f/f45fe946-f162-4126-b87d-3c4b3fad3ddd")
     (attr through_hole)
-    (fp_text reference "M301" (at 0 -0.5 unlocked) (layer "F.SilkS")
+    (fp_text reference "M301" (at 16.75 -3.75 unlocked) (layer "F.SilkS")
         (effects (font (size 1 1) (thickness 0.1)))
-      (tstamp c6ffae48-fc05-44ee-b01e-130ef81b0bf4)
+      (tstamp 79724f18-f33d-42f3-b7f2-f072f1bd8fa5)
     )
-    (fp_text value "Fan_3VDC_17x17x3mm" (at 0 1 unlocked) (layer "F.Fab")
+    (fp_text value "Fan_5VDC_25x25x8mm" (at 0 1 unlocked) (layer "F.Fab")
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 1c157ae8-c8a7-4992-a545-bac770f4eb3d)
+      (tstamp 16fd03a1-a734-4dbe-a375-f065f0e3fb5c)
     )
     (fp_text user "${REFERENCE}" (at 0 2.5 unlocked) (layer "F.Fab")
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp e03fed93-9586-4769-b39f-69a0ba077d8c)
+      (tstamp 87344076-4f5c-4998-b66e-62da9f56a37a)
     )
-    (fp_text user "3" (at -8 7 unlocked) (layer "User.1")
-        (effects (font (size 0.5 0.5) (thickness 0.125) bold))
-      (tstamp 2069c254-ff40-4b2f-a72e-d362267273dd)
+    (fp_text user "${REFERENCE}" (at 10 10) (layer "F.Fab")
+        (effects (font (size 1 1) (thickness 0.15)))
+      (tstamp 95fcbc86-af12-4502-b184-eb61ad033ac1)
     )
-    (fp_text user "1" (at -7 8 unlocked) (layer "User.1")
-        (effects (font (size 0.5 0.5) (thickness 0.125) bold))
-      (tstamp 2935ab7b-7a3d-45ae-b0b1-48989b4a8d05)
+    (fp_text user "${REFERENCE}" (at 10 -10) (layer "F.Fab")
+        (effects (font (size 1 1) (thickness 0.15)))
+      (tstamp bfc09de6-2251-47b8-a9f2-d228ead8c46f)
     )
-    (fp_text user "2" (at -7.5 7.5 unlocked) (layer "User.1")
-        (effects (font (size 0.5 0.5) (thickness 0.125) bold))
-      (tstamp 8a72c1ed-6d9a-4e91-94d2-5eac2f241901)
+    (fp_text user "${REFERENCE}" (at -10 10) (layer "F.Fab")
+        (effects (font (size 1 1) (thickness 0.15)))
+      (tstamp d1f0e975-1a0e-436e-bc56-67f6e3ac335e)
     )
-    (fp_line (start -9 7) (end -8 6)
-      (stroke (width 0.1) (type default)) (layer "User.1") (tstamp 28f062c8-50a8-4070-9020-57479dff28bb))
-    (fp_line (start -8.5 6.75) (end -8.5 -6.75)
-      (stroke (width 0.1) (type default)) (layer "User.1") (tstamp 0e01a18a-5f3e-454a-a8a3-22ae39716767))
-    (fp_line (start -8 6) (end -6 8)
-      (stroke (width 0.1) (type default)) (layer "User.1") (tstamp 220e9da4-acb7-425c-822f-7801809dd6c3))
-    (fp_line (start -7 9) (end -9 7)
-      (stroke (width 0.1) (type default)) (layer "User.1") (tstamp 60516013-0bd0-41cf-8f95-cf7624d71982))
-    (fp_line (start -6.75 -8.5) (end 6.75 -8.5)
-      (stroke (width 0.1) (type default)) (layer "User.1") (tstamp ff389408-1d2d-4a61-82e0-7c7c5e01b3e6))
-    (fp_line (start -6 8) (end -7 9)
-      (stroke (width 0.1) (type default)) (layer "User.1") (tstamp b2c754a4-c62e-4976-8117-4f49541c990d))
-    (fp_line (start 6.75 8.5) (end -6.75 8.5)
-      (stroke (width 0.1) (type default)) (layer "User.1") (tstamp 113d9d30-eb93-4a9c-aad4-9e118491b86f))
-    (fp_line (start 8.5 -6.75) (end 8.5 6.75)
-      (stroke (width 0.1) (type default)) (layer "User.1") (tstamp 4edabe22-c9e7-4eee-82d9-91b17995e7b0))
-    (fp_arc (start -8.5 -6.75) (mid -7.987437 -7.987437) (end -6.75 -8.5)
-      (stroke (width 0.1) (type default)) (layer "User.1") (tstamp 80dc3f6e-b3b0-4ca2-8d75-3a9e3584796f))
-    (fp_arc (start -6.75 8.5) (mid -7.987437 7.987437) (end -8.5 6.75)
-      (stroke (width 0.1) (type default)) (layer "User.1") (tstamp 1d3593d8-6601-4405-824d-9cdc7809f14f))
-    (fp_arc (start 6.75 -8.5) (mid 7.987437 -7.987437) (end 8.5 -6.75)
-      (stroke (width 0.1) (type default)) (layer "User.1") (tstamp 5d628374-7a57-40ec-9c8e-604bf6475101))
-    (fp_arc (start 8.5 6.75) (mid 7.987437 7.987437) (end 6.75 8.5)
-      (stroke (width 0.1) (type default)) (layer "User.1") (tstamp d229203d-3aff-4ae1-b084-91a4948309c3))
-    (fp_circle (center -6.75 -6.75) (end -5.75 -6.75)
-      (stroke (width 0.1) (type default)) (fill none) (layer "User.1") (tstamp dcd87535-ad35-4703-be00-f203d0889373))
-    (fp_circle (center -6.75 -6.75) (end -4.44 -6.75)
-      (stroke (width 0.1) (type default)) (fill none) (layer "User.1") (tstamp 96aa54b0-b298-4b85-9595-c115260c187c))
-    (fp_circle (center 6.69 6.75) (end 9 6.75)
-      (stroke (width 0.1) (type default)) (fill none) (layer "User.1") (tstamp fb2b752c-30eb-42df-9c3c-a1e4d3e74dbd))
-    (fp_circle (center 6.75 6.75) (end 7.75 6.75)
-      (stroke (width 0.1) (type default)) (fill none) (layer "User.1") (tstamp 45dfe5dc-fe15-431f-8623-325b760f91fa))
-    (model "${KICAD_JANELIA_LIBRARY}/3dmodels/Janelia.3dshapes/FAN_ASB01703HA3-00CAH.step"
-      (offset (xyz 0 0 5))
+    (fp_circle (center -10 10) (end -7.8 10)
+      (stroke (width 0.15) (type solid)) (fill none) (layer "Cmts.User") (tstamp e30e0608-20c0-4369-b44b-6d211921c30a))
+    (fp_circle (center 10 -10) (end 12.2 -10)
+      (stroke (width 0.15) (type solid)) (fill none) (layer "Cmts.User") (tstamp c51a531c-47b3-4432-bb45-6a06ddcb0222))
+    (fp_circle (center 10 10) (end 12.2 10)
+      (stroke (width 0.15) (type solid)) (fill none) (layer "Cmts.User") (tstamp 37a8e94b-f91c-4011-b28d-666271472e6e))
+    (fp_circle (center -10 10) (end -7.8 10)
+      (stroke (width 0.05) (type solid)) (fill none) (layer "B.CrtYd") (tstamp b3cac694-7193-43d4-99a0-d87754e490da))
+    (fp_circle (center 10 -10) (end 12.2 -10)
+      (stroke (width 0.05) (type solid)) (fill none) (layer "B.CrtYd") (tstamp b63f1058-d9dd-40a5-9f1f-cf51f7ef1087))
+    (fp_circle (center 10 10) (end 12.2 10)
+      (stroke (width 0.05) (type solid)) (fill none) (layer "B.CrtYd") (tstamp 7a9f9e6d-8160-4d43-ba30-a0243e58ce02))
+    (fp_circle (center -10 10) (end -7.8 10)
+      (stroke (width 0.05) (type solid)) (fill none) (layer "F.CrtYd") (tstamp aba1f8fb-0037-4259-b306-f0abb358c55e))
+    (fp_circle (center 10 -10) (end 12.2 -10)
+      (stroke (width 0.05) (type solid)) (fill none) (layer "F.CrtYd") (tstamp cb71c5b8-c38c-4e7f-82d8-8ae58ceba366))
+    (fp_circle (center 10 10) (end 12.2 10)
+      (stroke (width 0.05) (type solid)) (fill none) (layer "F.CrtYd") (tstamp e1d19874-bf65-4a2d-9940-d645e7e6ba1d))
+    (fp_line (start -12.5 10) (end -12.5 -10)
+      (stroke (width 0.1) (type default)) (layer "User.1") (tstamp 2e331287-99d7-45e4-b0f7-b793f4524a0a))
+    (fp_line (start -11.5 -9.5) (end -9.5 -11.5)
+      (stroke (width 0.1) (type default)) (layer "User.1") (tstamp dce0c751-ea63-47ff-807e-f8b5e3b29d01))
+    (fp_line (start -10.5 -8.5) (end -11.5 -9.5)
+      (stroke (width 0.1) (type default)) (layer "User.1") (tstamp ca11bdd8-c044-468c-a32f-593e47ccc6f5))
+    (fp_line (start -10 -12.5) (end 10 -12.5)
+      (stroke (width 0.1) (type default)) (layer "User.1") (tstamp 8a9a8fb4-48fd-4e99-8c6c-b6274a09fdd1))
+    (fp_line (start -9.5 -11.5) (end -8.5 -10.5)
+      (stroke (width 0.1) (type default)) (layer "User.1") (tstamp 65c5353a-73e8-40fe-bc0c-22c6405cc7c1))
+    (fp_line (start -8.5 -10.5) (end -10.5 -8.5)
+      (stroke (width 0.1) (type default)) (layer "User.1") (tstamp be293517-595d-4507-a044-ba786506228f))
+    (fp_line (start 10 12.5) (end -10 12.5)
+      (stroke (width 0.1) (type default)) (layer "User.1") (tstamp 2c707394-88a3-4084-90a7-51ed5ac962cb))
+    (fp_line (start 12.5 -10) (end 12.5 10)
+      (stroke (width 0.1) (type default)) (layer "User.1") (tstamp ec290dc4-c004-44a1-9482-1cf623f46acd))
+    (fp_arc (start -12.5 -10) (mid -11.767767 -11.767767) (end -10 -12.5)
+      (stroke (width 0.1) (type default)) (layer "User.1") (tstamp 19e47c38-712b-4603-bf5d-5ccb1327f79c))
+    (fp_arc (start -10 12.5) (mid -11.767767 11.767767) (end -12.5 10)
+      (stroke (width 0.1) (type default)) (layer "User.1") (tstamp 2d614e04-e9b6-436e-9df2-451931fa7b20))
+    (fp_arc (start 10 -12.5) (mid 11.767767 -11.767767) (end 12.5 -10)
+      (stroke (width 0.1) (type default)) (layer "User.1") (tstamp dd465424-05af-4cb8-88c2-f1ad8328cfa1))
+    (fp_arc (start 12.5 10) (mid 11.767767 11.767767) (end 10 12.5)
+      (stroke (width 0.1) (type default)) (layer "User.1") (tstamp fdbb8aa8-2fcf-4813-af94-5ed49f88236d))
+    (pad "1" thru_hole circle (at 10 -10) (size 4.4 4.4) (drill 2.2) (layers "*.Cu" "*.Mask") (tstamp 2930fb4d-dc8e-413a-96cc-125b05f233be))
+    (pad "2" thru_hole circle (at -10 10) (size 4.4 4.4) (drill 2.2) (layers "*.Cu" "*.Mask") (tstamp 27f26714-cb2d-4a4c-a7a4-8d879a4da606))
+    (pad "2" thru_hole circle (at 10 10) (size 4.4 4.4) (drill 2.2) (layers "*.Cu" "*.Mask") (tstamp 5b06bf91-9cee-48c7-b366-bf0e008e5fcd))
+    (model "${KICAD_JANELIA_LIBRARY}/3dmodels/Janelia.3dshapes/FAN_255M.step"
+      (offset (xyz 0 0 14))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
+    )
+    (model "${KICAD_JANELIA_LIBRARY}/3dmodels/Janelia.3dshapes/Standoff_M2_4x6mm.step"
+      (offset (xyz 10 10 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz -180 0 0))
+    )
+    (model "${KICAD_JANELIA_LIBRARY}/3dmodels/Janelia.3dshapes/Standoff_M2_4x6mm.step"
+      (offset (xyz 10 -10 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 180 0 0))
+    )
+    (model "${KICAD_JANELIA_LIBRARY}/3dmodels/Janelia.3dshapes/Standoff_M2_4x6mm.step"
+      (offset (xyz -10 -10 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 180 0 0))
     )
   )
 
@@ -4320,7 +4347,7 @@
 
   (footprint "Janelia:TPS737Q1" (layer "F.Cu")
     (tstamp e7db12a4-b242-4a34-95cf-9d6b16a25437)
-    (at 140.9 110.6 90)
+    (at 140.9 92.6 90)
     (property "Manufacturer" "Texas Instruments")
     (property "Manufacturer Part Number" "TPS73733QDRBRQ1")
     (property "Package" " 8SON")
@@ -4624,7 +4651,7 @@
 
   (footprint "Janelia:LED_0402_1005Metric" (layer "F.Cu")
     (tstamp e87871d4-ab1a-45c0-bbdb-44a2a638c56d)
-    (at 133.4 109.6 -90)
+    (at 133.4 91.6 -90)
     (descr "LED SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags "LED")
     (property "Manufacturer" "QT Brightek (QTB)")
@@ -4686,7 +4713,7 @@
 
   (footprint "Janelia:TPS737Q1" (layer "F.Cu")
     (tstamp f110c1a5-7393-432f-8cf8-0c2f80f420c8)
-    (at 137.4 92.6 90)
+    (at 137.4 110.6 90)
     (property "Manufacturer" "Texas Instruments")
     (property "Manufacturer Part Number" "TPS73733QDRBRQ1")
     (property "Package" " 8SON")
@@ -5024,7 +5051,7 @@
 
   (footprint "Janelia:C_0402_1005Metric" (layer "F.Cu")
     (tstamp ff39bdcb-f78b-41d5-99fe-b402e800b646)
-    (at 134.9 93.6 90)
+    (at 134.9 111.6 90)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Manufacturer" "Murata Electronics")
@@ -5083,7 +5110,7 @@
 
   (footprint "Janelia:R_0402_1005Metric" (layer "B.Cu")
     (tstamp 073aad96-0f23-4674-8b9e-f20f5383544e)
-    (at 161.9 88.85 90)
+    (at 161.9 89.1 90)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Manufacturer" "YAGEO")
@@ -5142,7 +5169,7 @@
 
   (footprint "Janelia:R_0402_1005Metric" (layer "B.Cu")
     (tstamp 088894ac-d139-4da2-b676-8131eb2d242b)
-    (at 151.4 95.35 -90)
+    (at 150.4 94.6 -90)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Manufacturer" "Panasonic Electronic Components")
@@ -5201,7 +5228,7 @@
 
   (footprint "Janelia:C_0402_1005Metric" (layer "B.Cu")
     (tstamp 0b0c3661-161f-4a33-a705-0797d382cb7f)
-    (at 153.4 94.35 90)
+    (at 152.4 93.6 90)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Manufacturer" "Murata Electronics")
@@ -5260,7 +5287,7 @@
 
   (footprint "Janelia:Crystal_SMD_Abracon_ABM8-4Pin_3.2x2.5mm" (layer "B.Cu")
     (tstamp 0f974ef4-4b2b-402d-9c3c-dedfa9923fdd)
-    (at 152.4 111.85 180)
+    (at 151.4 111.1 180)
     (descr "Abracon Miniature Ceramic Smd Crystal ABM8AIG https://abracon.com/AIGcrystals/ABM8AIG.pdf, 3.2x2.5mm^2 package")
     (tags "SMD SMT crystal")
     (property "Manufacturer" "Abracon LLC")
@@ -5333,7 +5360,7 @@
 
   (footprint "Janelia:C_0402_1005Metric" (layer "B.Cu")
     (tstamp 117a1f49-4282-4b67-87bb-c489de33851a)
-    (at 153.4 109.35)
+    (at 152.4 108.6)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Manufacturer" "KEMET")
@@ -5451,7 +5478,7 @@
 
   (footprint "Janelia:CR_DSN2_152AB-C_OSI" (layer "B.Cu")
     (tstamp 1cc27efc-a84a-41ef-901c-f7871094b94f)
-    (at 144.4 84.35 90)
+    (at 144.4 84.6 90)
     (tags "NSR20F40NXT5G ")
     (property "Manufacturer" "onsemi")
     (property "Manufacturer Part Number" "NSR20F40NXT5G")
@@ -5525,7 +5552,7 @@
 
   (footprint "Janelia:C_0402_1005Metric" (layer "B.Cu")
     (tstamp 2862a130-6e04-46b5-b828-6e2665cc455a)
-    (at 151.4 109.35 180)
+    (at 150.4 108.6 180)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Manufacturer" "KEMET")
@@ -5584,7 +5611,7 @@
 
   (footprint "Janelia:R_0402_1005Metric" (layer "B.Cu")
     (tstamp 339c8356-69bf-4ca7-a2f3-a6e99a5e597e)
-    (at 150.4 95.35 -90)
+    (at 149.4 94.6 -90)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Manufacturer" "Panasonic Electronic Components")
@@ -5643,7 +5670,7 @@
 
   (footprint "Janelia:C_0402_1005Metric" (layer "B.Cu")
     (tstamp 3c21276f-588c-4e2f-b945-4f7da34e3412)
-    (at 152.4 94.35 90)
+    (at 151.4 93.6 90)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Manufacturer" "Murata Electronics")
@@ -5702,7 +5729,7 @@
 
   (footprint "Janelia:C_0402_1005Metric" (layer "B.Cu")
     (tstamp 3f198c50-274d-4a91-8c18-fe3d5c594051)
-    (at 157.9 102.35)
+    (at 156.9 101.6)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Manufacturer" "Murata Electronics")
@@ -6029,7 +6056,7 @@
 
   (footprint "Janelia:USB_C_Receptacle_Amphenol_10137062-00021LF" (layer "B.Cu")
     (tstamp 51c7b18c-0876-4b47-b0db-5cfcfc11cf87)
-    (at 152.4 88.35)
+    (at 152.4 88.6)
     (property "Manufacturer" "Amphenol ICC (FCI)")
     (property "Manufacturer Part Number" "10137062-00021LF")
     (property "Sheetfile" "microcontroller.kicad_sch")
@@ -6143,7 +6170,7 @@
 
   (footprint "Janelia:SMT_1045822_WRE" (layer "B.Cu")
     (tstamp 65577feb-238e-4da5-bfbe-5b000f82eacd)
-    (at 160.9 83.35)
+    (at 160.9 83.6)
     (tags "436331045822 ")
     (property "Manufacturer" "Würth Elektronik")
     (property "Manufacturer Part Number" "436333045822")
@@ -6219,7 +6246,7 @@
 
   (footprint "Janelia:WSON-8-1EP_6x5mm_P1.27mm_EP3.4x4.3mm" (layer "B.Cu")
     (tstamp 65fd5a38-bec6-4032-b1f4-8bdd92776acc)
-    (at 159.4 92.85 180)
+    (at 159.4 93.1 180)
     (descr "WSON, 8 Pin (http://www.winbond.com/resource-files/w25q32jv%20revg%2003272018%20plus.pdf (page 68)), generated with kicad-footprint-generator ipc_noLead_generator.py")
     (tags "WSON NoLead")
     (property "Manufacturer" "Winbond Electronics")
@@ -6444,7 +6471,7 @@
 
   (footprint "Janelia:C_0402_1005Metric" (layer "B.Cu")
     (tstamp 7543142f-26e8-4e51-991e-fff3672aba0c)
-    (at 146.9 97.35 180)
+    (at 145.9 96.6 180)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Manufacturer" "Murata Electronics")
@@ -6503,7 +6530,7 @@
 
   (footprint "Janelia:C_0402_1005Metric" (layer "B.Cu")
     (tstamp 7da52d72-176c-484e-bf6e-31b162c67c42)
-    (at 157.9 88.85 90)
+    (at 157.9 89.1 90)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Manufacturer" "Murata Electronics")
@@ -6562,7 +6589,7 @@
 
   (footprint "Janelia:C_0402_1005Metric" (layer "B.Cu")
     (tstamp 856867e3-96ae-400a-9a1c-288dc99d2fec)
-    (at 152.4 106.85 -90)
+    (at 151.4 106.1 -90)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Manufacturer" "Murata Electronics")
@@ -6621,7 +6648,7 @@
 
   (footprint "Janelia:C_0402_1005Metric" (layer "B.Cu")
     (tstamp 8ec1a08b-5647-4655-a9ee-06a754e78bc7)
-    (at 146.9 95.85 180)
+    (at 145.9 95.1 180)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Manufacturer" "Murata Electronics")
@@ -6680,7 +6707,7 @@
 
   (footprint "Janelia:C_0402_1005Metric" (layer "B.Cu")
     (tstamp 9049cba6-03ec-423a-9909-b1b91881be83)
-    (at 148.4 95.35 90)
+    (at 147.4 94.6 90)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Manufacturer" "Samsung Electro-Mechanics")
@@ -6739,7 +6766,7 @@
 
   (footprint "Janelia:C_0402_1005Metric" (layer "B.Cu")
     (tstamp 910f8470-6da4-4042-b02f-c6cab2725b36)
-    (at 145.4 90.35 180)
+    (at 145.4 90.6 180)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Manufacturer" "Murata Electronics")
@@ -6924,7 +6951,7 @@
 
   (footprint "Janelia:CR_DSN2_152AB-C_OSI" (layer "B.Cu")
     (tstamp a38b1ef2-7fb0-48cb-9a78-be11de155de0)
-    (at 146.4 84.35 90)
+    (at 146.4 84.6 90)
     (tags "NSR20F40NXT5G ")
     (property "Manufacturer" "onsemi")
     (property "Manufacturer Part Number" "NSR20F40NXT5G")
@@ -6998,7 +7025,7 @@
 
   (footprint "Janelia:C_0402_1005Metric" (layer "B.Cu")
     (tstamp a487dc5a-2cff-472c-91f3-4f0d72a2618b)
-    (at 157.9 98.35)
+    (at 156.9 97.6)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Manufacturer" "Murata Electronics")
@@ -7116,7 +7143,7 @@
 
   (footprint "Janelia:R_0402_1005Metric" (layer "B.Cu")
     (tstamp a72cb872-206a-475f-9ba0-74d22832b47c)
-    (at 157.9 86.85 -90)
+    (at 157.9 87.1 -90)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Manufacturer" "Panasonic Electronic Components")
@@ -7267,7 +7294,7 @@
 
   (footprint "Janelia:R_0402_1005Metric" (layer "B.Cu")
     (tstamp ac204f54-9425-4e8b-a0f8-7d0e293fd993)
-    (at 153.4 106.85 -90)
+    (at 152.4 106.1 -90)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Manufacturer" "YAGEO")
@@ -7326,7 +7353,7 @@
 
   (footprint "Janelia:R_0402_1005Metric" (layer "B.Cu")
     (tstamp b0040b62-fcf0-43e2-a461-4978dc41eecc)
-    (at 148.9 90.85 180)
+    (at 148.9 91.1 180)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Manufacturer" "Panasonic Electronic Components")
@@ -7385,7 +7412,7 @@
 
   (footprint "Janelia:C_0402_1005Metric" (layer "B.Cu")
     (tstamp b13a6e84-9778-4113-9495-a0e474333cde)
-    (at 151.4 106.85 -90)
+    (at 150.4 106.1 -90)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Manufacturer" "Murata Electronics")
@@ -7503,7 +7530,7 @@
 
   (footprint "Janelia:R_0402_1005Metric" (layer "B.Cu")
     (tstamp cac1181f-95ab-4387-a178-5651928fce98)
-    (at 160.9 88.85 90)
+    (at 160.9 89.1 90)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Manufacturer" "YAGEO")
@@ -7562,7 +7589,7 @@
 
   (footprint "Janelia:TPS737Q1" (layer "B.Cu")
     (tstamp cd4b7c70-095b-4eec-a957-5e09d41e3221)
-    (at 145.4 87.85 90)
+    (at 145.4 88.1 90)
     (property "Manufacturer" "Texas Instruments")
     (property "Manufacturer Part Number" "TPS73733QDRBRQ1")
     (property "Package" " 8SON")
@@ -7993,7 +8020,7 @@
 
   (footprint "Janelia:C_0402_1005Metric" (layer "B.Cu")
     (tstamp dd35bb17-4be7-486f-bb62-4d77c606d48d)
-    (at 146.9 102.35 180)
+    (at 145.9 101.6 180)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Manufacturer" "Murata Electronics")
@@ -8083,7 +8110,7 @@
 
   (footprint "Janelia:QFN-56-1EP_7x7mm_P0.4mm_EP3.2x3.2mm" (layer "B.Cu")
     (tstamp e541bd19-e8c7-4b1b-84b9-113e80888082)
-    (at 152.4 101.35 180)
+    (at 151.4 100.6 180)
     (descr "QFN, 56 Pin (https://datasheets.raspberrypi.com/rp2040/rp2040-datasheet.pdf#page=634), generated with kicad-footprint-generator ipc_noLead_generator.py")
     (tags "QFN NoLead")
     (property "Manufacturer" "Raspberry Pi")
@@ -8280,7 +8307,7 @@
 
   (footprint "Janelia:C_0402_1005Metric" (layer "B.Cu")
     (tstamp eddeff3c-3481-409a-baf9-3169519c2cd7)
-    (at 142.9 87.85 -90)
+    (at 142.9 88.1 -90)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Manufacturer" "Murata Electronics")
@@ -8481,7 +8508,7 @@
 
   (footprint "Janelia:C_0402_1005Metric" (layer "B.Cu")
     (tstamp f66aebf4-f1f3-4c66-abab-089d3b97975a)
-    (at 149.4 95.35 90)
+    (at 148.4 94.6 90)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Manufacturer" "Samsung Electro-Mechanics")
@@ -8681,6 +8708,28 @@
       e87871d4-ab1a-45c0-bbdb-44a2a638c56d
     )
   )
+  (group "" (id 0cd35627-3d5d-4d21-81f6-ac7477da2000)
+    (members
+      088894ac-d139-4da2-b676-8131eb2d242b
+      0b0c3661-161f-4a33-a705-0797d382cb7f
+      0f974ef4-4b2b-402d-9c3c-dedfa9923fdd
+      117a1f49-4282-4b67-87bb-c489de33851a
+      2862a130-6e04-46b5-b828-6e2665cc455a
+      339c8356-69bf-4ca7-a2f3-a6e99a5e597e
+      3c21276f-588c-4e2f-b945-4f7da34e3412
+      3f198c50-274d-4a91-8c18-fe3d5c594051
+      7543142f-26e8-4e51-991e-fff3672aba0c
+      856867e3-96ae-400a-9a1c-288dc99d2fec
+      8ec1a08b-5647-4655-a9ee-06a754e78bc7
+      9049cba6-03ec-423a-9909-b1b91881be83
+      a487dc5a-2cff-472c-91f3-4f0d72a2618b
+      ac204f54-9425-4e8b-a0f8-7d0e293fd993
+      b13a6e84-9778-4113-9495-a0e474333cde
+      dd35bb17-4be7-486f-bb62-4d77c606d48d
+      e541bd19-e8c7-4b1b-84b9-113e80888082
+      f66aebf4-f1f3-4c66-abab-089d3b97975a
+    )
+  )
   (group "" (id 170dfa7e-85bc-4211-b073-cb524614b582)
     (members
       17035c4f-548e-4f7c-b132-a731c4de27f4
@@ -8689,39 +8738,21 @@
       d4c37be9-f563-4d96-bbd8-2a9384e0762a
     )
   )
-  (group "" (id 926009dc-b873-49b3-aecf-35fe8d536516)
+  (group "" (id 5886f10a-0bc8-46cb-84af-a2dff55d8ebb)
     (members
       073aad96-0f23-4674-8b9e-f20f5383544e
-      088894ac-d139-4da2-b676-8131eb2d242b
-      0b0c3661-161f-4a33-a705-0797d382cb7f
-      0f974ef4-4b2b-402d-9c3c-dedfa9923fdd
-      117a1f49-4282-4b67-87bb-c489de33851a
       1cc27efc-a84a-41ef-901c-f7871094b94f
-      2862a130-6e04-46b5-b828-6e2665cc455a
-      339c8356-69bf-4ca7-a2f3-a6e99a5e597e
-      3c21276f-588c-4e2f-b945-4f7da34e3412
-      3f198c50-274d-4a91-8c18-fe3d5c594051
       51c7b18c-0876-4b47-b0db-5cfcfc11cf87
       65577feb-238e-4da5-bfbe-5b000f82eacd
       65fd5a38-bec6-4032-b1f4-8bdd92776acc
-      7543142f-26e8-4e51-991e-fff3672aba0c
       7da52d72-176c-484e-bf6e-31b162c67c42
-      856867e3-96ae-400a-9a1c-288dc99d2fec
-      8ec1a08b-5647-4655-a9ee-06a754e78bc7
-      9049cba6-03ec-423a-9909-b1b91881be83
       910f8470-6da4-4042-b02f-c6cab2725b36
       a38b1ef2-7fb0-48cb-9a78-be11de155de0
-      a487dc5a-2cff-472c-91f3-4f0d72a2618b
       a72cb872-206a-475f-9ba0-74d22832b47c
-      ac204f54-9425-4e8b-a0f8-7d0e293fd993
       b0040b62-fcf0-43e2-a461-4978dc41eecc
-      b13a6e84-9778-4113-9495-a0e474333cde
       cac1181f-95ab-4387-a178-5651928fce98
       cd4b7c70-095b-4eec-a957-5e09d41e3221
-      dd35bb17-4be7-486f-bb62-4d77c606d48d
-      e541bd19-e8c7-4b1b-84b9-113e80888082
       eddeff3c-3481-409a-baf9-3169519c2cd7
-      f66aebf4-f1f3-4c66-abab-089d3b97975a
     )
   )
   (group "" (id d9e8af68-c3a1-42a1-8a12-0e1c0cc71eb6)
