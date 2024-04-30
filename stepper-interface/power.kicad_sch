@@ -2532,7 +2532,7 @@
   )
 
   (symbol (lib_id "Janelia:Fan_5VDC_25x25x8mm") (at 218.44 142.24 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid f45fe946-f162-4126-b87d-3c4b3fad3ddd)
     (property "Reference" "M301" (at 222.25 142.24 0) (do_not_autoplace)
       (effects (font (size 1.27 1.27)) (justify left))
