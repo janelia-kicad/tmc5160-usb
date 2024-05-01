@@ -6,7 +6,7 @@
 
   (title_block
     (title "stepper-interface")
-    (date "2024-04-30")
+    (date "2024-05-01")
     (rev "1.0")
     (company "Howard Hughes Medical Institute")
   )
@@ -100,13 +100,13 @@
       (property "Synopsis" "CAP CER 2.2UF 100V X7T 0805" (at 7.62 10.16 0)
         (effects (font (size 1.524 1.524)) hide)
       )
-      (property "Package" "0805" (at 0 0 0)
+      (property "Package" "0805" (at 0 17.78 0)
         (effects (font (size 1.27 1.27)) hide)
       )
-      (property "Manufacturer" "Murata Electronics" (at 0 0 0)
+      (property "Manufacturer" "Murata Electronics" (at 0 12.7 0)
         (effects (font (size 1.27 1.27)) hide)
       )
-      (property "Manufacturer Part Number" "GRT21BD72A225KE13K" (at 0 0 0)
+      (property "Manufacturer Part Number" "GRT21BD72A225KE13K" (at 0 15.24 0)
         (effects (font (size 1.27 1.27)) hide)
       )
       (property "ki_description" "2.2 µF ±10% 100V Ceramic Capacitor X7T 0805 (2012 Metric)" (at 0 0 0)
@@ -279,6 +279,10 @@
         (pin passive line (at 5.08 -2.54 180) (length 3.81)
           (name "Pin_2" (effects (font (size 1.27 1.27))))
           (number "2" (effects (font (size 1.27 1.27))))
+        )
+        (pin no_connect line (at 7.62 -1.27 180) (length 2.54) hide
+          (name "" (effects (font (size 1.27 1.27))))
+          (number "MP" (effects (font (size 1.27 1.27))))
         )
       )
     )
@@ -1169,6 +1173,10 @@
           (name "OUT" (effects (font (size 1.27 1.27))))
           (number "1" (effects (font (size 1.27 1.27))))
         )
+        (pin no_connect line (at 5.08 -7.62 90) (length 2.54) hide
+          (name "2" (effects (font (size 1.27 1.27))))
+          (number "2" (effects (font (size 1.27 1.27))))
+        )
         (pin passive line (at 10.16 0 180) (length 2.54)
           (name "NR" (effects (font (size 1.27 1.27))))
           (number "3" (effects (font (size 1.27 1.27))))
@@ -1180,6 +1188,14 @@
         (pin input line (at -10.16 0 0) (length 2.54)
           (name "EN" (effects (font (size 1.27 1.27))))
           (number "5" (effects (font (size 1.27 1.27))))
+        )
+        (pin no_connect line (at -2.54 -7.62 90) (length 2.54) hide
+          (name "6" (effects (font (size 1.27 1.27))))
+          (number "6" (effects (font (size 1.27 1.27))))
+        )
+        (pin no_connect line (at -10.16 -2.54 0) (length 2.54) hide
+          (name "7" (effects (font (size 1.27 1.27))))
+          (number "7" (effects (font (size 1.27 1.27))))
         )
         (pin power_in line (at -10.16 2.54 0) (length 2.54)
           (name "IN" (effects (font (size 1.27 1.27))))
@@ -1786,6 +1802,9 @@
     (pin "1" (uuid 2d1cdd6a-eb20-47db-8483-755101f723de))
     (pin "5" (uuid 6211cea8-c981-47ca-9c9c-166f71241d45))
     (pin "4" (uuid 0d8e4ebc-1b2f-481d-a608-1ff641e76418))
+    (pin "6" (uuid c19e569d-eb1e-470c-bcfd-ce5952e4a437))
+    (pin "2" (uuid 44c097e7-7dc9-48fb-bf63-09d2ae1a62ba))
+    (pin "7" (uuid de788f5b-e410-4a7e-992c-e2c8e11a767e))
     (instances
       (project "stepper-interface"
         (path "/df2b2e89-e055-4140-95de-f1df723db034/c1dd8f61-494c-402f-8e59-08309c64fc3f"
@@ -1852,6 +1871,7 @@
     )
     (pin "2" (uuid e5f34b04-b50c-4f30-8e9c-30507d758465))
     (pin "1" (uuid a0391858-500f-4ee6-abba-4fdcc0a4b403))
+    (pin "MP" (uuid e2d32dd5-92d2-4b0e-a248-d03fc51997b7))
     (instances
       (project "stepper-interface"
         (path "/df2b2e89-e055-4140-95de-f1df723db034/c1dd8f61-494c-402f-8e59-08309c64fc3f"

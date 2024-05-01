@@ -6,7 +6,7 @@
 
   (title_block
     (title "stepper-interface")
-    (date "2024-04-30")
+    (date "2024-05-01")
     (rev "1.0")
     (company "Howard Hughes Medical Institute")
   )
@@ -585,6 +585,18 @@
         (pin passive line (at -7.62 -40.64 90) (length 5.08)
           (name "SHIELD" (effects (font (size 1.27 1.27))))
           (number "S1" (effects (font (size 1.27 1.27))))
+        )
+        (pin passive line (at -7.62 -40.64 90) (length 5.08) hide
+          (name "SHIELD" (effects (font (size 1.27 1.27))))
+          (number "S2" (effects (font (size 1.27 1.27))))
+        )
+        (pin passive line (at -7.62 -40.64 90) (length 5.08) hide
+          (name "SHIELD" (effects (font (size 1.27 1.27))))
+          (number "S3" (effects (font (size 1.27 1.27))))
+        )
+        (pin passive line (at -7.62 -40.64 90) (length 5.08) hide
+          (name "SHIELD" (effects (font (size 1.27 1.27))))
+          (number "S4" (effects (font (size 1.27 1.27))))
         )
       )
     )
@@ -1398,6 +1410,10 @@
           (name "OUT" (effects (font (size 1.27 1.27))))
           (number "1" (effects (font (size 1.27 1.27))))
         )
+        (pin no_connect line (at 5.08 -7.62 90) (length 2.54) hide
+          (name "2" (effects (font (size 1.27 1.27))))
+          (number "2" (effects (font (size 1.27 1.27))))
+        )
         (pin passive line (at 10.16 0 180) (length 2.54)
           (name "NR" (effects (font (size 1.27 1.27))))
           (number "3" (effects (font (size 1.27 1.27))))
@@ -1409,6 +1425,14 @@
         (pin input line (at -10.16 0 0) (length 2.54)
           (name "EN" (effects (font (size 1.27 1.27))))
           (number "5" (effects (font (size 1.27 1.27))))
+        )
+        (pin no_connect line (at -2.54 -7.62 90) (length 2.54) hide
+          (name "6" (effects (font (size 1.27 1.27))))
+          (number "6" (effects (font (size 1.27 1.27))))
+        )
+        (pin no_connect line (at -10.16 -2.54 0) (length 2.54) hide
+          (name "7" (effects (font (size 1.27 1.27))))
+          (number "7" (effects (font (size 1.27 1.27))))
         )
         (pin power_in line (at -10.16 2.54 0) (length 2.54)
           (name "IN" (effects (font (size 1.27 1.27))))
@@ -2248,7 +2272,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 61ebbb76-3fc3-4aa0-abf1-8d2c05a6f031)
   )
-  (label "USB_DP" (at 93.98 90.17 180) (fields_autoplaced)
+  (label "USB_P" (at 93.98 90.17 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid 621ef52c-efdf-4975-9b86-7d26e854752d)
   )
@@ -2360,7 +2384,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid a13f2141-f1f2-4016-a7de-7c9ffb905777)
   )
-  (label "USB_DP" (at 67.31 121.92 270) (fields_autoplaced)
+  (label "USB_P" (at 67.31 121.92 270) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid a32205d6-b5f9-4962-8dbb-6ec3bc674738)
   )
@@ -2368,7 +2392,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid a4423baa-3fe5-4a84-ab1f-8029f9cf3dc4)
   )
-  (label "USB_DM" (at 73.66 121.92 270) (fields_autoplaced)
+  (label "USB_N" (at 73.66 121.92 270) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid a507188c-f042-489f-bb96-fbfc38b2dc3c)
   )
@@ -2400,7 +2424,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid b40879dd-5be5-40d2-83fe-46b4b2eda10e)
   )
-  (label "USB_DM" (at 93.98 92.71 180) (fields_autoplaced)
+  (label "USB_N" (at 93.98 92.71 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid b562c87d-c89f-4782-b4ef-e67bac4c37d8)
   )
@@ -3481,6 +3505,9 @@
     (pin "A5" (uuid de656428-ec01-4b00-9ed4-a758a9859930))
     (pin "A9" (uuid b18c7153-7381-46c3-8bac-276ccb5d6bde))
     (pin "S1" (uuid be0d8de3-77be-42b9-a747-b19e3675f181))
+    (pin "S2" (uuid bc6df1d5-2d9b-423e-b712-ba84854abb10))
+    (pin "S3" (uuid f68966bb-5044-41a2-b38b-1363b53f5667))
+    (pin "S4" (uuid a1653275-2d75-4e6b-86fa-3766240c950f))
     (instances
       (project "stepper-interface"
         (path "/df2b2e89-e055-4140-95de-f1df723db034/69dff8eb-dcc1-4f17-9e1d-cf8103035e92"
@@ -3573,6 +3600,9 @@
     (pin "1" (uuid 3771ce92-a3be-4443-9bd6-7b3f8f745471))
     (pin "5" (uuid f6c677e1-b148-4d48-854c-48455fe40412))
     (pin "4" (uuid 88beab38-0dc8-4d80-9682-496011c341d7))
+    (pin "6" (uuid 86bf7ac6-b3c0-439a-838f-62e43c901e51))
+    (pin "7" (uuid 28adb293-96a9-4b90-b171-895c63cbd003))
+    (pin "2" (uuid c3cb180a-8f92-45b7-b189-57482274b730))
     (instances
       (project "stepper-interface"
         (path "/df2b2e89-e055-4140-95de-f1df723db034/69dff8eb-dcc1-4f17-9e1d-cf8103035e92"
