@@ -48,7 +48,7 @@
   "bom": {
     "plugins": [
       {
-        "command": "",
+        "command": "/gnu/store/3lxr2xg3yscdb3979blgjg0h7xd1n9la-python-3.10.7/bin/python3 \"/gnu/store/wkb3dhpkykiq6lfsvfy80ri8j6gfc68i-kicad-7.0.11/share/kicad/plugins/bom_csv_grouped_extra.py\" \"%I\" \"%O.csv\"",
         "name": "bom_csv_grouped_extra",
         "path": "bom_csv_grouped_extra.py"
       },
@@ -61,9 +61,14 @@
         "command": "/gnu/store/3lxr2xg3yscdb3979blgjg0h7xd1n9la-python-3.10.7/bin/python3 \"/gnu/store/wkb3dhpkykiq6lfsvfy80ri8j6gfc68i-kicad-7.0.11/share/kicad/plugins/bom_csv_grouped_by_value_with_fp.py\" \"%I\" \"%O.csv\"",
         "name": "bom_csv_grouped_by_value_with_fp",
         "path": "bom_csv_grouped_by_value_with_fp.py"
+      },
+      {
+        "command": "xsltproc -o \"%O.csv\" \"/home/polidorop/.local/share/kicad/7.0/plugins/bom2grouped_csv_jlcpcb.xsl\" \"%I\"",
+        "name": "bom2grouped_csv_jlcpcb",
+        "path": "/home/polidorop/.local/share/kicad/7.0/plugins/bom2grouped_csv_jlcpcb.xsl"
       }
     ],
-    "selected_plugin": "bom_csv_grouped_extra"
+    "selected_plugin": "bom2grouped_csv_jlcpcb"
   },
   "color_picker": {
     "default_tab": 0
@@ -243,7 +248,7 @@
       "always_show_cursor": true,
       "fullscreen_cursor": true
     },
-    "display": 1,
+    "display": 0,
     "grid": {
       "axes_enabled": false,
       "fast_grid_1": 1,
@@ -259,11 +264,11 @@
     },
     "maximized": true,
     "mru_path": "",
-    "perspective": "layout2|name=InfoBar;caption=;state=131454;dir=1;layer=1;row=0;pos=0;prop=100000;bestw=20;besth=30;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=MainToolbar;caption=;state=139632;dir=1;layer=6;row=0;pos=0;prop=100000;bestw=1204;besth=34;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=MsgPanel;caption=;state=131452;dir=3;layer=6;row=0;pos=0;prop=100000;bestw=400;besth=38;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=SchematicHierarchy;caption=Schematic Hierarchy;state=2099148;dir=4;layer=3;row=0;pos=0;prop=100000;bestw=200;besth=200;minw=120;minh=60;maxw=-1;maxh=-1;floatx=2172;floaty=45;floatw=200;floath=200|name=OptToolbar;caption=;state=139596;dir=4;layer=2;row=0;pos=0;prop=100000;bestw=34;besth=396;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=ToolsToolbar;caption=;state=139596;dir=2;layer=2;row=0;pos=0;prop=100000;bestw=34;besth=762;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=DrawFrame;caption=;state=1020;dir=5;layer=0;row=0;pos=0;prop=100000;bestw=400;besth=188;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|dock_size(1,6,0)=34|dock_size(3,6,0)=38|dock_size(4,2,0)=34|dock_size(2,2,0)=34|dock_size(5,0,0)=378|dock_size(4,3,0)=202|",
-    "pos_x": 1920,
-    "pos_y": 0,
-    "size_x": 1260,
-    "size_y": 796,
+    "perspective": "layout2|name=InfoBar;caption=;state=131454;dir=1;layer=1;row=0;pos=0;prop=100000;bestw=20;besth=30;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=MainToolbar;caption=;state=139632;dir=1;layer=6;row=0;pos=0;prop=100000;bestw=1204;besth=34;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=MsgPanel;caption=;state=131452;dir=3;layer=6;row=0;pos=0;prop=100000;bestw=400;besth=38;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=SchematicHierarchy;caption=Schematic Hierarchy;state=2099148;dir=4;layer=3;row=0;pos=0;prop=100000;bestw=200;besth=200;minw=120;minh=60;maxw=-1;maxh=-1;floatx=252;floaty=70;floatw=200;floath=200|name=OptToolbar;caption=;state=139596;dir=4;layer=2;row=0;pos=0;prop=100000;bestw=34;besth=396;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=ToolsToolbar;caption=;state=139596;dir=2;layer=2;row=0;pos=0;prop=100000;bestw=34;besth=762;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=DrawFrame;caption=;state=1020;dir=5;layer=0;row=0;pos=0;prop=100000;bestw=400;besth=188;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|dock_size(1,6,0)=34|dock_size(3,6,0)=38|dock_size(4,2,0)=34|dock_size(2,2,0)=34|dock_size(5,0,0)=375|dock_size(4,3,0)=202|",
+    "pos_x": 0,
+    "pos_y": 25,
+    "size_x": 1250,
+    "size_y": 786,
     "zoom_factors": [
       0.05,
       0.07,

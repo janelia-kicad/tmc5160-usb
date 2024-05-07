@@ -29,4 +29,5 @@
    "texlive-siunitx"
    "texlive-graphics"
    "texlive-geometry"
-   "texlive-ulem"))
+   "texlive-ulem"
+   "libxslt"))

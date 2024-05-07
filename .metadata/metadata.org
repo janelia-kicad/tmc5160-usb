@@ -419,7 +419,8 @@ exit
    "texlive-siunitx"
    "texlive-graphics"
    "texlive-geometry"
-   "texlive-ulem"))
+   "texlive-ulem"
+   "libxslt"))
 #+END_SRC
 
 #+BEGIN_SRC text :tangle ../Makefile :exports none :noweb yes
