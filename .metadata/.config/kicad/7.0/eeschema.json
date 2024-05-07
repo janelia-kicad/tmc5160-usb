@@ -53,17 +53,17 @@
         "path": "bom_csv_grouped_extra.py"
       },
       {
-        "command": "",
+        "command": "/gnu/store/3lxr2xg3yscdb3979blgjg0h7xd1n9la-python-3.10.7/bin/python3 \"/gnu/store/wkb3dhpkykiq6lfsvfy80ri8j6gfc68i-kicad-7.0.11/share/kicad/plugins/bom_csv_grouped_by_value.py\" \"%I\" \"%O.csv\"",
         "name": "bom_csv_grouped_by_value",
         "path": "bom_csv_grouped_by_value.py"
       },
       {
-        "command": "",
+        "command": "/gnu/store/3lxr2xg3yscdb3979blgjg0h7xd1n9la-python-3.10.7/bin/python3 \"/gnu/store/wkb3dhpkykiq6lfsvfy80ri8j6gfc68i-kicad-7.0.11/share/kicad/plugins/bom_csv_grouped_by_value_with_fp.py\" \"%I\" \"%O.csv\"",
         "name": "bom_csv_grouped_by_value_with_fp",
         "path": "bom_csv_grouped_by_value_with_fp.py"
       }
     ],
-    "selected_plugin": ""
+    "selected_plugin": "bom_csv_grouped_extra"
   },
   "color_picker": {
     "default_tab": 0
@@ -178,8 +178,8 @@
   "plot": {
     "background_color": false,
     "color": true,
-    "color_theme": "user",
-    "format": 0,
+    "color_theme": "/home/polidorop/.local/share/kicad/7.0/3rdparty/colors/com_github_pointhi_kicad-color-schemes_solarized-light/solarized-light.json",
+    "format": 5,
     "frame_reference": true,
     "hpgl_origin": 0,
     "hpgl_paper_size": 0,
