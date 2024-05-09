@@ -6,7 +6,7 @@
 
   (title_block
     (title "stepper-interface")
-    (date "2024-05-08")
+    (date "2024-05-09")
     (rev "1.0")
     (company "Howard Hughes Medical Institute")
   )
@@ -327,7 +327,7 @@
       (property "Comment" "Panasonic Electronic Components ERJ-2RKF15R0X 15 Ohms ±1% 0.1W, 1/10W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q200 Thick Film" (at 0 0 0)
         (effects (font (size 1.27 1.27)) hide)
       )
-      (property "LCSC" "" (at 0 0 0)
+      (property "LCSC" "C413047" (at 0 0 0)
         (effects (font (size 1.27 1.27)) hide)
       )
       (property "ki_description" "15 Ohms ±1% 0.1W, 1/10W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q200 Thick Film" (at 0 0 0)
@@ -614,7 +614,7 @@
     (property "Comment" "Panasonic Electronic Components ERJ-2RKF15R0X 15 Ohms ±1% 0.1W, 1/10W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q200 Thick Film" (at 132.08 80.01 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "LCSC" "" (at 132.08 80.01 0)
+    (property "LCSC" "C413047" (at 132.08 80.01 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "2" (uuid cf54e939-bf99-46e7-8a3a-1fddaf396197))
