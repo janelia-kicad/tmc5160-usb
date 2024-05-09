@@ -471,7 +471,7 @@
       <fields>
         <field name="Comment">Molex 0874380243 Connector Header Surface Mount, Right Angle 2 position 0.059" (1.50mm)</field>
         <field name="LCSC">C240853</field>
-        <field name="Manufactuer Part Number">0874380243</field>
+        <field name="Manufacturer Part Number">0874380243</field>
         <field name="Manufacturer">Molex</field>
         <field name="Synopsis">CONN HEADER SMD R/A 2POS 1.5MM</field>
         <field name="Vendor">Digi-Key</field>
@@ -479,7 +479,7 @@
       </fields>
       <libsource lib="Janelia" part="Conn_01x02_P1.5mm_Molex_Pico-SPOX-87438_Horizontal" description="Connector Header Surface Mount, Right Angle 2 position 0.059&quot; (1.50mm)"/>
       <property name="Manufacturer" value="Molex"/>
-      <property name="Manufactuer Part Number" value="0874380243"/>
+      <property name="Manufacturer Part Number" value="0874380243"/>
       <property name="Vendor" value="Digi-Key"/>
       <property name="Vendor Part Number" value="WM7646CT-ND"/>
       <property name="Synopsis" value="CONN HEADER SMD R/A 2POS 1.5MM"/>
@@ -498,7 +498,7 @@
       <fields>
         <field name="Comment">Molex 5055680281 Connector Header Surface Mount 2 position 0.049" (1.25mm)</field>
         <field name="LCSC">C17180191</field>
-        <field name="Manufactuer Part Number">5055680281</field>
+        <field name="Manufacturer Part Number">5055680281</field>
         <field name="Manufacturer">Molex</field>
         <field name="Synopsis">CONN HEADER SMD 2POS 1.25MM</field>
         <field name="Vendor">Digi-Key</field>
@@ -507,7 +507,7 @@
       <libsource lib="Janelia" part="Conn_01x02_P1.25mm_Molex_Micro-Lock-PLUS-505568_Vertical" description="Connector Header Surface Mount 2 position 0.049&quot; (1.25mm)"/>
       <property name="Synopsis" value="CONN HEADER SMD 2POS 1.25MM"/>
       <property name="Manufacturer" value="Molex"/>
-      <property name="Manufactuer Part Number" value="5055680281"/>
+      <property name="Manufacturer Part Number" value="5055680281"/>
       <property name="Vendor" value="Digi-Key"/>
       <property name="Vendor Part Number" value="WM26831CT-ND"/>
       <property name="Comment" value="Molex 5055680281 Connector Header Surface Mount 2 position 0.049&quot; (1.25mm)"/>
@@ -1247,7 +1247,7 @@
       <fields>
         <field name="Comment">Molex 5015680207 Connector Header Surface Mount, Right Angle 2 position 0.039" (1.00mm)</field>
         <field name="LCSC">C505123</field>
-        <field name="Manufactuer Part Number">5015680207</field>
+        <field name="Manufacturer Part Number">5015680207</field>
         <field name="Manufacturer">Molex</field>
         <field name="Synopsis">CONN HEADER SMD R/A 2POS 1MM</field>
         <field name="Vendor">Digi-Key</field>
@@ -1256,7 +1256,7 @@
       <libsource lib="Janelia" part="Conn_01x02_P1mm_Molex_Pico-Clasp-501330_Horizontal" description="Connector Header Surface Mount, Right Angle 2 position 0.039&quot; (1.00mm)"/>
       <property name="Synopsis" value="CONN HEADER SMD R/A 2POS 1MM"/>
       <property name="Manufacturer" value="Molex"/>
-      <property name="Manufactuer Part Number" value="5015680207"/>
+      <property name="Manufacturer Part Number" value="5015680207"/>
       <property name="Vendor" value="Digi-Key"/>
       <property name="Vendor Part Number" value="WM7893CT-ND"/>
       <property name="Comment" value="Molex 5015680207 Connector Header Surface Mount, Right Angle 2 position 0.039&quot; (1.00mm)"/>
@@ -3194,7 +3194,7 @@
         <field name="Datasheet">~</field>
         <field name="Synopsis">CONN HEADER SMD 2POS 1.25MM</field>
         <field name="Manufacturer">Molex</field>
-        <field name="Manufactuer Part Number">5055680281</field>
+        <field name="Manufacturer Part Number">5055680281</field>
         <field name="Vendor">Digi-Key</field>
         <field name="Vendor Part Number">WM26831CT-ND</field>
         <field name="Comment">Molex 5055680281 Connector Header Surface Mount 2 position 0.049" (1.25mm)</field>
@@ -3218,7 +3218,7 @@
         <field name="Datasheet">~</field>
         <field name="Synopsis">CONN HEADER SMD R/A 2POS 1.5MM</field>
         <field name="Manufacturer">Molex</field>
-        <field name="Manufactuer Part Number">0874380243</field>
+        <field name="Manufacturer Part Number">0874380243</field>
         <field name="Vendor">Digi-Key</field>
         <field name="Vendor Part Number">WM7646CT-ND</field>
         <field name="Comment">Molex 0874380243 Connector Header Surface Mount, Right Angle 2 position 0.059" (1.50mm)</field>
@@ -3242,7 +3242,7 @@
         <field name="Datasheet">~</field>
         <field name="Synopsis">CONN HEADER SMD R/A 2POS 1MM</field>
         <field name="Manufacturer">Molex</field>
-        <field name="Manufactuer Part Number">5015680207</field>
+        <field name="Manufacturer Part Number">5015680207</field>
         <field name="Vendor">Digi-Key</field>
         <field name="Vendor Part Number">WM7893CT-ND</field>
         <field name="Comment">Molex 5015680207 Connector Header Surface Mount, Right Angle 2 position 0.039" (1.00mm)</field>
