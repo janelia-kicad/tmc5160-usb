@@ -63,7 +63,7 @@
         "path": "bom_csv_grouped_by_value_with_fp.py"
       },
       {
-        "command": "xsltproc -o \"%O.csv\" \"/home/polidorop/.local/share/kicad/7.0/plugins/bom2grouped_csv_jlcpcb.xsl\" \"%I\"",
+        "command": "",
         "name": "bom2grouped_csv_jlcpcb",
         "path": "/home/polidorop/.local/share/kicad/7.0/plugins/bom2grouped_csv_jlcpcb.xsl"
       }
@@ -90,7 +90,7 @@
     "default_sheet_border_color": "rgba(0, 0, 0, 0.000)",
     "default_text_size": 50,
     "default_wire_thickness": 6,
-    "field_names": "",
+    "field_names": "(templatefields)",
     "junction_size_choice": 3,
     "junction_size_mult_list": [
       0.0,
@@ -183,8 +183,8 @@
   "plot": {
     "background_color": false,
     "color": true,
-    "color_theme": "/home/polidorop/.local/share/kicad/7.0/3rdparty/colors/com_github_pointhi_kicad-color-schemes_solarized-light/solarized-light.json",
-    "format": 5,
+    "color_theme": "_builtin_default",
+    "format": 4,
     "frame_reference": true,
     "hpgl_origin": 0,
     "hpgl_paper_size": 0,

@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>/home/polidorop/Repositories/kicad/stepper-interface/stepper-interface/stepper-interface.kicad_sch</source>
-    <date>Fri 10 May 2024 11:41:24 AM EDT</date>
+    <date>Fri 10 May 2024 01:39:04 PM EDT</date>
     <tool>Eeschema 7.0.11</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -458,6 +458,7 @@
         <field name="LCSC">C240853</field>
         <field name="Manufacturer">Molex</field>
         <field name="Manufacturer Part Number">0874380243</field>
+        <field name="Package">SMD_P=1.5mm</field>
         <field name="Synopsis">CONN HEADER SMD R/A 2POS 1.5MM</field>
         <field name="Vendor">Digi-Key</field>
         <field name="Vendor Part Number">WM7646CT-ND</field>
@@ -469,6 +470,7 @@
       <property name="Vendor Part Number" value="WM7646CT-ND"/>
       <property name="Synopsis" value="CONN HEADER SMD R/A 2POS 1.5MM"/>
       <property name="LCSC" value="C240853"/>
+      <property name="Package" value="SMD_P=1.5mm"/>
       <property name="Sheetname" value="power"/>
       <property name="Sheetfile" value="power.kicad_sch"/>
       <property name="ki_description" value="Connector Header Surface Mount, Right Angle 2 position 0.059&quot; (1.50mm)"/>
@@ -483,6 +485,7 @@
         <field name="LCSC">C17180191</field>
         <field name="Manufacturer">Molex</field>
         <field name="Manufacturer Part Number">5055680281</field>
+        <field name="Package">SMD</field>
         <field name="Synopsis">CONN HEADER SMD 2POS 1.25MM</field>
         <field name="Vendor">Digi-Key</field>
         <field name="Vendor Part Number">WM26831CT-ND</field>
@@ -494,6 +497,7 @@
       <property name="Vendor" value="Digi-Key"/>
       <property name="Vendor Part Number" value="WM26831CT-ND"/>
       <property name="LCSC" value="C17180191"/>
+      <property name="Package" value="SMD"/>
       <property name="Sheetname" value="power"/>
       <property name="Sheetfile" value="power.kicad_sch"/>
       <property name="ki_description" value="Connector Header Surface Mount 2 position 0.049&quot; (1.25mm)"/>
@@ -508,6 +512,7 @@
         <field name="LCSC">C2453193</field>
         <field name="Manufacturer">Eaton - Electronics Division</field>
         <field name="Manufacturer Part Number">SD25-151-R</field>
+        <field name="Package">SMD-4P_5.2x5.2mm</field>
         <field name="Synopsis">FIXED IND 150UH 553MA 872.3 MOHM</field>
         <field name="Vendor">Digi-Key</field>
         <field name="Vendor Part Number">283-4694-1-ND</field>
@@ -519,6 +524,7 @@
       <property name="Vendor Part Number" value="283-4694-1-ND"/>
       <property name="Synopsis" value="FIXED IND 150UH 553MA 872.3 MOHM"/>
       <property name="LCSC" value="C2453193"/>
+      <property name="Package" value="SMD-4P_5.2x5.2mm"/>
       <property name="Sheetname" value="power"/>
       <property name="Sheetfile" value="power.kicad_sch"/>
       <property name="ki_description" value="150 µH Shielded Drum Core, Wirewound Inductor 553 mA 872.3mOhm Nonstandard"/>
@@ -533,6 +539,7 @@
         <field name="LCSC">C139403</field>
         <field name="Manufacturer">Texas Instruments</field>
         <field name="Manufacturer Part Number">CSD17483F4</field>
+        <field name="Package">PicoStar-3</field>
         <field name="Sim.Enable">0</field>
         <field name="Synopsis">MOSFET N-CH 30V 1.5A 3PICOSTAR</field>
         <field name="Vendor">Digi-Key</field>
@@ -546,6 +553,7 @@
       <property name="Vendor Part Number" value="296-38914-1-ND"/>
       <property name="Sim.Enable" value="0"/>
       <property name="LCSC" value="C139403"/>
+      <property name="Package" value="PicoStar-3"/>
       <property name="Sheetname" value="power"/>
       <property name="Sheetfile" value="power.kicad_sch"/>
       <property name="ki_description" value="N-Channel 30 V 1.5A (Ta) 500mW (Ta) Surface Mount 3-PICOSTAR"/>
@@ -560,13 +568,13 @@
         <field name="LCSC">C3961061</field>
         <field name="Manufacturer">TE Connectivity Passive Product</field>
         <field name="Manufacturer Part Number">RA73F2A2K32BTD</field>
-        <field name="Package">0805 (2012 Metric)</field>
+        <field name="Package">0805</field>
         <field name="Synopsis">RA73F 2A 2K32 0.1% 5K RL</field>
         <field name="Vendor">Digi-Key</field>
         <field name="Vendor Part Number">1712-RA73F2A2K32BTDCT-ND</field>
       </fields>
       <libsource lib="Janelia" part="R_2.32k_1W_0805" description="2.32 kOhms ±0.1% 1W Chip Resistor 0805 (2012 Metric) Thin Film"/>
-      <property name="Package" value="0805 (2012 Metric)"/>
+      <property name="Package" value="0805"/>
       <property name="Manufacturer" value="TE Connectivity Passive Product"/>
       <property name="Manufacturer Part Number" value="RA73F2A2K32BTD"/>
       <property name="Vendor" value="Digi-Key"/>
@@ -613,13 +621,14 @@
         <field name="Manufacturer">Vishay Dale</field>
         <field name="Manufacturer Part Number">CRCW0402249RFKED</field>
         <field name="Package">0402</field>
+        <field name="Synopsis">RES SMD 249 OHM 1% 1/16W</field>
         <field name="Vendor">Digi-Key</field>
         <field name="Vendor Part Number">541-249LCT-ND</field>
       </fields>
       <libsource lib="Janelia" part="R_249_0.06W_0402" description="249 Ohms ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q200 Thick Film"/>
       <property name="Vendor" value="Digi-Key"/>
       <property name="Vendor Part Number" value="541-249LCT-ND"/>
-      <property name="Synopsis" value=""/>
+      <property name="Synopsis" value="RES SMD 249 OHM 1% 1/16W"/>
       <property name="Package" value="0402"/>
       <property name="Manufacturer" value="Vishay Dale"/>
       <property name="Manufacturer Part Number" value="CRCW0402249RFKED"/>
@@ -637,14 +646,14 @@
         <field name="LCSC">C2876564</field>
         <field name="Manufacturer">Texas Instruments</field>
         <field name="Manufacturer Part Number">LM5166XDRCR</field>
-        <field name="Package"> 10VSON</field>
+        <field name="Package">VSON-10-EP(3x3)</field>
         <field name="Synopsis">IC REG BUCK 5V 500MA</field>
         <field name="Vendor">Digi-Key</field>
         <field name="Vendor Part Number">296-47662-1-ND</field>
       </fields>
       <libsource lib="Janelia" part="Regulator_Switching_5V_500mA_LM5166X" description="Buck Switching Regulator IC Positive Fixed 5V 1 Output 500mA 10-VFDFN Exposed Pad"/>
       <property name="Synopsis" value="IC REG BUCK 5V 500MA"/>
-      <property name="Package" value=" 10VSON"/>
+      <property name="Package" value="VSON-10-EP(3x3)"/>
       <property name="Manufacturer" value="Texas Instruments"/>
       <property name="Manufacturer Part Number" value="LM5166XDRCR"/>
       <property name="Vendor" value="Digi-Key"/>
@@ -664,14 +673,14 @@
         <field name="LCSC">C523768</field>
         <field name="Manufacturer">Texas Instruments</field>
         <field name="Manufacturer Part Number">TPS73733QDRBRQ1</field>
-        <field name="Package"> 8SON</field>
+        <field name="Package">VSON-8-EP(3x3)</field>
         <field name="Synopsis">IC REG LINEAR 3.3V 1A</field>
         <field name="Vendor">Digi-Key</field>
         <field name="Vendor Part Number">296-24157-1-ND</field>
       </fields>
       <libsource lib="Janelia" part="Regulator_Linear_3.3V_1A_5.5Vin_TPS73733QDRBRQ1" description="Linear Voltage Regulator IC Positive Fixed 1 Output 1A 8-SON (3x3)"/>
       <property name="Synopsis" value="IC REG LINEAR 3.3V 1A"/>
-      <property name="Package" value=" 8SON"/>
+      <property name="Package" value="VSON-8-EP(3x3)"/>
       <property name="Manufacturer" value="Texas Instruments"/>
       <property name="Manufacturer Part Number" value="TPS73733QDRBRQ1"/>
       <property name="Vendor" value="Digi-Key"/>
@@ -1080,6 +1089,7 @@
         <field name="LCSC">C454279</field>
         <field name="Manufacturer">Panasonic Electronic Components</field>
         <field name="Manufacturer Part Number">EEH-ZS1H221V</field>
+        <field name="Package">SMD_D10xL16.8mm</field>
         <field name="Synopsis">CAP ALUM HYB 220UF 20% 50V SMD</field>
         <field name="Vendor">Digi-Key</field>
         <field name="Vendor Part Number">P124108CT-ND</field>
@@ -1091,6 +1101,7 @@
       <property name="Manufacturer" value="Panasonic Electronic Components"/>
       <property name="Manufacturer Part Number" value="EEH-ZS1H221V"/>
       <property name="LCSC" value="C454279"/>
+      <property name="Package" value="SMD_D10xL16.8mm"/>
       <property name="Sheetname" value="tmc5160"/>
       <property name="Sheetfile" value="tmc5160.kicad_sch"/>
       <property name="ki_description" value="220 µF 50 V Aluminum - Polymer Capacitors Radial, Can - SMD 13mOhm 4000 Hrs @ 125°C"/>
@@ -1130,7 +1141,7 @@
         <field name="LCSC">C1509577</field>
         <field name="Manufacturer">Littelfuse Inc.</field>
         <field name="Manufacturer Part Number">SMF48A</field>
-        <field name="Package"> SOD-123F</field>
+        <field name="Package">SOD-123FL</field>
         <field name="Synopsis">TVS SOD123FL 48V 200W UNIDIR</field>
         <field name="Vendor">Digi-Key</field>
         <field name="Vendor Part Number">F5832CT-ND</field>
@@ -1141,7 +1152,7 @@
       <property name="Manufacturer Part Number" value="SMF48A"/>
       <property name="Vendor" value="Digi-Key"/>
       <property name="Vendor Part Number" value="F5832CT-ND"/>
-      <property name="Package" value=" SOD-123F"/>
+      <property name="Package" value="SOD-123FL"/>
       <property name="LCSC" value="C1509577"/>
       <property name="Sheetname" value="tmc5160"/>
       <property name="Sheetfile" value="tmc5160.kicad_sch"/>
@@ -1157,6 +1168,7 @@
         <field name="LCSC">C564208</field>
         <field name="Manufacturer">Molex</field>
         <field name="Manufacturer Part Number">0874380443</field>
+        <field name="Package">SMD</field>
         <field name="Synopsis">CONN HEADER SMD R/A 4POS 1.5MM</field>
         <field name="Vendor">Digi-Key</field>
         <field name="Vendor Part Number">WM7648CT-ND</field>
@@ -1168,6 +1180,7 @@
       <property name="Vendor Part Number" value="WM7648CT-ND"/>
       <property name="Synopsis" value="CONN HEADER SMD R/A 4POS 1.5MM"/>
       <property name="LCSC" value="C564208"/>
+      <property name="Package" value="SMD"/>
       <property name="Sheetname" value="tmc5160"/>
       <property name="Sheetfile" value="tmc5160.kicad_sch"/>
       <property name="ki_description" value="Connector Header Surface Mount, Right Angle 4 position 0.059&quot; (1.50mm)"/>
@@ -1182,6 +1195,7 @@
         <field name="LCSC">C505123</field>
         <field name="Manufacturer">Molex</field>
         <field name="Manufacturer Part Number">5015680207</field>
+        <field name="Package">SMD_P=1mm</field>
         <field name="Synopsis">CONN HEADER SMD R/A 2POS 1MM</field>
         <field name="Vendor">Digi-Key</field>
         <field name="Vendor Part Number">WM7893CT-ND</field>
@@ -1193,6 +1207,7 @@
       <property name="Vendor" value="Digi-Key"/>
       <property name="Vendor Part Number" value="WM7893CT-ND"/>
       <property name="LCSC" value="C505123"/>
+      <property name="Package" value="SMD_P=1mm"/>
       <property name="Sheetname" value="tmc5160"/>
       <property name="Sheetfile" value="tmc5160.kicad_sch"/>
       <property name="ki_description" value="Connector Header Surface Mount, Right Angle 2 position 0.039&quot; (1.00mm)"/>
@@ -1390,13 +1405,13 @@
         <field name="LCSC">C1161714</field>
         <field name="Manufacturer">Analog Devices Inc.</field>
         <field name="Manufacturer Part Number">TMC5160A-WA</field>
-        <field name="Package">47-VFQFN Exposed Pad</field>
+        <field name="Package">QFN-56-EP(8x8)</field>
         <field name="Synopsis">IC MTR DRVR BIPOLAR 8-60V</field>
         <field name="Vendor">Digi-Key</field>
         <field name="Vendor Part Number">505-TMC5160A-WA-ND</field>
       </fields>
       <libsource lib="Janelia" part="TMC5160A-WA" description="Bipolar Motor Driver Power MOSFET SPI, Step/Direction 56-QFN (8x8)"/>
-      <property name="Package" value="47-VFQFN Exposed Pad"/>
+      <property name="Package" value="QFN-56-EP(8x8)"/>
       <property name="Manufacturer" value="Analog Devices Inc."/>
       <property name="Manufacturer Part Number" value="TMC5160A-WA"/>
       <property name="Vendor" value="Digi-Key"/>
@@ -1417,14 +1432,14 @@
         <field name="LCSC">C41637</field>
         <field name="Manufacturer">Analog Devices Inc./Maxim Integrated</field>
         <field name="Manufacturer Part Number">MAX6816EUS+T</field>
-        <field name="Package"> SOT143-4</field>
+        <field name="Package">SOT-143</field>
         <field name="Sim.Enable">0</field>
         <field name="Synopsis">IC SWITCH DEBOUNCER</field>
         <field name="Vendor">Digi-Key</field>
         <field name="Vendor Part Number">MAX6816EUS+TCT-ND</field>
       </fields>
       <libsource lib="Janelia" part="MAX6816" description="Switch Debouncer SOT-143-4"/>
-      <property name="Package" value=" SOT143-4"/>
+      <property name="Package" value="SOT-143"/>
       <property name="Manufacturer" value="Analog Devices Inc./Maxim Integrated"/>
       <property name="Manufacturer Part Number" value="MAX6816EUS+T"/>
       <property name="Vendor" value="Digi-Key"/>
@@ -1445,6 +1460,7 @@
         <field name="LCSC">C2451298</field>
         <field name="Manufacturer">ECS Inc.</field>
         <field name="Manufacturer Part Number">ECS-2520S33-160-FN-TR</field>
+        <field name="Package">SMD2520-4P</field>
         <field name="Synopsis">XTAL OSC XO 16.0000MHZ HCMOS SMD</field>
         <field name="Vendor">Digi-Key</field>
         <field name="Vendor Part Number">XC2195CT-ND</field>
@@ -1456,6 +1472,7 @@
       <property name="Vendor Part Number" value="XC2195CT-ND"/>
       <property name="Synopsis" value="XTAL OSC XO 16.0000MHZ HCMOS SMD"/>
       <property name="LCSC" value="C2451298"/>
+      <property name="Package" value="SMD2520-4P"/>
       <property name="Sheetname" value="tmc5160"/>
       <property name="Sheetfile" value="tmc5160.kicad_sch"/>
       <property name="ki_description" value="16 MHz XO (Standard) HCMOS Oscillator 3.3V Enable/Disable 4-SMD, No Lead"/>
@@ -1497,13 +1514,13 @@
         <field name="LCSC">C3288253</field>
         <field name="Manufacturer">Nexperia USA Inc.</field>
         <field name="Manufacturer Part Number">BUK7D36-60EX</field>
-        <field name="Package">6DFN</field>
+        <field name="Package">DFN2020MD-6</field>
         <field name="Synopsis">MOSFET N-CH 60V 5.5A/14A</field>
         <field name="Vendor">Digi-Key</field>
         <field name="Vendor Part Number">1727-BUK7D36-60EXCT-ND</field>
       </fields>
       <libsource lib="Janelia" part="BUK7D36-60EX" description="N-Channel 60 V 5.5A (Ta), 14A (Tc) 2.3W (Ta), 15W (Tc) Surface Mount DFN2020MD-6"/>
-      <property name="Package" value="6DFN"/>
+      <property name="Package" value="DFN2020MD-6"/>
       <property name="Manufacturer" value="Nexperia USA Inc."/>
       <property name="Manufacturer Part Number" value="BUK7D36-60EX"/>
       <property name="Vendor" value="Digi-Key"/>
@@ -1551,13 +1568,13 @@
         <field name="LCSC">C3288253</field>
         <field name="Manufacturer">Nexperia USA Inc.</field>
         <field name="Manufacturer Part Number">BUK7D36-60EX</field>
-        <field name="Package">6DFN</field>
+        <field name="Package">DFN2020MD-6</field>
         <field name="Synopsis">MOSFET N-CH 60V 5.5A/14A</field>
         <field name="Vendor">Digi-Key</field>
         <field name="Vendor Part Number">1727-BUK7D36-60EXCT-ND</field>
       </fields>
       <libsource lib="Janelia" part="BUK7D36-60EX" description="N-Channel 60 V 5.5A (Ta), 14A (Tc) 2.3W (Ta), 15W (Tc) Surface Mount DFN2020MD-6"/>
-      <property name="Package" value="6DFN"/>
+      <property name="Package" value="DFN2020MD-6"/>
       <property name="Manufacturer" value="Nexperia USA Inc."/>
       <property name="Manufacturer Part Number" value="BUK7D36-60EX"/>
       <property name="Vendor" value="Digi-Key"/>
@@ -1605,13 +1622,13 @@
         <field name="LCSC">C3288253</field>
         <field name="Manufacturer">Nexperia USA Inc.</field>
         <field name="Manufacturer Part Number">BUK7D36-60EX</field>
-        <field name="Package">6DFN</field>
+        <field name="Package">DFN2020MD-6</field>
         <field name="Synopsis">MOSFET N-CH 60V 5.5A/14A</field>
         <field name="Vendor">Digi-Key</field>
         <field name="Vendor Part Number">1727-BUK7D36-60EXCT-ND</field>
       </fields>
       <libsource lib="Janelia" part="BUK7D36-60EX" description="N-Channel 60 V 5.5A (Ta), 14A (Tc) 2.3W (Ta), 15W (Tc) Surface Mount DFN2020MD-6"/>
-      <property name="Package" value="6DFN"/>
+      <property name="Package" value="DFN2020MD-6"/>
       <property name="Manufacturer" value="Nexperia USA Inc."/>
       <property name="Manufacturer Part Number" value="BUK7D36-60EX"/>
       <property name="Vendor" value="Digi-Key"/>
@@ -1659,13 +1676,13 @@
         <field name="LCSC">C3288253</field>
         <field name="Manufacturer">Nexperia USA Inc.</field>
         <field name="Manufacturer Part Number">BUK7D36-60EX</field>
-        <field name="Package">6DFN</field>
+        <field name="Package">DFN2020MD-6</field>
         <field name="Synopsis">MOSFET N-CH 60V 5.5A/14A</field>
         <field name="Vendor">Digi-Key</field>
         <field name="Vendor Part Number">1727-BUK7D36-60EXCT-ND</field>
       </fields>
       <libsource lib="Janelia" part="BUK7D36-60EX" description="N-Channel 60 V 5.5A (Ta), 14A (Tc) 2.3W (Ta), 15W (Tc) Surface Mount DFN2020MD-6"/>
-      <property name="Package" value="6DFN"/>
+      <property name="Package" value="DFN2020MD-6"/>
       <property name="Manufacturer" value="Nexperia USA Inc."/>
       <property name="Manufacturer Part Number" value="BUK7D36-60EX"/>
       <property name="Vendor" value="Digi-Key"/>
@@ -1713,13 +1730,13 @@
         <field name="LCSC">C3288253</field>
         <field name="Manufacturer">Nexperia USA Inc.</field>
         <field name="Manufacturer Part Number">BUK7D36-60EX</field>
-        <field name="Package">6DFN</field>
+        <field name="Package">DFN2020MD-6</field>
         <field name="Synopsis">MOSFET N-CH 60V 5.5A/14A</field>
         <field name="Vendor">Digi-Key</field>
         <field name="Vendor Part Number">1727-BUK7D36-60EXCT-ND</field>
       </fields>
       <libsource lib="Janelia" part="BUK7D36-60EX" description="N-Channel 60 V 5.5A (Ta), 14A (Tc) 2.3W (Ta), 15W (Tc) Surface Mount DFN2020MD-6"/>
-      <property name="Package" value="6DFN"/>
+      <property name="Package" value="DFN2020MD-6"/>
       <property name="Manufacturer" value="Nexperia USA Inc."/>
       <property name="Manufacturer Part Number" value="BUK7D36-60EX"/>
       <property name="Vendor" value="Digi-Key"/>
@@ -1767,13 +1784,13 @@
         <field name="LCSC">C3288253</field>
         <field name="Manufacturer">Nexperia USA Inc.</field>
         <field name="Manufacturer Part Number">BUK7D36-60EX</field>
-        <field name="Package">6DFN</field>
+        <field name="Package">DFN2020MD-6</field>
         <field name="Synopsis">MOSFET N-CH 60V 5.5A/14A</field>
         <field name="Vendor">Digi-Key</field>
         <field name="Vendor Part Number">1727-BUK7D36-60EXCT-ND</field>
       </fields>
       <libsource lib="Janelia" part="BUK7D36-60EX" description="N-Channel 60 V 5.5A (Ta), 14A (Tc) 2.3W (Ta), 15W (Tc) Surface Mount DFN2020MD-6"/>
-      <property name="Package" value="6DFN"/>
+      <property name="Package" value="DFN2020MD-6"/>
       <property name="Manufacturer" value="Nexperia USA Inc."/>
       <property name="Manufacturer Part Number" value="BUK7D36-60EX"/>
       <property name="Vendor" value="Digi-Key"/>
@@ -1821,13 +1838,13 @@
         <field name="LCSC">C3288253</field>
         <field name="Manufacturer">Nexperia USA Inc.</field>
         <field name="Manufacturer Part Number">BUK7D36-60EX</field>
-        <field name="Package">6DFN</field>
+        <field name="Package">DFN2020MD-6</field>
         <field name="Synopsis">MOSFET N-CH 60V 5.5A/14A</field>
         <field name="Vendor">Digi-Key</field>
         <field name="Vendor Part Number">1727-BUK7D36-60EXCT-ND</field>
       </fields>
       <libsource lib="Janelia" part="BUK7D36-60EX" description="N-Channel 60 V 5.5A (Ta), 14A (Tc) 2.3W (Ta), 15W (Tc) Surface Mount DFN2020MD-6"/>
-      <property name="Package" value="6DFN"/>
+      <property name="Package" value="DFN2020MD-6"/>
       <property name="Manufacturer" value="Nexperia USA Inc."/>
       <property name="Manufacturer Part Number" value="BUK7D36-60EX"/>
       <property name="Vendor" value="Digi-Key"/>
@@ -1875,13 +1892,13 @@
         <field name="LCSC">C3288253</field>
         <field name="Manufacturer">Nexperia USA Inc.</field>
         <field name="Manufacturer Part Number">BUK7D36-60EX</field>
-        <field name="Package">6DFN</field>
+        <field name="Package">DFN2020MD-6</field>
         <field name="Synopsis">MOSFET N-CH 60V 5.5A/14A</field>
         <field name="Vendor">Digi-Key</field>
         <field name="Vendor Part Number">1727-BUK7D36-60EXCT-ND</field>
       </fields>
       <libsource lib="Janelia" part="BUK7D36-60EX" description="N-Channel 60 V 5.5A (Ta), 14A (Tc) 2.3W (Ta), 15W (Tc) Surface Mount DFN2020MD-6"/>
-      <property name="Package" value="6DFN"/>
+      <property name="Package" value="DFN2020MD-6"/>
       <property name="Manufacturer" value="Nexperia USA Inc."/>
       <property name="Manufacturer Part Number" value="BUK7D36-60EX"/>
       <property name="Vendor" value="Digi-Key"/>
@@ -2318,6 +2335,7 @@
         <field name="LCSC">C153761</field>
         <field name="Manufacturer">onsemi</field>
         <field name="Manufacturer Part Number">NSR20F40NXT5G</field>
+        <field name="Package">0603</field>
         <field name="Sim.Enable">0</field>
         <field name="Synopsis">DIODE SCHOTTKY 40V 2A 2DSN</field>
         <field name="Vendor">Digi-Key</field>
@@ -2331,6 +2349,7 @@
       <property name="Manufacturer Part Number" value="NSR20F40NXT5G"/>
       <property name="Sim.Enable" value="0"/>
       <property name="LCSC" value="C153761"/>
+      <property name="Package" value="0603"/>
       <property name="Sheetname" value="rp2040"/>
       <property name="Sheetfile" value="rp2040.kicad_sch"/>
       <property name="ki_description" value="Diode 40 V 2A Surface Mount 2-DSN (1.6x0.8), (0603)"/>
@@ -2344,6 +2363,7 @@
         <field name="LCSC">C153761</field>
         <field name="Manufacturer">onsemi</field>
         <field name="Manufacturer Part Number">NSR20F40NXT5G</field>
+        <field name="Package">0603</field>
         <field name="Sim.Enable">0</field>
         <field name="Synopsis">DIODE SCHOTTKY 40V 2A 2DSN</field>
         <field name="Vendor">Digi-Key</field>
@@ -2357,6 +2377,7 @@
       <property name="Manufacturer Part Number" value="NSR20F40NXT5G"/>
       <property name="Sim.Enable" value="0"/>
       <property name="LCSC" value="C153761"/>
+      <property name="Package" value="0603"/>
       <property name="Sheetname" value="rp2040"/>
       <property name="Sheetfile" value="rp2040.kicad_sch"/>
       <property name="ki_description" value="Diode 40 V 2A Surface Mount 2-DSN (1.6x0.8), (0603)"/>
@@ -2370,6 +2391,7 @@
         <field name="LCSC">C5410523</field>
         <field name="Manufacturer">Amphenol ICC (FCI)</field>
         <field name="Manufacturer Part Number">10152803-00011LF</field>
+        <field name="Package">USB-C-SMD</field>
         <field name="Synopsis">USB 3.2 TYPE C GEN 2 RECEPTACLE</field>
         <field name="Vendor">Digi-Key</field>
         <field name="Vendor Part Number">609-10152803-00011LFCT-ND</field>
@@ -2381,6 +2403,7 @@
       <property name="Vendor" value="Digi-Key"/>
       <property name="Vendor Part Number" value="609-10152803-00011LFCT-ND"/>
       <property name="LCSC" value="C5410523"/>
+      <property name="Package" value="USB-C-SMD"/>
       <property name="Sheetname" value="rp2040"/>
       <property name="Sheetfile" value="rp2040.kicad_sch"/>
       <property name="ki_description" value="USB-C (USB TYPE-C) USB 3.2 Gen 2 (USB 3.1 Gen 2, Superspeed + (USB 3.1)) Receptacle Connector 24 Position Surface Mount, Right Angle"/>
@@ -2577,6 +2600,7 @@
         <field name="LCSC">C7185056</field>
         <field name="Manufacturer">Würth Elektronik</field>
         <field name="Manufacturer Part Number">436333045822</field>
+        <field name="Package">-</field>
         <field name="Synopsis">SWITCH TACTILE SPST-NO 0.05A 12V</field>
         <field name="Vendor">Digi-Key</field>
         <field name="Vendor Part Number">732-7060-1-ND</field>
@@ -2588,6 +2612,7 @@
       <property name="Vendor Part Number" value="732-7060-1-ND"/>
       <property name="Synopsis" value="SWITCH TACTILE SPST-NO 0.05A 12V"/>
       <property name="LCSC" value="C7185056"/>
+      <property name="Package" value="-"/>
       <property name="Sheetname" value="rp2040"/>
       <property name="Sheetfile" value="rp2040.kicad_sch"/>
       <property name="ki_description" value="Tactile Switch SPST-NO Side Actuated Surface Mount, Right Angle"/>
@@ -2602,14 +2627,14 @@
         <field name="LCSC">C523768</field>
         <field name="Manufacturer">Texas Instruments</field>
         <field name="Manufacturer Part Number">TPS73733QDRBRQ1</field>
-        <field name="Package"> 8SON</field>
+        <field name="Package">VSON-8-EP(3x3)</field>
         <field name="Synopsis">IC REG LINEAR 3.3V 1A</field>
         <field name="Vendor">Digi-Key</field>
         <field name="Vendor Part Number">296-24157-1-ND</field>
       </fields>
       <libsource lib="Janelia" part="Regulator_Linear_3.3V_1A_5.5Vin_TPS73733QDRBRQ1" description="Linear Voltage Regulator IC Positive Fixed 1 Output 1A 8-SON (3x3)"/>
       <property name="Synopsis" value="IC REG LINEAR 3.3V 1A"/>
-      <property name="Package" value=" 8SON"/>
+      <property name="Package" value="VSON-8-EP(3x3)"/>
       <property name="Manufacturer" value="Texas Instruments"/>
       <property name="Manufacturer Part Number" value="TPS73733QDRBRQ1"/>
       <property name="Vendor" value="Digi-Key"/>
@@ -2629,13 +2654,13 @@
         <field name="LCSC">C3227924</field>
         <field name="Manufacturer">Raspberry Pi</field>
         <field name="Manufacturer Part Number">SC0914(13)</field>
-        <field name="Package"> 56QFN</field>
+        <field name="Package">QFN-56(7x7)</field>
         <field name="Synopsis">IC MCU 32BIT EXT MEM</field>
         <field name="Vendor">Digi-Key</field>
         <field name="Vendor Part Number">2648-SC0914(13)CT-ND</field>
       </fields>
       <libsource lib="Janelia" part="MCU_RP2040" description="ARM Cortex-M0+ - Microcontroller IC 32-Bit Dual-Core 133MHz External Program Memory 56-QFN (7x7)"/>
-      <property name="Package" value=" 56QFN"/>
+      <property name="Package" value="QFN-56(7x7)"/>
       <property name="Manufacturer" value="Raspberry Pi"/>
       <property name="Manufacturer Part Number" value="SC0914(13)"/>
       <property name="Vendor" value="Digi-Key"/>
@@ -2657,13 +2682,13 @@
         <field name="LCSC">C190862</field>
         <field name="Manufacturer">Winbond Electronics</field>
         <field name="Manufacturer Part Number">W25Q128JVPIQ</field>
-        <field name="Package"> 8WSON</field>
+        <field name="Package">WSON-8-EP(5x6)</field>
         <field name="Synopsis">IC FLASH 128MBIT SPI/QUAD</field>
         <field name="Vendor">Digi-Key</field>
         <field name="Vendor Part Number">W25Q128JVPIQ-ND</field>
       </fields>
       <libsource lib="Janelia" part="Memory_Flash_W25Q128JVZPIQ" description="FLASH - NOR Memory IC 128Mbit SPI - Quad I/O, QPI, DTR 133 MHz 8-WSON (6x5)"/>
-      <property name="Package" value=" 8WSON"/>
+      <property name="Package" value="WSON-8-EP(5x6)"/>
       <property name="Manufacturer" value="Winbond Electronics"/>
       <property name="Manufacturer Part Number" value="W25Q128JVPIQ"/>
       <property name="Vendor" value="Digi-Key"/>
@@ -2684,6 +2709,7 @@
         <field name="LCSC">C20625731</field>
         <field name="Manufacturer">Abracon LLC</field>
         <field name="Manufacturer Part Number">ABM8-272-T3</field>
+        <field name="Package">SMD3225-4P</field>
         <field name="Synopsis">CRYSTAL 12.0000MHZ 10PF SMD</field>
         <field name="Vendor">Digi-Key</field>
         <field name="Vendor Part Number">535-ABM8-272-T3CT-ND</field>
@@ -2695,6 +2721,7 @@
       <property name="Vendor Part Number" value="535-ABM8-272-T3CT-ND"/>
       <property name="Synopsis" value="CRYSTAL 12.0000MHZ 10PF SMD"/>
       <property name="LCSC" value="C20625731"/>
+      <property name="Package" value="SMD3225-4P"/>
       <property name="Sheetname" value="rp2040"/>
       <property name="Sheetfile" value="rp2040.kicad_sch"/>
       <property name="ki_description" value="12 MHz ±30ppm Crystal 10pF 50 Ohms 4-SMD, No Lead"/>
@@ -2718,7 +2745,7 @@
         <field name="Footprint">Janelia:BUK7D3660EX_NEX</field>
         <field name="Datasheet">BUK7D36-60EX</field>
         <field name="Synopsis">MOSFET N-CH 60V 5.5A/14A</field>
-        <field name="Package">6DFN</field>
+        <field name="Package">DFN2020MD-6</field>
         <field name="Manufacturer">Nexperia USA Inc.</field>
         <field name="Manufacturer Part Number">BUK7D36-60EX</field>
         <field name="Vendor">Digi-Key</field>
@@ -2756,6 +2783,7 @@
         <field name="Manufacturer">Panasonic Electronic Components</field>
         <field name="Manufacturer Part Number">EEH-ZS1H221V</field>
         <field name="LCSC">C454279</field>
+        <field name="Package">SMD_D10xL16.8mm</field>
       </fields>
       <pins>
         <pin num="1" name="" type="passive"/>
@@ -3019,6 +3047,7 @@
         <field name="Vendor">Digi-Key</field>
         <field name="Vendor Part Number">WM26831CT-ND</field>
         <field name="LCSC">C17180191</field>
+        <field name="Package">SMD</field>
       </fields>
       <pins>
         <pin num="1" name="Pin_1" type="passive"/>
@@ -3042,6 +3071,7 @@
         <field name="Vendor">Digi-Key</field>
         <field name="Vendor Part Number">WM7646CT-ND</field>
         <field name="LCSC">C240853</field>
+        <field name="Package">SMD_P=1.5mm</field>
       </fields>
       <pins>
         <pin num="1" name="Pin_1" type="passive"/>
@@ -3065,6 +3095,7 @@
         <field name="Vendor">Digi-Key</field>
         <field name="Vendor Part Number">WM7893CT-ND</field>
         <field name="LCSC">C505123</field>
+        <field name="Package">SMD_P=1mm</field>
       </fields>
       <pins>
         <pin num="1" name="Pin_1" type="passive"/>
@@ -3088,6 +3119,7 @@
         <field name="Vendor">Digi-Key</field>
         <field name="Vendor Part Number">WM7648CT-ND</field>
         <field name="LCSC">C564208</field>
+        <field name="Package">SMD</field>
       </fields>
       <pins>
         <pin num="1" name="Pin_1" type="passive"/>
@@ -3111,6 +3143,7 @@
         <field name="Vendor">Digi-Key</field>
         <field name="Vendor Part Number">609-10152803-00011LFCT-ND</field>
         <field name="LCSC">C5410523</field>
+        <field name="Package">USB-C-SMD</field>
       </fields>
       <pins>
         <pin num="A1" name="GND" type="passive"/>
@@ -3160,6 +3193,7 @@
         <field name="Vendor">Digi-Key</field>
         <field name="Vendor Part Number">535-ABM8-272-T3CT-ND</field>
         <field name="LCSC">C20625731</field>
+        <field name="Package">SMD3225-4P</field>
       </fields>
       <pins>
         <pin num="1" name="1" type="passive"/>
@@ -3188,6 +3222,7 @@
         <field name="Manufacturer Part Number">NSR20F40NXT5G</field>
         <field name="Sim.Enable">0</field>
         <field name="LCSC">C153761</field>
+        <field name="Package">0603</field>
       </fields>
       <pins>
         <pin num="1" name="K" type="passive"/>
@@ -3213,7 +3248,7 @@
         <field name="Manufacturer Part Number">SMF48A</field>
         <field name="Vendor">Digi-Key</field>
         <field name="Vendor Part Number">F5832CT-ND</field>
-        <field name="Package"> SOD-123F</field>
+        <field name="Package">SOD-123FL</field>
         <field name="LCSC">C1509577</field>
       </fields>
       <pins>
@@ -3351,6 +3386,7 @@
         <field name="Vendor">Digi-Key</field>
         <field name="Vendor Part Number">283-4694-1-ND</field>
         <field name="LCSC">C2453193</field>
+        <field name="Package">SMD-4P_5.2x5.2mm</field>
       </fields>
       <pins>
         <pin num="1" name="1" type="passive"/>
@@ -3364,7 +3400,7 @@
         <field name="Value">MAX6816</field>
         <field name="Footprint">Janelia:SOT192P237X122-4N</field>
         <field name="Synopsis">IC SWITCH DEBOUNCER</field>
-        <field name="Package"> SOT143-4</field>
+        <field name="Package">SOT-143</field>
         <field name="Manufacturer">Analog Devices Inc./Maxim Integrated</field>
         <field name="Manufacturer Part Number">MAX6816EUS+T</field>
         <field name="Vendor">Digi-Key</field>
@@ -3391,7 +3427,7 @@
         <field name="Footprint">Janelia:QFN-56-1EP_7x7mm_P0.4mm_EP3.2x3.2mm</field>
         <field name="Datasheet">https://datasheets.raspberrypi.com/rp2040/rp2040-datasheet.pdf</field>
         <field name="Synopsis">IC MCU 32BIT EXT MEM</field>
-        <field name="Package"> 56QFN</field>
+        <field name="Package">QFN-56(7x7)</field>
         <field name="Manufacturer">Raspberry Pi</field>
         <field name="Manufacturer Part Number">SC0914(13)</field>
         <field name="Vendor">Digi-Key</field>
@@ -3474,6 +3510,7 @@
         <field name="Vendor Part Number">296-38914-1-ND</field>
         <field name="Sim.Enable">0</field>
         <field name="LCSC">C139403</field>
+        <field name="Package">PicoStar-3</field>
       </fields>
       <pins>
         <pin num="1" name="G" type="input"/>
@@ -3493,7 +3530,7 @@
         <field name="Footprint">Janelia:WSON-8-1EP_6x5mm_P1.27mm_EP3.4x4.3mm</field>
         <field name="Datasheet">https://www.winbond.com/resource-files/w25q128jv%20revf%2003272018%20plus.pdf</field>
         <field name="Synopsis">IC FLASH 128MBIT SPI/QUAD</field>
-        <field name="Package"> 8WSON</field>
+        <field name="Package">WSON-8-EP(5x6)</field>
         <field name="Manufacturer">Winbond Electronics</field>
         <field name="Manufacturer Part Number">W25Q128JVPIQ</field>
         <field name="Vendor">Digi-Key</field>
@@ -3543,6 +3580,7 @@
         <field name="Vendor">Digi-Key</field>
         <field name="Vendor Part Number">XC2195CT-ND</field>
         <field name="LCSC">C2451298</field>
+        <field name="Package">SMD2520-4P</field>
       </fields>
       <pins>
         <pin num="1" name="Tri-State" type="input"/>
@@ -3695,7 +3733,7 @@
         <field name="Value">2.32k</field>
         <field name="Footprint">Janelia:R_0805_2012Metric</field>
         <field name="Synopsis">RA73F 2A 2K32 0.1% 5K RL</field>
-        <field name="Package">0805 (2012 Metric)</field>
+        <field name="Package">0805</field>
         <field name="Manufacturer">TE Connectivity Passive Product</field>
         <field name="Manufacturer Part Number">RA73F2A2K32BTD</field>
         <field name="Vendor">Digi-Key</field>
@@ -3722,6 +3760,7 @@
         <field name="Footprint">Janelia:R_0402_1005Metric</field>
         <field name="Vendor">Digi-Key</field>
         <field name="Vendor Part Number">541-249LCT-ND</field>
+        <field name="Synopsis">RES SMD 249 OHM 1% 1/16W</field>
         <field name="Package">0402</field>
         <field name="Manufacturer">Vishay Dale</field>
         <field name="Manufacturer Part Number">CRCW0402249RFKED</field>
@@ -3846,7 +3885,7 @@
         <field name="Value">Linear_3.3V_1A</field>
         <field name="Footprint">Janelia:TPS737Q1</field>
         <field name="Synopsis">IC REG LINEAR 3.3V 1A</field>
-        <field name="Package"> 8SON</field>
+        <field name="Package">VSON-8-EP(3x3)</field>
         <field name="Manufacturer">Texas Instruments</field>
         <field name="Manufacturer Part Number">TPS73733QDRBRQ1</field>
         <field name="Vendor">Digi-Key</field>
@@ -3875,7 +3914,7 @@
         <field name="Value">Switching_5V_500mA</field>
         <field name="Footprint">Janelia:Texas_S-PVSON-N10_ThermalVias</field>
         <field name="Synopsis">IC REG BUCK 5V 500MA</field>
-        <field name="Package"> 10VSON</field>
+        <field name="Package">VSON-10-EP(3x3)</field>
         <field name="Manufacturer">Texas Instruments</field>
         <field name="Manufacturer Part Number">LM5166XDRCR</field>
         <field name="Vendor">Digi-Key</field>
@@ -3911,6 +3950,7 @@
         <field name="Vendor">Digi-Key</field>
         <field name="Vendor Part Number">732-7060-1-ND</field>
         <field name="LCSC">C7185056</field>
+        <field name="Package">-</field>
       </fields>
       <pins>
         <pin num="1" name="1" type="passive"/>
@@ -3931,7 +3971,7 @@
         <field name="Footprint">Janelia:21-100593_ADI</field>
         <field name="Datasheet">https://www.analog.com/media/en/technical-documentation/data-sheets/TMC5160A_datasheet_rev1.18.pdf</field>
         <field name="Synopsis">IC MTR DRVR BIPOLAR 8-60V</field>
-        <field name="Package">47-VFQFN Exposed Pad</field>
+        <field name="Package">QFN-56-EP(8x8)</field>
         <field name="Manufacturer">Analog Devices Inc.</field>
         <field name="Manufacturer Part Number">TMC5160A-WA</field>
         <field name="Vendor">Digi-Key</field>
