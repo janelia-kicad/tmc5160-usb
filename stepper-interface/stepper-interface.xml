@@ -2,14 +2,14 @@
 <export version="E">
   <design>
     <source>/home/polidorop/Repositories/kicad/stepper-interface/stepper-interface/stepper-interface.kicad_sch</source>
-    <date>Wed 08 May 2024 03:00:30 PM EDT</date>
+    <date>Fri 10 May 2024 11:41:24 AM EDT</date>
     <tool>Eeschema 7.0.11</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
         <title>stepper-interface</title>
         <company>Howard Hughes Medical Institute</company>
         <rev>1.0</rev>
-        <date>2024-05-08</date>
+        <date>2024-05-10</date>
         <source>stepper-interface.kicad_sch</source>
         <comment number="1" value=""/>
         <comment number="2" value=""/>
@@ -27,7 +27,7 @@
         <title>stepper-interface</title>
         <company>Howard Hughes Medical Institute</company>
         <rev>1.0</rev>
-        <date>2024-05-08</date>
+        <date>2024-05-10</date>
         <source>assembly.kicad_sch</source>
         <comment number="1" value=""/>
         <comment number="2" value=""/>
@@ -45,7 +45,7 @@
         <title>stepper-interface</title>
         <company>Howard Hughes Medical Institute</company>
         <rev>1.0</rev>
-        <date>2024-05-08</date>
+        <date>2024-05-10</date>
         <source>power.kicad_sch</source>
         <comment number="1" value=""/>
         <comment number="2" value=""/>
@@ -63,7 +63,7 @@
         <title>stepper-interface</title>
         <company>Howard Hughes Medical Institute</company>
         <rev>1.0</rev>
-        <date>2024-05-08</date>
+        <date>2024-05-10</date>
         <source>tmc5160.kicad_sch</source>
         <comment number="1" value=""/>
         <comment number="2" value=""/>
@@ -81,7 +81,7 @@
         <title>stepper-interface</title>
         <company>Howard Hughes Medical Institute</company>
         <rev>1.0</rev>
-        <date>2024-05-08</date>
+        <date>2024-05-10</date>
         <source>mosfet.kicad_sch</source>
         <comment number="1" value=""/>
         <comment number="2" value=""/>
@@ -99,7 +99,7 @@
         <title>stepper-interface</title>
         <company>Howard Hughes Medical Institute</company>
         <rev>1.0</rev>
-        <date>2024-05-08</date>
+        <date>2024-05-10</date>
         <source>mosfet.kicad_sch</source>
         <comment number="1" value=""/>
         <comment number="2" value=""/>
@@ -117,7 +117,7 @@
         <title>stepper-interface</title>
         <company>Howard Hughes Medical Institute</company>
         <rev>1.0</rev>
-        <date>2024-05-08</date>
+        <date>2024-05-10</date>
         <source>mosfet.kicad_sch</source>
         <comment number="1" value=""/>
         <comment number="2" value=""/>
@@ -135,7 +135,7 @@
         <title>stepper-interface</title>
         <company>Howard Hughes Medical Institute</company>
         <rev>1.0</rev>
-        <date>2024-05-08</date>
+        <date>2024-05-10</date>
         <source>mosfet.kicad_sch</source>
         <comment number="1" value=""/>
         <comment number="2" value=""/>
@@ -153,7 +153,7 @@
         <title>stepper-interface</title>
         <company>Howard Hughes Medical Institute</company>
         <rev>1.0</rev>
-        <date>2024-05-08</date>
+        <date>2024-05-10</date>
         <source>mosfet.kicad_sch</source>
         <comment number="1" value=""/>
         <comment number="2" value=""/>
@@ -171,7 +171,7 @@
         <title>stepper-interface</title>
         <company>Howard Hughes Medical Institute</company>
         <rev>1.0</rev>
-        <date>2024-05-08</date>
+        <date>2024-05-10</date>
         <source>mosfet.kicad_sch</source>
         <comment number="1" value=""/>
         <comment number="2" value=""/>
@@ -189,7 +189,7 @@
         <title>stepper-interface</title>
         <company>Howard Hughes Medical Institute</company>
         <rev>1.0</rev>
-        <date>2024-05-08</date>
+        <date>2024-05-10</date>
         <source>mosfet.kicad_sch</source>
         <comment number="1" value=""/>
         <comment number="2" value=""/>
@@ -207,7 +207,7 @@
         <title>stepper-interface</title>
         <company>Howard Hughes Medical Institute</company>
         <rev>1.0</rev>
-        <date>2024-05-08</date>
+        <date>2024-05-10</date>
         <source>mosfet.kicad_sch</source>
         <comment number="1" value=""/>
         <comment number="2" value=""/>
@@ -225,7 +225,7 @@
         <title>stepper-interface</title>
         <company>Howard Hughes Medical Institute</company>
         <rev>1.0</rev>
-        <date>2024-05-08</date>
+        <date>2024-05-10</date>
         <source>rp2040.kicad_sch</source>
         <comment number="1" value=""/>
         <comment number="2" value=""/>
@@ -244,23 +244,22 @@
       <value>2.2uF_100V</value>
       <footprint>Janelia:C_0805_2012Metric</footprint>
       <fields>
-        <field name="Comment">Murata Electronics GRT21BD72A225KE13K 2.2 µF ±10% 100V Ceramic Capacitor X7T 0805 (2012 Metric)</field>
+        <field name="LCSC">C2981733</field>
         <field name="Manufacturer">Murata Electronics</field>
-        <field name="Manufacturer Part Number">GRT21BD72A225KE13K</field>
+        <field name="Manufacturer Part Number">GRM21BD72A225KE01L</field>
         <field name="Package">0805</field>
         <field name="Synopsis">CAP CER 2.2UF 100V X7T 0805</field>
         <field name="Vendor">Digi-Key</field>
-        <field name="Vendor Part Number">490-GRT21BD72A225KE13KCT-ND</field>
+        <field name="Vendor Part Number">490-GRM21BD72A225KE01LCT-ND</field>
       </fields>
       <libsource lib="Janelia" part="C_2.2uF_100V_0805" description="2.2 µF ±10% 100V Ceramic Capacitor X7T 0805 (2012 Metric)"/>
       <property name="Vendor" value="Digi-Key"/>
-      <property name="Vendor Part Number" value="490-GRT21BD72A225KE13KCT-ND"/>
+      <property name="Vendor Part Number" value="490-GRM21BD72A225KE01LCT-ND"/>
       <property name="Package" value="0805"/>
       <property name="Manufacturer" value="Murata Electronics"/>
-      <property name="Manufacturer Part Number" value="GRT21BD72A225KE13K"/>
+      <property name="Manufacturer Part Number" value="GRM21BD72A225KE01L"/>
       <property name="Synopsis" value="CAP CER 2.2UF 100V X7T 0805"/>
-      <property name="Comment" value="Murata Electronics GRT21BD72A225KE13K 2.2 µF ±10% 100V Ceramic Capacitor X7T 0805 (2012 Metric)"/>
-      <property name="LCSC" value=""/>
+      <property name="LCSC" value="C2981733"/>
       <property name="Sheetname" value="power"/>
       <property name="Sheetfile" value="power.kicad_sch"/>
       <property name="ki_description" value="2.2 µF ±10% 100V Ceramic Capacitor X7T 0805 (2012 Metric)"/>
@@ -271,7 +270,6 @@
       <value>47uF_10V</value>
       <footprint>Janelia:C_0805_2012Metric</footprint>
       <fields>
-        <field name="Comment">TDK Corporation C2012X5R1A476M125AC 47 µF ±20% 10V Ceramic Capacitor X5R 0805 (2012 Metric)</field>
         <field name="LCSC">C2182652</field>
         <field name="Manufacturer">TDK Corporation</field>
         <field name="Manufacturer Part Number">C2012X5R1A476M125AC</field>
@@ -287,7 +285,6 @@
       <property name="Manufacturer" value="TDK Corporation"/>
       <property name="Manufacturer Part Number" value="C2012X5R1A476M125AC"/>
       <property name="Synopsis" value="CAP CER 47UF 10V X5R"/>
-      <property name="Comment" value="TDK Corporation C2012X5R1A476M125AC 47 µF ±20% 10V Ceramic Capacitor X5R 0805 (2012 Metric)"/>
       <property name="LCSC" value="C2182652"/>
       <property name="Sheetname" value="power"/>
       <property name="Sheetfile" value="power.kicad_sch"/>
@@ -299,7 +296,6 @@
       <value>1uF_25V</value>
       <footprint>Janelia:C_0402_1005Metric</footprint>
       <fields>
-        <field name="Comment">Murata Electronics GRT155R61E105KE01D 1 µF ±10% 25V Ceramic Capacitor X5R 0402 (1005 Metric)</field>
         <field name="LCSC">C711085</field>
         <field name="Manufacturer">Murata Electronics</field>
         <field name="Manufacturer Part Number">GRT155R61E105KE01D</field>
@@ -315,7 +311,6 @@
       <property name="Package" value="0402"/>
       <property name="Manufacturer" value="Murata Electronics"/>
       <property name="Manufacturer Part Number" value="GRT155R61E105KE01D"/>
-      <property name="Comment" value="Murata Electronics GRT155R61E105KE01D 1 µF ±10% 25V Ceramic Capacitor X5R 0402 (1005 Metric)"/>
       <property name="LCSC" value="C711085"/>
       <property name="Sheetname" value="power"/>
       <property name="Sheetfile" value="power.kicad_sch"/>
@@ -327,7 +322,6 @@
       <value>1uF_25V</value>
       <footprint>Janelia:C_0402_1005Metric</footprint>
       <fields>
-        <field name="Comment">Murata Electronics GRT155R61E105KE01D 1 µF ±10% 25V Ceramic Capacitor X5R 0402 (1005 Metric)</field>
         <field name="LCSC">C711085</field>
         <field name="Manufacturer">Murata Electronics</field>
         <field name="Manufacturer Part Number">GRT155R61E105KE01D</field>
@@ -343,7 +337,6 @@
       <property name="Package" value="0402"/>
       <property name="Manufacturer" value="Murata Electronics"/>
       <property name="Manufacturer Part Number" value="GRT155R61E105KE01D"/>
-      <property name="Comment" value="Murata Electronics GRT155R61E105KE01D 1 µF ±10% 25V Ceramic Capacitor X5R 0402 (1005 Metric)"/>
       <property name="LCSC" value="C711085"/>
       <property name="Sheetname" value="power"/>
       <property name="Sheetfile" value="power.kicad_sch"/>
@@ -355,7 +348,6 @@
       <value>1uF_25V</value>
       <footprint>Janelia:C_0402_1005Metric</footprint>
       <fields>
-        <field name="Comment">Murata Electronics GRT155R61E105KE01D 1 µF ±10% 25V Ceramic Capacitor X5R 0402 (1005 Metric)</field>
         <field name="LCSC">C711085</field>
         <field name="Manufacturer">Murata Electronics</field>
         <field name="Manufacturer Part Number">GRT155R61E105KE01D</field>
@@ -371,7 +363,6 @@
       <property name="Package" value="0402"/>
       <property name="Manufacturer" value="Murata Electronics"/>
       <property name="Manufacturer Part Number" value="GRT155R61E105KE01D"/>
-      <property name="Comment" value="Murata Electronics GRT155R61E105KE01D 1 µF ±10% 25V Ceramic Capacitor X5R 0402 (1005 Metric)"/>
       <property name="LCSC" value="C711085"/>
       <property name="Sheetname" value="power"/>
       <property name="Sheetfile" value="power.kicad_sch"/>
@@ -381,98 +372,92 @@
     </comp>
     <comp ref="D301">
       <value>LED_RED</value>
-      <footprint>Janelia:LED_0402_1005Metric</footprint>
+      <footprint>Janelia:LED_0402-1005_KNB</footprint>
       <fields>
-        <field name="Comment">QT Brightek (QTB) QBLP595-R Red 620nm LED Indication - Discrete 2V 0402 (1005 Metric)</field>
-        <field name="LCSC">C9900058196</field>
-        <field name="Manufacturer">QT Brightek (QTB)</field>
-        <field name="Manufacturer Part Number">QBLP595-R</field>
+        <field name="LCSC">C2852592</field>
+        <field name="Manufacturer">Kingbright</field>
+        <field name="Manufacturer Part Number">APHHS1005SURCK</field>
         <field name="Package">0402</field>
-        <field name="Synopsis">LED RED CLEAR 0402 SMD</field>
+        <field name="Synopsis">LED RED CLEAR CHIP SMD</field>
         <field name="Vendor">Digi-Key</field>
-        <field name="Vendor Part Number">1516-1217-1-ND</field>
+        <field name="Vendor Part Number">754-1104-1-ND</field>
       </fields>
-      <libsource lib="Janelia" part="LED_QT_RED_2V_0402" description="Red 620nm LED Indication - Discrete 2V 0402 (1005 Metric)"/>
+      <libsource lib="Janelia" part="LED_KNB_20mA_RED_1.95V_0402" description="Red 630nm LED Indication - Discrete 1.95V 0402 (1005 Metric)"/>
+      <property name="Synopsis" value="LED RED CLEAR CHIP SMD"/>
       <property name="Package" value="0402"/>
-      <property name="Manufacturer" value="QT Brightek (QTB)"/>
-      <property name="Manufacturer Part Number" value="QBLP595-R"/>
+      <property name="Manufacturer" value="Kingbright"/>
+      <property name="Manufacturer Part Number" value="APHHS1005SURCK"/>
       <property name="Vendor" value="Digi-Key"/>
-      <property name="Vendor Part Number" value="1516-1217-1-ND"/>
-      <property name="Synopsis" value="LED RED CLEAR 0402 SMD"/>
-      <property name="Comment" value="QT Brightek (QTB) QBLP595-R Red 620nm LED Indication - Discrete 2V 0402 (1005 Metric)"/>
-      <property name="LCSC" value="C9900058196"/>
+      <property name="Vendor Part Number" value="754-1104-1-ND"/>
+      <property name="LCSC" value="C2852592"/>
       <property name="Sheetname" value="power"/>
       <property name="Sheetfile" value="power.kicad_sch"/>
-      <property name="ki_description" value="Red 620nm LED Indication - Discrete 2V 0402 (1005 Metric)"/>
+      <property name="ki_description" value="Red 630nm LED Indication - Discrete 1.95V 0402 (1005 Metric)"/>
       <property name="ki_keywords" value="LED diode"/>
       <sheetpath names="/power/" tstamps="/c1dd8f61-494c-402f-8e59-08309c64fc3f/"/>
-      <tstamps>ac92d743-14f8-4d85-bee1-b2745bac02b3</tstamps>
+      <tstamps>7ce943a4-f9da-4c7e-9de5-3a834038db73</tstamps>
     </comp>
     <comp ref="D302">
       <value>LED_GRN</value>
-      <footprint>Janelia:LED_0402_1005Metric</footprint>
+      <footprint>Janelia:LED_0402-1005_KNB</footprint>
       <fields>
-        <field name="Comment">QT Brightek (QTB) QBLP595-AG1 Green 570nm LED Indication - Discrete 2V 0402 (1005 Metric)</field>
-        <field name="Manufacturer">QT Brightek (QTB)</field>
-        <field name="Manufacturer Part Number">QBLP595-AG1</field>
+        <field name="LCSC">C2853065</field>
+        <field name="Manufacturer">Kingbright</field>
+        <field name="Manufacturer Part Number">APHHS1005CGCK</field>
         <field name="Package">0402</field>
-        <field name="Synopsis">LED GREEN CLEAR</field>
+        <field name="Synopsis">LED GREEN CLEAR CHIP SMD</field>
         <field name="Vendor">Digi-Key</field>
-        <field name="Vendor Part Number">1516-QBLP595-AG1CT-ND</field>
+        <field name="Vendor Part Number">754-1101-1-ND</field>
       </fields>
-      <libsource lib="Janelia" part="LED_QT_GRN_2V_0402" description="Green 570nm LED Indication - Discrete 2V 0402 (1005 Metric)"/>
+      <libsource lib="Janelia" part="LED_KNB_20mA_GRN_2.1V_0402" description="Green 570nm LED Indication - Discrete 2.1V 0402 (1005 Metric)"/>
+      <property name="Synopsis" value="LED GREEN CLEAR CHIP SMD"/>
       <property name="Package" value="0402"/>
-      <property name="Manufacturer" value="QT Brightek (QTB)"/>
-      <property name="Manufacturer Part Number" value="QBLP595-AG1"/>
+      <property name="Manufacturer" value="Kingbright"/>
+      <property name="Manufacturer Part Number" value="APHHS1005CGCK"/>
       <property name="Vendor" value="Digi-Key"/>
-      <property name="Vendor Part Number" value="1516-QBLP595-AG1CT-ND"/>
-      <property name="Synopsis" value="LED GREEN CLEAR"/>
-      <property name="Comment" value="QT Brightek (QTB) QBLP595-AG1 Green 570nm LED Indication - Discrete 2V 0402 (1005 Metric)"/>
-      <property name="LCSC" value=""/>
+      <property name="Vendor Part Number" value="754-1101-1-ND"/>
+      <property name="LCSC" value="C2853065"/>
       <property name="Sheetname" value="power"/>
       <property name="Sheetfile" value="power.kicad_sch"/>
-      <property name="ki_description" value="Green 570nm LED Indication - Discrete 2V 0402 (1005 Metric)"/>
+      <property name="ki_description" value="Green 570nm LED Indication - Discrete 2.1V 0402 (1005 Metric)"/>
       <property name="ki_keywords" value="LED diode"/>
       <sheetpath names="/power/" tstamps="/c1dd8f61-494c-402f-8e59-08309c64fc3f/"/>
-      <tstamps>58251363-97f0-4679-acb4-4341ab1e4d2b</tstamps>
+      <tstamps>8369db32-0738-4ab6-a5a6-93547cbebabb</tstamps>
     </comp>
     <comp ref="D303">
       <value>LED_YEL</value>
-      <footprint>Janelia:LED_0402_1005Metric</footprint>
+      <footprint>Janelia:LED_0402-1005_KNB</footprint>
       <fields>
-        <field name="Comment">QT Brightek (QTB) QBLP595-Y Yellow 590nm LED Indication - Discrete 2V 0402 (1005 Metric)</field>
-        <field name="LCSC">C5829766</field>
-        <field name="Manufacturer">QT Brightek (QTB)</field>
-        <field name="Manufacturer Part Number">QBLP595-Y</field>
+        <field name="LCSC">C5875733</field>
+        <field name="Manufacturer">Kingbright</field>
+        <field name="Manufacturer Part Number">APHHS1005SYCK</field>
         <field name="Package">0402</field>
-        <field name="Synopsis">LED YELLOW CLEAR</field>
+        <field name="Synopsis">LED YELLOW CLEAR CHIP SMD</field>
         <field name="Vendor">Digi-Key</field>
-        <field name="Vendor Part Number">1516-1219-1-ND</field>
+        <field name="Vendor Part Number">754-1105-1-ND</field>
       </fields>
-      <libsource lib="Janelia" part="LED_QT_YEL_2V_0402" description="Yellow 590nm LED Indication - Discrete 2V 0402 (1005 Metric)"/>
-      <property name="Synopsis" value="LED YELLOW CLEAR"/>
+      <libsource lib="Janelia" part="LED_KNB_20mA_YEL_2V_0402" description="Yellow 590nm LED Indication - Discrete 2V 0402 (1005 Metric)"/>
+      <property name="Synopsis" value="LED YELLOW CLEAR CHIP SMD"/>
       <property name="Package" value="0402"/>
-      <property name="Manufacturer" value="QT Brightek (QTB)"/>
-      <property name="Manufacturer Part Number" value="QBLP595-Y"/>
+      <property name="Manufacturer" value="Kingbright"/>
+      <property name="Manufacturer Part Number" value="APHHS1005SYCK"/>
       <property name="Vendor" value="Digi-Key"/>
-      <property name="Vendor Part Number" value="1516-1219-1-ND"/>
-      <property name="Comment" value="QT Brightek (QTB) QBLP595-Y Yellow 590nm LED Indication - Discrete 2V 0402 (1005 Metric)"/>
-      <property name="LCSC" value="C5829766"/>
+      <property name="Vendor Part Number" value="754-1105-1-ND"/>
+      <property name="LCSC" value="C5875733"/>
       <property name="Sheetname" value="power"/>
       <property name="Sheetfile" value="power.kicad_sch"/>
       <property name="ki_description" value="Yellow 590nm LED Indication - Discrete 2V 0402 (1005 Metric)"/>
       <property name="ki_keywords" value="LED diode"/>
       <sheetpath names="/power/" tstamps="/c1dd8f61-494c-402f-8e59-08309c64fc3f/"/>
-      <tstamps>ef988a6a-c46f-4d67-996d-947be709b4ae</tstamps>
+      <tstamps>0869b504-cd8d-40ad-b476-e787210ee2b8</tstamps>
     </comp>
     <comp ref="J301">
       <value>Molex_Pico-SPOX_Horizontal</value>
       <footprint>Janelia:Molex_Pico-SPOX-87438_1x02-P1.5mm_Horizontal</footprint>
       <fields>
-        <field name="Comment">Molex 0874380243 Connector Header Surface Mount, Right Angle 2 position 0.059" (1.50mm)</field>
         <field name="LCSC">C240853</field>
-        <field name="Manufacturer Part Number">0874380243</field>
         <field name="Manufacturer">Molex</field>
+        <field name="Manufacturer Part Number">0874380243</field>
         <field name="Synopsis">CONN HEADER SMD R/A 2POS 1.5MM</field>
         <field name="Vendor">Digi-Key</field>
         <field name="Vendor Part Number">WM7646CT-ND</field>
@@ -483,7 +468,6 @@
       <property name="Vendor" value="Digi-Key"/>
       <property name="Vendor Part Number" value="WM7646CT-ND"/>
       <property name="Synopsis" value="CONN HEADER SMD R/A 2POS 1.5MM"/>
-      <property name="Comment" value="Molex 0874380243 Connector Header Surface Mount, Right Angle 2 position 0.059&quot; (1.50mm)"/>
       <property name="LCSC" value="C240853"/>
       <property name="Sheetname" value="power"/>
       <property name="Sheetfile" value="power.kicad_sch"/>
@@ -496,10 +480,9 @@
       <value>Molex_Pico-Lock-PLUS_Vertical</value>
       <footprint>Janelia:Molex_Micro-Lock-PLUS-505568_1x02_P1.25mm_Vertical</footprint>
       <fields>
-        <field name="Comment">Molex 5055680281 Connector Header Surface Mount 2 position 0.049" (1.25mm)</field>
         <field name="LCSC">C17180191</field>
-        <field name="Manufacturer Part Number">5055680281</field>
         <field name="Manufacturer">Molex</field>
+        <field name="Manufacturer Part Number">5055680281</field>
         <field name="Synopsis">CONN HEADER SMD 2POS 1.25MM</field>
         <field name="Vendor">Digi-Key</field>
         <field name="Vendor Part Number">WM26831CT-ND</field>
@@ -510,7 +493,6 @@
       <property name="Manufacturer Part Number" value="5055680281"/>
       <property name="Vendor" value="Digi-Key"/>
       <property name="Vendor Part Number" value="WM26831CT-ND"/>
-      <property name="Comment" value="Molex 5055680281 Connector Header Surface Mount 2 position 0.049&quot; (1.25mm)"/>
       <property name="LCSC" value="C17180191"/>
       <property name="Sheetname" value="power"/>
       <property name="Sheetfile" value="power.kicad_sch"/>
@@ -523,7 +505,6 @@
       <value>150uH_553mA</value>
       <footprint>Janelia:IND_CB_SD25</footprint>
       <fields>
-        <field name="Comment">Eaton - Electronics Division SD25-151-R 150 µH Shielded Drum Core, Wirewound Inductor 553 mA 872.3mOhm Nonstandard</field>
         <field name="LCSC">C2453193</field>
         <field name="Manufacturer">Eaton - Electronics Division</field>
         <field name="Manufacturer Part Number">SD25-151-R</field>
@@ -537,7 +518,6 @@
       <property name="Vendor" value="Digi-Key"/>
       <property name="Vendor Part Number" value="283-4694-1-ND"/>
       <property name="Synopsis" value="FIXED IND 150UH 553MA 872.3 MOHM"/>
-      <property name="Comment" value="Eaton - Electronics Division SD25-151-R 150 µH Shielded Drum Core, Wirewound Inductor 553 mA 872.3mOhm Nonstandard"/>
       <property name="LCSC" value="C2453193"/>
       <property name="Sheetname" value="power"/>
       <property name="Sheetfile" value="power.kicad_sch"/>
@@ -550,7 +530,6 @@
       <value>MOSFET-N-CH</value>
       <footprint>Janelia:XFDFN-3</footprint>
       <fields>
-        <field name="Comment">Texas Instruments CSD17483F4 N-Channel 30 V 1.5A (Ta) 500mW (Ta) Surface Mount 3-PICOSTAR</field>
         <field name="LCSC">C139403</field>
         <field name="Manufacturer">Texas Instruments</field>
         <field name="Manufacturer Part Number">CSD17483F4</field>
@@ -566,7 +545,6 @@
       <property name="Vendor" value="Digi-Key"/>
       <property name="Vendor Part Number" value="296-38914-1-ND"/>
       <property name="Sim.Enable" value="0"/>
-      <property name="Comment" value="Texas Instruments CSD17483F4 N-Channel 30 V 1.5A (Ta) 500mW (Ta) Surface Mount 3-PICOSTAR"/>
       <property name="LCSC" value="C139403"/>
       <property name="Sheetname" value="power"/>
       <property name="Sheetfile" value="power.kicad_sch"/>
@@ -579,7 +557,6 @@
       <value>2.32k</value>
       <footprint>Janelia:R_0805_2012Metric</footprint>
       <fields>
-        <field name="Comment">TE Connectivity Passive Product RA73F2A2K32BTD 2.32 kOhms ±0.1% 1W Chip Resistor 0805 (2012 Metric) Thin Film</field>
         <field name="LCSC">C3961061</field>
         <field name="Manufacturer">TE Connectivity Passive Product</field>
         <field name="Manufacturer Part Number">RA73F2A2K32BTD</field>
@@ -595,7 +572,6 @@
       <property name="Vendor" value="Digi-Key"/>
       <property name="Vendor Part Number" value="1712-RA73F2A2K32BTDCT-ND"/>
       <property name="Synopsis" value="RA73F 2A 2K32 0.1% 5K RL"/>
-      <property name="Comment" value="TE Connectivity Passive Product RA73F2A2K32BTD 2.32 kOhms ±0.1% 1W Chip Resistor 0805 (2012 Metric) Thin Film"/>
       <property name="LCSC" value="C3961061"/>
       <property name="Sheetname" value="power"/>
       <property name="Sheetfile" value="power.kicad_sch"/>
@@ -607,7 +583,6 @@
       <value>64.9</value>
       <footprint>Janelia:R_0402_1005Metric</footprint>
       <fields>
-        <field name="Comment">Panasonic Electronic Components ERJ-2RKF64R9X 64.9 Ohms ±1% 0.1W, 1/10W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q200 Thick Film</field>
         <field name="LCSC">C2076866</field>
         <field name="Manufacturer">Panasonic Electronic Components</field>
         <field name="Manufacturer Part Number">ERJ-2RKF64R9X</field>
@@ -623,7 +598,6 @@
       <property name="Manufacturer" value="Panasonic Electronic Components"/>
       <property name="Manufacturer Part Number" value="ERJ-2RKF64R9X"/>
       <property name="Synopsis" value="RES SMD 64.9 OHM 1% 1/10W"/>
-      <property name="Comment" value="Panasonic Electronic Components ERJ-2RKF64R9X 64.9 Ohms ±1% 0.1W, 1/10W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q200 Thick Film"/>
       <property name="LCSC" value="C2076866"/>
       <property name="Sheetname" value="power"/>
       <property name="Sheetfile" value="power.kicad_sch"/>
@@ -632,36 +606,34 @@
       <tstamps>90322d0c-e897-49a8-b5c6-f4efef7efd87</tstamps>
     </comp>
     <comp ref="R303">
-      <value>150</value>
+      <value>249</value>
       <footprint>Janelia:R_0402_1005Metric</footprint>
       <fields>
-        <field name="Comment">Panasonic Electronic Components ERJ-2RKF1500X 150 Ohms ±1% 0.1W, 1/10W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q200 Thick Film</field>
-        <field name="Manufacturer">Panasonic Electronic Components</field>
-        <field name="Manufacturer Part Number">ERJ-2RKF1500X</field>
+        <field name="LCSC">C482112</field>
+        <field name="Manufacturer">Vishay Dale</field>
+        <field name="Manufacturer Part Number">CRCW0402249RFKED</field>
         <field name="Package">0402</field>
-        <field name="Synopsis">RES SMD 150 OHM 1% 1/10W</field>
         <field name="Vendor">Digi-Key</field>
-        <field name="Vendor Part Number">P150LCT-ND</field>
+        <field name="Vendor Part Number">541-249LCT-ND</field>
       </fields>
-      <libsource lib="Janelia" part="R_150_0.1W_0402" description="150 Ohms ±1% 0.1W, 1/10W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q200 Thick Film"/>
+      <libsource lib="Janelia" part="R_249_0.06W_0402" description="249 Ohms ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q200 Thick Film"/>
       <property name="Vendor" value="Digi-Key"/>
-      <property name="Vendor Part Number" value="P150LCT-ND"/>
-      <property name="Synopsis" value="RES SMD 150 OHM 1% 1/10W"/>
+      <property name="Vendor Part Number" value="541-249LCT-ND"/>
+      <property name="Synopsis" value=""/>
       <property name="Package" value="0402"/>
-      <property name="Manufacturer" value="Panasonic Electronic Components"/>
-      <property name="Manufacturer Part Number" value="ERJ-2RKF1500X"/>
-      <property name="Comment" value="Panasonic Electronic Components ERJ-2RKF1500X 150 Ohms ±1% 0.1W, 1/10W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q200 Thick Film"/>
+      <property name="Manufacturer" value="Vishay Dale"/>
+      <property name="Manufacturer Part Number" value="CRCW0402249RFKED"/>
+      <property name="LCSC" value="C482112"/>
       <property name="Sheetname" value="power"/>
       <property name="Sheetfile" value="power.kicad_sch"/>
-      <property name="ki_description" value="150 Ohms ±1% 0.1W, 1/10W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q200 Thick Film"/>
+      <property name="ki_description" value="249 Ohms ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q200 Thick Film"/>
       <sheetpath names="/power/" tstamps="/c1dd8f61-494c-402f-8e59-08309c64fc3f/"/>
-      <tstamps>eeb4a0d4-d26e-4217-bd0f-02c5a00d714b</tstamps>
+      <tstamps>4552cdb4-3181-49bd-b158-d81b1aa2af48</tstamps>
     </comp>
     <comp ref="U301">
       <value>Switching_5V_500mA</value>
       <footprint>Janelia:Texas_S-PVSON-N10_ThermalVias</footprint>
       <fields>
-        <field name="Comment">Texas Instruments LM5166XDRCR Buck Switching Regulator IC Positive Fixed 5V 1 Output 500mA 10-VFDFN Exposed Pad</field>
         <field name="LCSC">C2876564</field>
         <field name="Manufacturer">Texas Instruments</field>
         <field name="Manufacturer Part Number">LM5166XDRCR</field>
@@ -677,7 +649,6 @@
       <property name="Manufacturer Part Number" value="LM5166XDRCR"/>
       <property name="Vendor" value="Digi-Key"/>
       <property name="Vendor Part Number" value="296-47662-1-ND"/>
-      <property name="Comment" value="Texas Instruments LM5166XDRCR Buck Switching Regulator IC Positive Fixed 5V 1 Output 500mA 10-VFDFN Exposed Pad"/>
       <property name="LCSC" value="C2876564"/>
       <property name="Sheetname" value="power"/>
       <property name="Sheetfile" value="power.kicad_sch"/>
@@ -690,7 +661,6 @@
       <value>Linear_3.3V_1A</value>
       <footprint>Janelia:TPS737Q1</footprint>
       <fields>
-        <field name="Comment">Texas Instruments TPS73733QDRBRQ1 Linear Voltage Regulator IC Positive Fixed 1 Output 1A 8-SON (3x3)</field>
         <field name="LCSC">C523768</field>
         <field name="Manufacturer">Texas Instruments</field>
         <field name="Manufacturer Part Number">TPS73733QDRBRQ1</field>
@@ -706,7 +676,6 @@
       <property name="Manufacturer Part Number" value="TPS73733QDRBRQ1"/>
       <property name="Vendor" value="Digi-Key"/>
       <property name="Vendor Part Number" value="296-24157-1-ND"/>
-      <property name="Comment" value="Texas Instruments TPS73733QDRBRQ1 Linear Voltage Regulator IC Positive Fixed 1 Output 1A 8-SON (3x3)"/>
       <property name="LCSC" value="C523768"/>
       <property name="Sheetname" value="power"/>
       <property name="Sheetfile" value="power.kicad_sch"/>
@@ -718,7 +687,6 @@
       <value>0.1uF_100V</value>
       <footprint>Janelia:C_0402_1005Metric</footprint>
       <fields>
-        <field name="Comment">Murata Electronics GRM155R62A104KE14D 0.1 µF ±10% 100V Ceramic Capacitor X5R 0402 (1005 Metric)</field>
         <field name="LCSC">C162178</field>
         <field name="Manufacturer">Murata Electronics</field>
         <field name="Manufacturer Part Number">GRM155R62A104KE14D</field>
@@ -734,7 +702,6 @@
       <property name="Manufacturer Part Number" value="GRM155R62A104KE14D"/>
       <property name="Package" value="0402"/>
       <property name="Synopsis" value="CAP CER 0.1UF 100V X5R"/>
-      <property name="Comment" value="Murata Electronics GRM155R62A104KE14D 0.1 µF ±10% 100V Ceramic Capacitor X5R 0402 (1005 Metric)"/>
       <property name="LCSC" value="C162178"/>
       <property name="Sheetname" value="tmc5160"/>
       <property name="Sheetfile" value="tmc5160.kicad_sch"/>
@@ -746,7 +713,6 @@
       <value>22nF_100V</value>
       <footprint>Janelia:C_0603_1608Metric</footprint>
       <fields>
-        <field name="Comment">Murata Electronics GCM188R72A223KA37D 0.022 µF ±10% 100V Ceramic Capacitor X7R 0603 (1608 Metric)</field>
         <field name="LCSC">C161234</field>
         <field name="Manufacturer">Murata Electronics</field>
         <field name="Manufacturer Part Number">GCM188R72A223KA37D</field>
@@ -762,7 +728,6 @@
       <property name="Manufacturer Part Number" value="GCM188R72A223KA37D"/>
       <property name="Package" value="0603"/>
       <property name="Synopsis" value="CAP CER 0.022UF 100V X7R"/>
-      <property name="Comment" value="Murata Electronics GCM188R72A223KA37D 0.022 µF ±10% 100V Ceramic Capacitor X7R 0603 (1608 Metric)"/>
       <property name="LCSC" value="C161234"/>
       <property name="Sheetname" value="tmc5160"/>
       <property name="Sheetfile" value="tmc5160.kicad_sch"/>
@@ -774,7 +739,6 @@
       <value>0.1uF_100V</value>
       <footprint>Janelia:C_0402_1005Metric</footprint>
       <fields>
-        <field name="Comment">Murata Electronics GRM155R62A104KE14D 0.1 µF ±10% 100V Ceramic Capacitor X5R 0402 (1005 Metric)</field>
         <field name="LCSC">C162178</field>
         <field name="Manufacturer">Murata Electronics</field>
         <field name="Manufacturer Part Number">GRM155R62A104KE14D</field>
@@ -790,7 +754,6 @@
       <property name="Manufacturer Part Number" value="GRM155R62A104KE14D"/>
       <property name="Package" value="0402"/>
       <property name="Synopsis" value="CAP CER 0.1UF 100V X5R"/>
-      <property name="Comment" value="Murata Electronics GRM155R62A104KE14D 0.1 µF ±10% 100V Ceramic Capacitor X5R 0402 (1005 Metric)"/>
       <property name="LCSC" value="C162178"/>
       <property name="Sheetname" value="tmc5160"/>
       <property name="Sheetfile" value="tmc5160.kicad_sch"/>
@@ -802,7 +765,6 @@
       <value>0.1uF_100V</value>
       <footprint>Janelia:C_0402_1005Metric</footprint>
       <fields>
-        <field name="Comment">Murata Electronics GRM155R62A104KE14D 0.1 µF ±10% 100V Ceramic Capacitor X5R 0402 (1005 Metric)</field>
         <field name="LCSC">C162178</field>
         <field name="Manufacturer">Murata Electronics</field>
         <field name="Manufacturer Part Number">GRM155R62A104KE14D</field>
@@ -818,7 +780,6 @@
       <property name="Manufacturer Part Number" value="GRM155R62A104KE14D"/>
       <property name="Package" value="0402"/>
       <property name="Synopsis" value="CAP CER 0.1UF 100V X5R"/>
-      <property name="Comment" value="Murata Electronics GRM155R62A104KE14D 0.1 µF ±10% 100V Ceramic Capacitor X5R 0402 (1005 Metric)"/>
       <property name="LCSC" value="C162178"/>
       <property name="Sheetname" value="tmc5160"/>
       <property name="Sheetfile" value="tmc5160.kicad_sch"/>
@@ -830,7 +791,6 @@
       <value>0.47uF_35V</value>
       <footprint>Janelia:C_0402_1005Metric</footprint>
       <fields>
-        <field name="Comment">Murata Electronics GRT155R6YA474KE01D 0.47 µF ±10% 35V Ceramic Capacitor X5R 0402 (1005 Metric)</field>
         <field name="LCSC">C711580</field>
         <field name="Manufacturer">Murata Electronics</field>
         <field name="Manufacturer Part Number">GRT155R6YA474KE01D</field>
@@ -846,7 +806,6 @@
       <property name="Manufacturer" value="Murata Electronics"/>
       <property name="Manufacturer Part Number" value="GRT155R6YA474KE01D"/>
       <property name="Synopsis" value="CAP CER 0.47UF 35V X5R"/>
-      <property name="Comment" value="Murata Electronics GRT155R6YA474KE01D 0.47 µF ±10% 35V Ceramic Capacitor X5R 0402 (1005 Metric)"/>
       <property name="LCSC" value="C711580"/>
       <property name="Sheetname" value="tmc5160"/>
       <property name="Sheetfile" value="tmc5160.kicad_sch"/>
@@ -858,7 +817,6 @@
       <value>2.2uF_35V</value>
       <footprint>Janelia:C_0402_1005Metric</footprint>
       <fields>
-        <field name="Comment">TDK Corporation C1005X5R1V225K050BC 2.2 µF ±10% 35V Ceramic Capacitor X5R 0402 (1005 Metric)</field>
         <field name="LCSC">C2167643</field>
         <field name="Manufacturer">TDK Corporation</field>
         <field name="Manufacturer Part Number">C1005X5R1V225K050BC</field>
@@ -874,7 +832,6 @@
       <property name="Manufacturer" value="TDK Corporation"/>
       <property name="Manufacturer Part Number" value="C1005X5R1V225K050BC"/>
       <property name="Synopsis" value="CAP CER 2.2UF 35V X5R"/>
-      <property name="Comment" value="TDK Corporation C1005X5R1V225K050BC 2.2 µF ±10% 35V Ceramic Capacitor X5R 0402 (1005 Metric)"/>
       <property name="LCSC" value="C2167643"/>
       <property name="Sheetname" value="tmc5160"/>
       <property name="Sheetfile" value="tmc5160.kicad_sch"/>
@@ -886,7 +843,6 @@
       <value>2.2uF_35V</value>
       <footprint>Janelia:C_0402_1005Metric</footprint>
       <fields>
-        <field name="Comment">TDK Corporation C1005X5R1V225K050BC 2.2 µF ±10% 35V Ceramic Capacitor X5R 0402 (1005 Metric)</field>
         <field name="LCSC">C2167643</field>
         <field name="Manufacturer">TDK Corporation</field>
         <field name="Manufacturer Part Number">C1005X5R1V225K050BC</field>
@@ -902,7 +858,6 @@
       <property name="Manufacturer" value="TDK Corporation"/>
       <property name="Manufacturer Part Number" value="C1005X5R1V225K050BC"/>
       <property name="Synopsis" value="CAP CER 2.2UF 35V X5R"/>
-      <property name="Comment" value="TDK Corporation C1005X5R1V225K050BC 2.2 µF ±10% 35V Ceramic Capacitor X5R 0402 (1005 Metric)"/>
       <property name="LCSC" value="C2167643"/>
       <property name="Sheetname" value="tmc5160"/>
       <property name="Sheetfile" value="tmc5160.kicad_sch"/>
@@ -914,7 +869,6 @@
       <value>0.1uF_100V</value>
       <footprint>Janelia:C_0402_1005Metric</footprint>
       <fields>
-        <field name="Comment">Murata Electronics GRM155R62A104KE14D 0.1 µF ±10% 100V Ceramic Capacitor X5R 0402 (1005 Metric)</field>
         <field name="LCSC">C162178</field>
         <field name="Manufacturer">Murata Electronics</field>
         <field name="Manufacturer Part Number">GRM155R62A104KE14D</field>
@@ -930,7 +884,6 @@
       <property name="Manufacturer Part Number" value="GRM155R62A104KE14D"/>
       <property name="Package" value="0402"/>
       <property name="Synopsis" value="CAP CER 0.1UF 100V X5R"/>
-      <property name="Comment" value="Murata Electronics GRM155R62A104KE14D 0.1 µF ±10% 100V Ceramic Capacitor X5R 0402 (1005 Metric)"/>
       <property name="LCSC" value="C162178"/>
       <property name="Sheetname" value="tmc5160"/>
       <property name="Sheetfile" value="tmc5160.kicad_sch"/>
@@ -942,7 +895,6 @@
       <value>0.22uF_25V</value>
       <footprint>Janelia:C_0402_1005Metric</footprint>
       <fields>
-        <field name="Comment">Murata Electronics GRT155C81E224KE01D 0.22 µF ±10% 25V Ceramic Capacitor X6S 0402 (1005 Metric)</field>
         <field name="LCSC">C126623</field>
         <field name="Manufacturer">Murata Electronics</field>
         <field name="Manufacturer Part Number">GRT155C81E224KE01D</field>
@@ -958,7 +910,6 @@
       <property name="Manufacturer Part Number" value="GRT155C81E224KE01D"/>
       <property name="Package" value="0402"/>
       <property name="Synopsis" value="CAP CER 0.22UF 25V X6S"/>
-      <property name="Comment" value="Murata Electronics GRT155C81E224KE01D 0.22 µF ±10% 25V Ceramic Capacitor X6S 0402 (1005 Metric)"/>
       <property name="LCSC" value="C126623"/>
       <property name="Sheetname" value="tmc5160"/>
       <property name="Sheetfile" value="tmc5160.kicad_sch"/>
@@ -970,7 +921,6 @@
       <value>0.22uF_25V</value>
       <footprint>Janelia:C_0402_1005Metric</footprint>
       <fields>
-        <field name="Comment">Murata Electronics GRT155C81E224KE01D 0.22 µF ±10% 25V Ceramic Capacitor X6S 0402 (1005 Metric)</field>
         <field name="LCSC">C126623</field>
         <field name="Manufacturer">Murata Electronics</field>
         <field name="Manufacturer Part Number">GRT155C81E224KE01D</field>
@@ -986,7 +936,6 @@
       <property name="Manufacturer Part Number" value="GRT155C81E224KE01D"/>
       <property name="Package" value="0402"/>
       <property name="Synopsis" value="CAP CER 0.22UF 25V X6S"/>
-      <property name="Comment" value="Murata Electronics GRT155C81E224KE01D 0.22 µF ±10% 25V Ceramic Capacitor X6S 0402 (1005 Metric)"/>
       <property name="LCSC" value="C126623"/>
       <property name="Sheetname" value="tmc5160"/>
       <property name="Sheetfile" value="tmc5160.kicad_sch"/>
@@ -998,7 +947,6 @@
       <value>0.22uF_25V</value>
       <footprint>Janelia:C_0402_1005Metric</footprint>
       <fields>
-        <field name="Comment">Murata Electronics GRT155C81E224KE01D 0.22 µF ±10% 25V Ceramic Capacitor X6S 0402 (1005 Metric)</field>
         <field name="LCSC">C126623</field>
         <field name="Manufacturer">Murata Electronics</field>
         <field name="Manufacturer Part Number">GRT155C81E224KE01D</field>
@@ -1014,7 +962,6 @@
       <property name="Manufacturer Part Number" value="GRT155C81E224KE01D"/>
       <property name="Package" value="0402"/>
       <property name="Synopsis" value="CAP CER 0.22UF 25V X6S"/>
-      <property name="Comment" value="Murata Electronics GRT155C81E224KE01D 0.22 µF ±10% 25V Ceramic Capacitor X6S 0402 (1005 Metric)"/>
       <property name="LCSC" value="C126623"/>
       <property name="Sheetname" value="tmc5160"/>
       <property name="Sheetfile" value="tmc5160.kicad_sch"/>
@@ -1026,7 +973,6 @@
       <value>0.22uF_25V</value>
       <footprint>Janelia:C_0402_1005Metric</footprint>
       <fields>
-        <field name="Comment">Murata Electronics GRT155C81E224KE01D 0.22 µF ±10% 25V Ceramic Capacitor X6S 0402 (1005 Metric)</field>
         <field name="LCSC">C126623</field>
         <field name="Manufacturer">Murata Electronics</field>
         <field name="Manufacturer Part Number">GRT155C81E224KE01D</field>
@@ -1042,7 +988,6 @@
       <property name="Manufacturer Part Number" value="GRT155C81E224KE01D"/>
       <property name="Package" value="0402"/>
       <property name="Synopsis" value="CAP CER 0.22UF 25V X6S"/>
-      <property name="Comment" value="Murata Electronics GRT155C81E224KE01D 0.22 µF ±10% 25V Ceramic Capacitor X6S 0402 (1005 Metric)"/>
       <property name="LCSC" value="C126623"/>
       <property name="Sheetname" value="tmc5160"/>
       <property name="Sheetfile" value="tmc5160.kicad_sch"/>
@@ -1054,7 +999,6 @@
       <value>0.1uF_100V</value>
       <footprint>Janelia:C_0402_1005Metric</footprint>
       <fields>
-        <field name="Comment">Murata Electronics GRM155R62A104KE14D 0.1 µF ±10% 100V Ceramic Capacitor X5R 0402 (1005 Metric)</field>
         <field name="LCSC">C162178</field>
         <field name="Manufacturer">Murata Electronics</field>
         <field name="Manufacturer Part Number">GRM155R62A104KE14D</field>
@@ -1070,7 +1014,6 @@
       <property name="Manufacturer Part Number" value="GRM155R62A104KE14D"/>
       <property name="Package" value="0402"/>
       <property name="Synopsis" value="CAP CER 0.1UF 100V X5R"/>
-      <property name="Comment" value="Murata Electronics GRM155R62A104KE14D 0.1 µF ±10% 100V Ceramic Capacitor X5R 0402 (1005 Metric)"/>
       <property name="LCSC" value="C162178"/>
       <property name="Sheetname" value="tmc5160"/>
       <property name="Sheetfile" value="tmc5160.kicad_sch"/>
@@ -1082,23 +1025,22 @@
       <value>2.2uF_100V</value>
       <footprint>Janelia:C_0805_2012Metric</footprint>
       <fields>
-        <field name="Comment">Murata Electronics GRT21BD72A225KE13K 2.2 µF ±10% 100V Ceramic Capacitor X7T 0805 (2012 Metric)</field>
+        <field name="LCSC">C2981733</field>
         <field name="Manufacturer">Murata Electronics</field>
-        <field name="Manufacturer Part Number">GRT21BD72A225KE13K</field>
+        <field name="Manufacturer Part Number">GRM21BD72A225KE01L</field>
         <field name="Package">0805</field>
         <field name="Synopsis">CAP CER 2.2UF 100V X7T 0805</field>
         <field name="Vendor">Digi-Key</field>
-        <field name="Vendor Part Number">490-GRT21BD72A225KE13KCT-ND</field>
+        <field name="Vendor Part Number">490-GRM21BD72A225KE01LCT-ND</field>
       </fields>
       <libsource lib="Janelia" part="C_2.2uF_100V_0805" description="2.2 µF ±10% 100V Ceramic Capacitor X7T 0805 (2012 Metric)"/>
       <property name="Vendor" value="Digi-Key"/>
-      <property name="Vendor Part Number" value="490-GRT21BD72A225KE13KCT-ND"/>
+      <property name="Vendor Part Number" value="490-GRM21BD72A225KE01LCT-ND"/>
       <property name="Package" value="0805"/>
       <property name="Manufacturer" value="Murata Electronics"/>
-      <property name="Manufacturer Part Number" value="GRT21BD72A225KE13K"/>
+      <property name="Manufacturer Part Number" value="GRM21BD72A225KE01L"/>
       <property name="Synopsis" value="CAP CER 2.2UF 100V X7T 0805"/>
-      <property name="Comment" value="Murata Electronics GRT21BD72A225KE13K 2.2 µF ±10% 100V Ceramic Capacitor X7T 0805 (2012 Metric)"/>
-      <property name="LCSC" value=""/>
+      <property name="LCSC" value="C2981733"/>
       <property name="Sheetname" value="tmc5160"/>
       <property name="Sheetfile" value="tmc5160.kicad_sch"/>
       <property name="ki_description" value="2.2 µF ±10% 100V Ceramic Capacitor X7T 0805 (2012 Metric)"/>
@@ -1109,23 +1051,22 @@
       <value>2.2uF_100V</value>
       <footprint>Janelia:C_0805_2012Metric</footprint>
       <fields>
-        <field name="Comment">Murata Electronics GRT21BD72A225KE13K 2.2 µF ±10% 100V Ceramic Capacitor X7T 0805 (2012 Metric)</field>
+        <field name="LCSC">C2981733</field>
         <field name="Manufacturer">Murata Electronics</field>
-        <field name="Manufacturer Part Number">GRT21BD72A225KE13K</field>
+        <field name="Manufacturer Part Number">GRM21BD72A225KE01L</field>
         <field name="Package">0805</field>
         <field name="Synopsis">CAP CER 2.2UF 100V X7T 0805</field>
         <field name="Vendor">Digi-Key</field>
-        <field name="Vendor Part Number">490-GRT21BD72A225KE13KCT-ND</field>
+        <field name="Vendor Part Number">490-GRM21BD72A225KE01LCT-ND</field>
       </fields>
       <libsource lib="Janelia" part="C_2.2uF_100V_0805" description="2.2 µF ±10% 100V Ceramic Capacitor X7T 0805 (2012 Metric)"/>
       <property name="Vendor" value="Digi-Key"/>
-      <property name="Vendor Part Number" value="490-GRT21BD72A225KE13KCT-ND"/>
+      <property name="Vendor Part Number" value="490-GRM21BD72A225KE01LCT-ND"/>
       <property name="Package" value="0805"/>
       <property name="Manufacturer" value="Murata Electronics"/>
-      <property name="Manufacturer Part Number" value="GRT21BD72A225KE13K"/>
+      <property name="Manufacturer Part Number" value="GRM21BD72A225KE01L"/>
       <property name="Synopsis" value="CAP CER 2.2UF 100V X7T 0805"/>
-      <property name="Comment" value="Murata Electronics GRT21BD72A225KE13K 2.2 µF ±10% 100V Ceramic Capacitor X7T 0805 (2012 Metric)"/>
-      <property name="LCSC" value=""/>
+      <property name="LCSC" value="C2981733"/>
       <property name="Sheetname" value="tmc5160"/>
       <property name="Sheetfile" value="tmc5160.kicad_sch"/>
       <property name="ki_description" value="2.2 µF ±10% 100V Ceramic Capacitor X7T 0805 (2012 Metric)"/>
@@ -1136,7 +1077,7 @@
       <value>220uF_63V</value>
       <footprint>Janelia:CP_Hybrid_EEHZS1H221V</footprint>
       <fields>
-        <field name="Comment">Panasonic Electronic Components EEH-ZS1H221V 220 µF 50 V Aluminum - Polymer Capacitors Radial, Can - SMD 13mOhm 4000 Hrs @ 125°C</field>
+        <field name="LCSC">C454279</field>
         <field name="Manufacturer">Panasonic Electronic Components</field>
         <field name="Manufacturer Part Number">EEH-ZS1H221V</field>
         <field name="Synopsis">CAP ALUM HYB 220UF 20% 50V SMD</field>
@@ -1149,8 +1090,7 @@
       <property name="Synopsis" value="CAP ALUM HYB 220UF 20% 50V SMD"/>
       <property name="Manufacturer" value="Panasonic Electronic Components"/>
       <property name="Manufacturer Part Number" value="EEH-ZS1H221V"/>
-      <property name="Comment" value="Panasonic Electronic Components EEH-ZS1H221V 220 µF 50 V Aluminum - Polymer Capacitors Radial, Can - SMD 13mOhm 4000 Hrs @ 125°C"/>
-      <property name="LCSC" value=""/>
+      <property name="LCSC" value="C454279"/>
       <property name="Sheetname" value="tmc5160"/>
       <property name="Sheetfile" value="tmc5160.kicad_sch"/>
       <property name="ki_description" value="220 µF 50 V Aluminum - Polymer Capacitors Radial, Can - SMD 13mOhm 4000 Hrs @ 125°C"/>
@@ -1161,7 +1101,6 @@
       <value>0.1uF_100V</value>
       <footprint>Janelia:C_0402_1005Metric</footprint>
       <fields>
-        <field name="Comment">Murata Electronics GRM155R62A104KE14D 0.1 µF ±10% 100V Ceramic Capacitor X5R 0402 (1005 Metric)</field>
         <field name="LCSC">C162178</field>
         <field name="Manufacturer">Murata Electronics</field>
         <field name="Manufacturer Part Number">GRM155R62A104KE14D</field>
@@ -1177,7 +1116,6 @@
       <property name="Manufacturer Part Number" value="GRM155R62A104KE14D"/>
       <property name="Package" value="0402"/>
       <property name="Synopsis" value="CAP CER 0.1UF 100V X5R"/>
-      <property name="Comment" value="Murata Electronics GRM155R62A104KE14D 0.1 µF ±10% 100V Ceramic Capacitor X5R 0402 (1005 Metric)"/>
       <property name="LCSC" value="C162178"/>
       <property name="Sheetname" value="tmc5160"/>
       <property name="Sheetfile" value="tmc5160.kicad_sch"/>
@@ -1189,7 +1127,6 @@
       <value>D_Zener_48V_2.6A</value>
       <footprint>Janelia:SMFSeries_LTF</footprint>
       <fields>
-        <field name="Comment">Littelfuse Inc. SMF48A 77.4V Clamp 2.6A Ipp Tvs Diode Surface Mount SOD-123F</field>
         <field name="LCSC">C1509577</field>
         <field name="Manufacturer">Littelfuse Inc.</field>
         <field name="Manufacturer Part Number">SMF48A</field>
@@ -1204,7 +1141,6 @@
       <property name="Manufacturer Part Number" value="SMF48A"/>
       <property name="Vendor" value="Digi-Key"/>
       <property name="Vendor Part Number" value="F5832CT-ND"/>
-      <property name="Comment" value="Littelfuse Inc. SMF48A 77.4V Clamp 2.6A Ipp Tvs Diode Surface Mount SOD-123F"/>
       <property name="Package" value=" SOD-123F"/>
       <property name="LCSC" value="C1509577"/>
       <property name="Sheetname" value="tmc5160"/>
@@ -1218,7 +1154,6 @@
       <value>Molex_Pico-SPOX_Horizontal</value>
       <footprint>Janelia:Molex_Pico-SPOX-87438_1x04-P1.5mm_Horizontal</footprint>
       <fields>
-        <field name="Comment">Molex 0874380443 Connector Header Surface Mount, Right Angle 4 position 0.059" (1.50mm)</field>
         <field name="LCSC">C564208</field>
         <field name="Manufacturer">Molex</field>
         <field name="Manufacturer Part Number">0874380443</field>
@@ -1232,7 +1167,6 @@
       <property name="Vendor" value="Digi-Key"/>
       <property name="Vendor Part Number" value="WM7648CT-ND"/>
       <property name="Synopsis" value="CONN HEADER SMD R/A 4POS 1.5MM"/>
-      <property name="Comment" value="Molex 0874380443 Connector Header Surface Mount, Right Angle 4 position 0.059&quot; (1.50mm)"/>
       <property name="LCSC" value="C564208"/>
       <property name="Sheetname" value="tmc5160"/>
       <property name="Sheetfile" value="tmc5160.kicad_sch"/>
@@ -1245,10 +1179,9 @@
       <value>Molex_Pico-Clasp_Horizontal</value>
       <footprint>Janelia:Molex_Pico-Clasp-501568_1x02_P1mm_Horizontal</footprint>
       <fields>
-        <field name="Comment">Molex 5015680207 Connector Header Surface Mount, Right Angle 2 position 0.039" (1.00mm)</field>
         <field name="LCSC">C505123</field>
-        <field name="Manufacturer Part Number">5015680207</field>
         <field name="Manufacturer">Molex</field>
+        <field name="Manufacturer Part Number">5015680207</field>
         <field name="Synopsis">CONN HEADER SMD R/A 2POS 1MM</field>
         <field name="Vendor">Digi-Key</field>
         <field name="Vendor Part Number">WM7893CT-ND</field>
@@ -1259,7 +1192,6 @@
       <property name="Manufacturer Part Number" value="5015680207"/>
       <property name="Vendor" value="Digi-Key"/>
       <property name="Vendor Part Number" value="WM7893CT-ND"/>
-      <property name="Comment" value="Molex 5015680207 Connector Header Surface Mount, Right Angle 2 position 0.039&quot; (1.00mm)"/>
       <property name="LCSC" value="C505123"/>
       <property name="Sheetname" value="tmc5160"/>
       <property name="Sheetfile" value="tmc5160.kicad_sch"/>
@@ -1272,7 +1204,7 @@
       <value>2.2</value>
       <footprint>Janelia:R_0402_1005Metric</footprint>
       <fields>
-        <field name="Comment">Panasonic Electronic Components ERJ-2GEJ2R2X 2.2 Ohms ±5% 0.1W, 1/10W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q200 Thick Film</field>
+        <field name="LCSC">C412897</field>
         <field name="Manufacturer">Panasonic Electronic Components</field>
         <field name="Manufacturer Part Number">ERJ-2GEJ2R2X</field>
         <field name="Package">0402</field>
@@ -1287,8 +1219,7 @@
       <property name="Manufacturer" value="Panasonic Electronic Components"/>
       <property name="Manufacturer Part Number" value="ERJ-2GEJ2R2X"/>
       <property name="Synopsis" value="RES SMD 2.2 OHM 5% 1/10W"/>
-      <property name="Comment" value="Panasonic Electronic Components ERJ-2GEJ2R2X 2.2 Ohms ±5% 0.1W, 1/10W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q200 Thick Film"/>
-      <property name="LCSC" value=""/>
+      <property name="LCSC" value="C412897"/>
       <property name="Sheetname" value="tmc5160"/>
       <property name="Sheetfile" value="tmc5160.kicad_sch"/>
       <property name="ki_description" value="2.2 Ohms ±5% 0.1W, 1/10W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q200 Thick Film"/>
@@ -1299,7 +1230,6 @@
       <value>47</value>
       <footprint>Janelia:R_0402_1005Metric</footprint>
       <fields>
-        <field name="Comment">Stackpole Electronics Inc RMCF0402FT47R0 47 Ohms ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q200 Thick Film</field>
         <field name="LCSC">C2479306</field>
         <field name="Manufacturer">Stackpole Electronics Inc</field>
         <field name="Manufacturer Part Number">RMCF0402FT47R0</field>
@@ -1315,7 +1245,6 @@
       <property name="Manufacturer" value="Stackpole Electronics Inc"/>
       <property name="Manufacturer Part Number" value="RMCF0402FT47R0"/>
       <property name="Synopsis" value="RES 47 OHM 1% 1/16W"/>
-      <property name="Comment" value="Stackpole Electronics Inc RMCF0402FT47R0 47 Ohms ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q200 Thick Film"/>
       <property name="LCSC" value="C2479306"/>
       <property name="Sheetname" value="tmc5160"/>
       <property name="Sheetfile" value="tmc5160.kicad_sch"/>
@@ -1327,7 +1256,6 @@
       <value>47</value>
       <footprint>Janelia:R_0402_1005Metric</footprint>
       <fields>
-        <field name="Comment">Stackpole Electronics Inc RMCF0402FT47R0 47 Ohms ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q200 Thick Film</field>
         <field name="LCSC">C2479306</field>
         <field name="Manufacturer">Stackpole Electronics Inc</field>
         <field name="Manufacturer Part Number">RMCF0402FT47R0</field>
@@ -1343,7 +1271,6 @@
       <property name="Manufacturer" value="Stackpole Electronics Inc"/>
       <property name="Manufacturer Part Number" value="RMCF0402FT47R0"/>
       <property name="Synopsis" value="RES 47 OHM 1% 1/16W"/>
-      <property name="Comment" value="Stackpole Electronics Inc RMCF0402FT47R0 47 Ohms ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q200 Thick Film"/>
       <property name="LCSC" value="C2479306"/>
       <property name="Sheetname" value="tmc5160"/>
       <property name="Sheetfile" value="tmc5160.kicad_sch"/>
@@ -1355,7 +1282,6 @@
       <value>0.15</value>
       <footprint>Janelia:R_1206_3216Metric</footprint>
       <fields>
-        <field name="Comment">Delta Electronics/Cyntec VSRP1206S1-R150F 150 mOhms ±1% 1W Chip Resistor 1206 (3216 Metric) Automotive AEC-Q200, Current Sense Thick Film</field>
         <field name="LCSC">C4090676</field>
         <field name="Manufacturer">Delta Electronics/Cyntec</field>
         <field name="Manufacturer Part Number">VSRP1206S1-R150F</field>
@@ -1371,7 +1297,6 @@
       <property name="Manufacturer" value="Delta Electronics/Cyntec"/>
       <property name="Manufacturer Part Number" value="VSRP1206S1-R150F"/>
       <property name="Synopsis" value="RES 0.15 OHM 1% 1W"/>
-      <property name="Comment" value="Delta Electronics/Cyntec VSRP1206S1-R150F 150 mOhms ±1% 1W Chip Resistor 1206 (3216 Metric) Automotive AEC-Q200, Current Sense Thick Film"/>
       <property name="LCSC" value="C4090676"/>
       <property name="Sheetname" value="tmc5160"/>
       <property name="Sheetfile" value="tmc5160.kicad_sch"/>
@@ -1383,7 +1308,6 @@
       <value>0.15</value>
       <footprint>Janelia:R_1206_3216Metric</footprint>
       <fields>
-        <field name="Comment">Delta Electronics/Cyntec VSRP1206S1-R150F 150 mOhms ±1% 1W Chip Resistor 1206 (3216 Metric) Automotive AEC-Q200, Current Sense Thick Film</field>
         <field name="LCSC">C4090676</field>
         <field name="Manufacturer">Delta Electronics/Cyntec</field>
         <field name="Manufacturer Part Number">VSRP1206S1-R150F</field>
@@ -1399,7 +1323,6 @@
       <property name="Manufacturer" value="Delta Electronics/Cyntec"/>
       <property name="Manufacturer Part Number" value="VSRP1206S1-R150F"/>
       <property name="Synopsis" value="RES 0.15 OHM 1% 1W"/>
-      <property name="Comment" value="Delta Electronics/Cyntec VSRP1206S1-R150F 150 mOhms ±1% 1W Chip Resistor 1206 (3216 Metric) Automotive AEC-Q200, Current Sense Thick Film"/>
       <property name="LCSC" value="C4090676"/>
       <property name="Sheetname" value="tmc5160"/>
       <property name="Sheetfile" value="tmc5160.kicad_sch"/>
@@ -1411,7 +1334,6 @@
       <value>47</value>
       <footprint>Janelia:R_0402_1005Metric</footprint>
       <fields>
-        <field name="Comment">Stackpole Electronics Inc RMCF0402FT47R0 47 Ohms ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q200 Thick Film</field>
         <field name="LCSC">C2479306</field>
         <field name="Manufacturer">Stackpole Electronics Inc</field>
         <field name="Manufacturer Part Number">RMCF0402FT47R0</field>
@@ -1427,7 +1349,6 @@
       <property name="Manufacturer" value="Stackpole Electronics Inc"/>
       <property name="Manufacturer Part Number" value="RMCF0402FT47R0"/>
       <property name="Synopsis" value="RES 47 OHM 1% 1/16W"/>
-      <property name="Comment" value="Stackpole Electronics Inc RMCF0402FT47R0 47 Ohms ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q200 Thick Film"/>
       <property name="LCSC" value="C2479306"/>
       <property name="Sheetname" value="tmc5160"/>
       <property name="Sheetfile" value="tmc5160.kicad_sch"/>
@@ -1439,7 +1360,6 @@
       <value>47</value>
       <footprint>Janelia:R_0402_1005Metric</footprint>
       <fields>
-        <field name="Comment">Stackpole Electronics Inc RMCF0402FT47R0 47 Ohms ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q200 Thick Film</field>
         <field name="LCSC">C2479306</field>
         <field name="Manufacturer">Stackpole Electronics Inc</field>
         <field name="Manufacturer Part Number">RMCF0402FT47R0</field>
@@ -1455,7 +1375,6 @@
       <property name="Manufacturer" value="Stackpole Electronics Inc"/>
       <property name="Manufacturer Part Number" value="RMCF0402FT47R0"/>
       <property name="Synopsis" value="RES 47 OHM 1% 1/16W"/>
-      <property name="Comment" value="Stackpole Electronics Inc RMCF0402FT47R0 47 Ohms ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q200 Thick Film"/>
       <property name="LCSC" value="C2479306"/>
       <property name="Sheetname" value="tmc5160"/>
       <property name="Sheetfile" value="tmc5160.kicad_sch"/>
@@ -1468,7 +1387,6 @@
       <footprint>Janelia:21-100593_ADI</footprint>
       <datasheet>https://www.analog.com/media/en/technical-documentation/data-sheets/TMC5160A_datasheet_rev1.18.pdf</datasheet>
       <fields>
-        <field name="Comment">Analog Devices Inc. TMC5160A-WA Bipolar Motor Driver Power MOSFET SPI, Step/Direction 56-QFN (8x8)</field>
         <field name="LCSC">C1161714</field>
         <field name="Manufacturer">Analog Devices Inc.</field>
         <field name="Manufacturer Part Number">TMC5160A-WA</field>
@@ -1484,7 +1402,6 @@
       <property name="Vendor" value="Digi-Key"/>
       <property name="Vendor Part Number" value="505-TMC5160A-WA-ND"/>
       <property name="Synopsis" value="IC MTR DRVR BIPOLAR 8-60V"/>
-      <property name="Comment" value="Analog Devices Inc. TMC5160A-WA Bipolar Motor Driver Power MOSFET SPI, Step/Direction 56-QFN (8x8)"/>
       <property name="LCSC" value="C1161714"/>
       <property name="Sheetname" value="tmc5160"/>
       <property name="Sheetfile" value="tmc5160.kicad_sch"/>
@@ -1497,7 +1414,6 @@
       <value>MAX6816</value>
       <footprint>Janelia:SOT192P237X122-4N</footprint>
       <fields>
-        <field name="Comment">Analog Devices Inc./Maxim Integrated MAX6816EUS+T Switch Debouncer SOT-143-4</field>
         <field name="LCSC">C41637</field>
         <field name="Manufacturer">Analog Devices Inc./Maxim Integrated</field>
         <field name="Manufacturer Part Number">MAX6816EUS+T</field>
@@ -1515,7 +1431,6 @@
       <property name="Vendor Part Number" value="MAX6816EUS+TCT-ND"/>
       <property name="Sim.Enable" value="0"/>
       <property name="Synopsis" value="IC SWITCH DEBOUNCER"/>
-      <property name="Comment" value="Analog Devices Inc./Maxim Integrated MAX6816EUS+T Switch Debouncer SOT-143-4"/>
       <property name="LCSC" value="C41637"/>
       <property name="Sheetname" value="tmc5160"/>
       <property name="Sheetfile" value="tmc5160.kicad_sch"/>
@@ -1527,7 +1442,6 @@
       <value>16MHz</value>
       <footprint>Janelia:OSC_ECS-2520S33-160-FN-TR</footprint>
       <fields>
-        <field name="Comment">ECS Inc. ECS-2520S33-160-FN-TR 16 MHz XO (Standard) HCMOS Oscillator 3.3V Enable/Disable 4-SMD, No Lead</field>
         <field name="LCSC">C2451298</field>
         <field name="Manufacturer">ECS Inc.</field>
         <field name="Manufacturer Part Number">ECS-2520S33-160-FN-TR</field>
@@ -1541,7 +1455,6 @@
       <property name="Vendor" value="Digi-Key"/>
       <property name="Vendor Part Number" value="XC2195CT-ND"/>
       <property name="Synopsis" value="XTAL OSC XO 16.0000MHZ HCMOS SMD"/>
-      <property name="Comment" value="ECS Inc. ECS-2520S33-160-FN-TR 16 MHz XO (Standard) HCMOS Oscillator 3.3V Enable/Disable 4-SMD, No Lead"/>
       <property name="LCSC" value="C2451298"/>
       <property name="Sheetname" value="tmc5160"/>
       <property name="Sheetfile" value="tmc5160.kicad_sch"/>
@@ -1554,7 +1467,7 @@
       <value>15</value>
       <footprint>Janelia:R_0402_1005Metric</footprint>
       <fields>
-        <field name="Comment">Panasonic Electronic Components ERJ-2RKF15R0X 15 Ohms ±1% 0.1W, 1/10W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q200 Thick Film</field>
+        <field name="LCSC">C413047</field>
         <field name="Manufacturer">Panasonic Electronic Components</field>
         <field name="Manufacturer Part Number">ERJ-2RKF15R0X</field>
         <field name="Package">0402</field>
@@ -1569,8 +1482,7 @@
       <property name="Manufacturer" value="Panasonic Electronic Components"/>
       <property name="Manufacturer Part Number" value="ERJ-2RKF15R0X"/>
       <property name="Synopsis" value="RES SMD 15 OHM 1% 1/10W"/>
-      <property name="Comment" value="Panasonic Electronic Components ERJ-2RKF15R0X 15 Ohms ±1% 0.1W, 1/10W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q200 Thick Film"/>
-      <property name="LCSC" value=""/>
+      <property name="LCSC" value="C413047"/>
       <property name="Sheetname" value="mosfet1"/>
       <property name="Sheetfile" value="mosfet.kicad_sch"/>
       <property name="ki_description" value="15 Ohms ±1% 0.1W, 1/10W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q200 Thick Film"/>
@@ -1582,7 +1494,6 @@
       <footprint>Janelia:BUK7D3660EX_NEX</footprint>
       <datasheet>BUK7D36-60EX</datasheet>
       <fields>
-        <field name="Comment">Nexperia USA Inc. BUK7D36-60EX N-Channel 60 V 5.5A (Ta), 14A (Tc) 2.3W (Ta), 15W (Tc) Surface Mount DFN2020MD-6</field>
         <field name="LCSC">C3288253</field>
         <field name="Manufacturer">Nexperia USA Inc.</field>
         <field name="Manufacturer Part Number">BUK7D36-60EX</field>
@@ -1598,7 +1509,6 @@
       <property name="Vendor" value="Digi-Key"/>
       <property name="Vendor Part Number" value="1727-BUK7D36-60EXCT-ND"/>
       <property name="Synopsis" value="MOSFET N-CH 60V 5.5A/14A"/>
-      <property name="Comment" value="Nexperia USA Inc. BUK7D36-60EX N-Channel 60 V 5.5A (Ta), 14A (Tc) 2.3W (Ta), 15W (Tc) Surface Mount DFN2020MD-6"/>
       <property name="LCSC" value="C3288253"/>
       <property name="Sheetname" value="mosfet1"/>
       <property name="Sheetfile" value="mosfet.kicad_sch"/>
@@ -1611,7 +1521,7 @@
       <value>15</value>
       <footprint>Janelia:R_0402_1005Metric</footprint>
       <fields>
-        <field name="Comment">Panasonic Electronic Components ERJ-2RKF15R0X 15 Ohms ±1% 0.1W, 1/10W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q200 Thick Film</field>
+        <field name="LCSC">C413047</field>
         <field name="Manufacturer">Panasonic Electronic Components</field>
         <field name="Manufacturer Part Number">ERJ-2RKF15R0X</field>
         <field name="Package">0402</field>
@@ -1626,8 +1536,7 @@
       <property name="Manufacturer" value="Panasonic Electronic Components"/>
       <property name="Manufacturer Part Number" value="ERJ-2RKF15R0X"/>
       <property name="Synopsis" value="RES SMD 15 OHM 1% 1/10W"/>
-      <property name="Comment" value="Panasonic Electronic Components ERJ-2RKF15R0X 15 Ohms ±1% 0.1W, 1/10W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q200 Thick Film"/>
-      <property name="LCSC" value=""/>
+      <property name="LCSC" value="C413047"/>
       <property name="Sheetname" value="mosfet2"/>
       <property name="Sheetfile" value="mosfet.kicad_sch"/>
       <property name="ki_description" value="15 Ohms ±1% 0.1W, 1/10W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q200 Thick Film"/>
@@ -1639,7 +1548,6 @@
       <footprint>Janelia:BUK7D3660EX_NEX</footprint>
       <datasheet>BUK7D36-60EX</datasheet>
       <fields>
-        <field name="Comment">Nexperia USA Inc. BUK7D36-60EX N-Channel 60 V 5.5A (Ta), 14A (Tc) 2.3W (Ta), 15W (Tc) Surface Mount DFN2020MD-6</field>
         <field name="LCSC">C3288253</field>
         <field name="Manufacturer">Nexperia USA Inc.</field>
         <field name="Manufacturer Part Number">BUK7D36-60EX</field>
@@ -1655,7 +1563,6 @@
       <property name="Vendor" value="Digi-Key"/>
       <property name="Vendor Part Number" value="1727-BUK7D36-60EXCT-ND"/>
       <property name="Synopsis" value="MOSFET N-CH 60V 5.5A/14A"/>
-      <property name="Comment" value="Nexperia USA Inc. BUK7D36-60EX N-Channel 60 V 5.5A (Ta), 14A (Tc) 2.3W (Ta), 15W (Tc) Surface Mount DFN2020MD-6"/>
       <property name="LCSC" value="C3288253"/>
       <property name="Sheetname" value="mosfet2"/>
       <property name="Sheetfile" value="mosfet.kicad_sch"/>
@@ -1668,7 +1575,7 @@
       <value>15</value>
       <footprint>Janelia:R_0402_1005Metric</footprint>
       <fields>
-        <field name="Comment">Panasonic Electronic Components ERJ-2RKF15R0X 15 Ohms ±1% 0.1W, 1/10W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q200 Thick Film</field>
+        <field name="LCSC">C413047</field>
         <field name="Manufacturer">Panasonic Electronic Components</field>
         <field name="Manufacturer Part Number">ERJ-2RKF15R0X</field>
         <field name="Package">0402</field>
@@ -1683,8 +1590,7 @@
       <property name="Manufacturer" value="Panasonic Electronic Components"/>
       <property name="Manufacturer Part Number" value="ERJ-2RKF15R0X"/>
       <property name="Synopsis" value="RES SMD 15 OHM 1% 1/10W"/>
-      <property name="Comment" value="Panasonic Electronic Components ERJ-2RKF15R0X 15 Ohms ±1% 0.1W, 1/10W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q200 Thick Film"/>
-      <property name="LCSC" value=""/>
+      <property name="LCSC" value="C413047"/>
       <property name="Sheetname" value="mosfet4"/>
       <property name="Sheetfile" value="mosfet.kicad_sch"/>
       <property name="ki_description" value="15 Ohms ±1% 0.1W, 1/10W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q200 Thick Film"/>
@@ -1696,7 +1602,6 @@
       <footprint>Janelia:BUK7D3660EX_NEX</footprint>
       <datasheet>BUK7D36-60EX</datasheet>
       <fields>
-        <field name="Comment">Nexperia USA Inc. BUK7D36-60EX N-Channel 60 V 5.5A (Ta), 14A (Tc) 2.3W (Ta), 15W (Tc) Surface Mount DFN2020MD-6</field>
         <field name="LCSC">C3288253</field>
         <field name="Manufacturer">Nexperia USA Inc.</field>
         <field name="Manufacturer Part Number">BUK7D36-60EX</field>
@@ -1712,7 +1617,6 @@
       <property name="Vendor" value="Digi-Key"/>
       <property name="Vendor Part Number" value="1727-BUK7D36-60EXCT-ND"/>
       <property name="Synopsis" value="MOSFET N-CH 60V 5.5A/14A"/>
-      <property name="Comment" value="Nexperia USA Inc. BUK7D36-60EX N-Channel 60 V 5.5A (Ta), 14A (Tc) 2.3W (Ta), 15W (Tc) Surface Mount DFN2020MD-6"/>
       <property name="LCSC" value="C3288253"/>
       <property name="Sheetname" value="mosfet4"/>
       <property name="Sheetfile" value="mosfet.kicad_sch"/>
@@ -1725,7 +1629,7 @@
       <value>15</value>
       <footprint>Janelia:R_0402_1005Metric</footprint>
       <fields>
-        <field name="Comment">Panasonic Electronic Components ERJ-2RKF15R0X 15 Ohms ±1% 0.1W, 1/10W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q200 Thick Film</field>
+        <field name="LCSC">C413047</field>
         <field name="Manufacturer">Panasonic Electronic Components</field>
         <field name="Manufacturer Part Number">ERJ-2RKF15R0X</field>
         <field name="Package">0402</field>
@@ -1740,8 +1644,7 @@
       <property name="Manufacturer" value="Panasonic Electronic Components"/>
       <property name="Manufacturer Part Number" value="ERJ-2RKF15R0X"/>
       <property name="Synopsis" value="RES SMD 15 OHM 1% 1/10W"/>
-      <property name="Comment" value="Panasonic Electronic Components ERJ-2RKF15R0X 15 Ohms ±1% 0.1W, 1/10W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q200 Thick Film"/>
-      <property name="LCSC" value=""/>
+      <property name="LCSC" value="C413047"/>
       <property name="Sheetname" value="mosfet3"/>
       <property name="Sheetfile" value="mosfet.kicad_sch"/>
       <property name="ki_description" value="15 Ohms ±1% 0.1W, 1/10W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q200 Thick Film"/>
@@ -1753,7 +1656,6 @@
       <footprint>Janelia:BUK7D3660EX_NEX</footprint>
       <datasheet>BUK7D36-60EX</datasheet>
       <fields>
-        <field name="Comment">Nexperia USA Inc. BUK7D36-60EX N-Channel 60 V 5.5A (Ta), 14A (Tc) 2.3W (Ta), 15W (Tc) Surface Mount DFN2020MD-6</field>
         <field name="LCSC">C3288253</field>
         <field name="Manufacturer">Nexperia USA Inc.</field>
         <field name="Manufacturer Part Number">BUK7D36-60EX</field>
@@ -1769,7 +1671,6 @@
       <property name="Vendor" value="Digi-Key"/>
       <property name="Vendor Part Number" value="1727-BUK7D36-60EXCT-ND"/>
       <property name="Synopsis" value="MOSFET N-CH 60V 5.5A/14A"/>
-      <property name="Comment" value="Nexperia USA Inc. BUK7D36-60EX N-Channel 60 V 5.5A (Ta), 14A (Tc) 2.3W (Ta), 15W (Tc) Surface Mount DFN2020MD-6"/>
       <property name="LCSC" value="C3288253"/>
       <property name="Sheetname" value="mosfet3"/>
       <property name="Sheetfile" value="mosfet.kicad_sch"/>
@@ -1782,7 +1683,7 @@
       <value>15</value>
       <footprint>Janelia:R_0402_1005Metric</footprint>
       <fields>
-        <field name="Comment">Panasonic Electronic Components ERJ-2RKF15R0X 15 Ohms ±1% 0.1W, 1/10W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q200 Thick Film</field>
+        <field name="LCSC">C413047</field>
         <field name="Manufacturer">Panasonic Electronic Components</field>
         <field name="Manufacturer Part Number">ERJ-2RKF15R0X</field>
         <field name="Package">0402</field>
@@ -1797,8 +1698,7 @@
       <property name="Manufacturer" value="Panasonic Electronic Components"/>
       <property name="Manufacturer Part Number" value="ERJ-2RKF15R0X"/>
       <property name="Synopsis" value="RES SMD 15 OHM 1% 1/10W"/>
-      <property name="Comment" value="Panasonic Electronic Components ERJ-2RKF15R0X 15 Ohms ±1% 0.1W, 1/10W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q200 Thick Film"/>
-      <property name="LCSC" value=""/>
+      <property name="LCSC" value="C413047"/>
       <property name="Sheetname" value="mosfet6"/>
       <property name="Sheetfile" value="mosfet.kicad_sch"/>
       <property name="ki_description" value="15 Ohms ±1% 0.1W, 1/10W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q200 Thick Film"/>
@@ -1810,7 +1710,6 @@
       <footprint>Janelia:BUK7D3660EX_NEX</footprint>
       <datasheet>BUK7D36-60EX</datasheet>
       <fields>
-        <field name="Comment">Nexperia USA Inc. BUK7D36-60EX N-Channel 60 V 5.5A (Ta), 14A (Tc) 2.3W (Ta), 15W (Tc) Surface Mount DFN2020MD-6</field>
         <field name="LCSC">C3288253</field>
         <field name="Manufacturer">Nexperia USA Inc.</field>
         <field name="Manufacturer Part Number">BUK7D36-60EX</field>
@@ -1826,7 +1725,6 @@
       <property name="Vendor" value="Digi-Key"/>
       <property name="Vendor Part Number" value="1727-BUK7D36-60EXCT-ND"/>
       <property name="Synopsis" value="MOSFET N-CH 60V 5.5A/14A"/>
-      <property name="Comment" value="Nexperia USA Inc. BUK7D36-60EX N-Channel 60 V 5.5A (Ta), 14A (Tc) 2.3W (Ta), 15W (Tc) Surface Mount DFN2020MD-6"/>
       <property name="LCSC" value="C3288253"/>
       <property name="Sheetname" value="mosfet6"/>
       <property name="Sheetfile" value="mosfet.kicad_sch"/>
@@ -1839,7 +1737,7 @@
       <value>15</value>
       <footprint>Janelia:R_0402_1005Metric</footprint>
       <fields>
-        <field name="Comment">Panasonic Electronic Components ERJ-2RKF15R0X 15 Ohms ±1% 0.1W, 1/10W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q200 Thick Film</field>
+        <field name="LCSC">C413047</field>
         <field name="Manufacturer">Panasonic Electronic Components</field>
         <field name="Manufacturer Part Number">ERJ-2RKF15R0X</field>
         <field name="Package">0402</field>
@@ -1854,8 +1752,7 @@
       <property name="Manufacturer" value="Panasonic Electronic Components"/>
       <property name="Manufacturer Part Number" value="ERJ-2RKF15R0X"/>
       <property name="Synopsis" value="RES SMD 15 OHM 1% 1/10W"/>
-      <property name="Comment" value="Panasonic Electronic Components ERJ-2RKF15R0X 15 Ohms ±1% 0.1W, 1/10W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q200 Thick Film"/>
-      <property name="LCSC" value=""/>
+      <property name="LCSC" value="C413047"/>
       <property name="Sheetname" value="mosfet5"/>
       <property name="Sheetfile" value="mosfet.kicad_sch"/>
       <property name="ki_description" value="15 Ohms ±1% 0.1W, 1/10W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q200 Thick Film"/>
@@ -1867,7 +1764,6 @@
       <footprint>Janelia:BUK7D3660EX_NEX</footprint>
       <datasheet>BUK7D36-60EX</datasheet>
       <fields>
-        <field name="Comment">Nexperia USA Inc. BUK7D36-60EX N-Channel 60 V 5.5A (Ta), 14A (Tc) 2.3W (Ta), 15W (Tc) Surface Mount DFN2020MD-6</field>
         <field name="LCSC">C3288253</field>
         <field name="Manufacturer">Nexperia USA Inc.</field>
         <field name="Manufacturer Part Number">BUK7D36-60EX</field>
@@ -1883,7 +1779,6 @@
       <property name="Vendor" value="Digi-Key"/>
       <property name="Vendor Part Number" value="1727-BUK7D36-60EXCT-ND"/>
       <property name="Synopsis" value="MOSFET N-CH 60V 5.5A/14A"/>
-      <property name="Comment" value="Nexperia USA Inc. BUK7D36-60EX N-Channel 60 V 5.5A (Ta), 14A (Tc) 2.3W (Ta), 15W (Tc) Surface Mount DFN2020MD-6"/>
       <property name="LCSC" value="C3288253"/>
       <property name="Sheetname" value="mosfet5"/>
       <property name="Sheetfile" value="mosfet.kicad_sch"/>
@@ -1896,7 +1791,7 @@
       <value>15</value>
       <footprint>Janelia:R_0402_1005Metric</footprint>
       <fields>
-        <field name="Comment">Panasonic Electronic Components ERJ-2RKF15R0X 15 Ohms ±1% 0.1W, 1/10W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q200 Thick Film</field>
+        <field name="LCSC">C413047</field>
         <field name="Manufacturer">Panasonic Electronic Components</field>
         <field name="Manufacturer Part Number">ERJ-2RKF15R0X</field>
         <field name="Package">0402</field>
@@ -1911,8 +1806,7 @@
       <property name="Manufacturer" value="Panasonic Electronic Components"/>
       <property name="Manufacturer Part Number" value="ERJ-2RKF15R0X"/>
       <property name="Synopsis" value="RES SMD 15 OHM 1% 1/10W"/>
-      <property name="Comment" value="Panasonic Electronic Components ERJ-2RKF15R0X 15 Ohms ±1% 0.1W, 1/10W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q200 Thick Film"/>
-      <property name="LCSC" value=""/>
+      <property name="LCSC" value="C413047"/>
       <property name="Sheetname" value="mosfet7"/>
       <property name="Sheetfile" value="mosfet.kicad_sch"/>
       <property name="ki_description" value="15 Ohms ±1% 0.1W, 1/10W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q200 Thick Film"/>
@@ -1924,7 +1818,6 @@
       <footprint>Janelia:BUK7D3660EX_NEX</footprint>
       <datasheet>BUK7D36-60EX</datasheet>
       <fields>
-        <field name="Comment">Nexperia USA Inc. BUK7D36-60EX N-Channel 60 V 5.5A (Ta), 14A (Tc) 2.3W (Ta), 15W (Tc) Surface Mount DFN2020MD-6</field>
         <field name="LCSC">C3288253</field>
         <field name="Manufacturer">Nexperia USA Inc.</field>
         <field name="Manufacturer Part Number">BUK7D36-60EX</field>
@@ -1940,7 +1833,6 @@
       <property name="Vendor" value="Digi-Key"/>
       <property name="Vendor Part Number" value="1727-BUK7D36-60EXCT-ND"/>
       <property name="Synopsis" value="MOSFET N-CH 60V 5.5A/14A"/>
-      <property name="Comment" value="Nexperia USA Inc. BUK7D36-60EX N-Channel 60 V 5.5A (Ta), 14A (Tc) 2.3W (Ta), 15W (Tc) Surface Mount DFN2020MD-6"/>
       <property name="LCSC" value="C3288253"/>
       <property name="Sheetname" value="mosfet7"/>
       <property name="Sheetfile" value="mosfet.kicad_sch"/>
@@ -1953,7 +1845,7 @@
       <value>15</value>
       <footprint>Janelia:R_0402_1005Metric</footprint>
       <fields>
-        <field name="Comment">Panasonic Electronic Components ERJ-2RKF15R0X 15 Ohms ±1% 0.1W, 1/10W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q200 Thick Film</field>
+        <field name="LCSC">C413047</field>
         <field name="Manufacturer">Panasonic Electronic Components</field>
         <field name="Manufacturer Part Number">ERJ-2RKF15R0X</field>
         <field name="Package">0402</field>
@@ -1968,8 +1860,7 @@
       <property name="Manufacturer" value="Panasonic Electronic Components"/>
       <property name="Manufacturer Part Number" value="ERJ-2RKF15R0X"/>
       <property name="Synopsis" value="RES SMD 15 OHM 1% 1/10W"/>
-      <property name="Comment" value="Panasonic Electronic Components ERJ-2RKF15R0X 15 Ohms ±1% 0.1W, 1/10W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q200 Thick Film"/>
-      <property name="LCSC" value=""/>
+      <property name="LCSC" value="C413047"/>
       <property name="Sheetname" value="mosfet8"/>
       <property name="Sheetfile" value="mosfet.kicad_sch"/>
       <property name="ki_description" value="15 Ohms ±1% 0.1W, 1/10W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q200 Thick Film"/>
@@ -1981,7 +1872,6 @@
       <footprint>Janelia:BUK7D3660EX_NEX</footprint>
       <datasheet>BUK7D36-60EX</datasheet>
       <fields>
-        <field name="Comment">Nexperia USA Inc. BUK7D36-60EX N-Channel 60 V 5.5A (Ta), 14A (Tc) 2.3W (Ta), 15W (Tc) Surface Mount DFN2020MD-6</field>
         <field name="LCSC">C3288253</field>
         <field name="Manufacturer">Nexperia USA Inc.</field>
         <field name="Manufacturer Part Number">BUK7D36-60EX</field>
@@ -1997,7 +1887,6 @@
       <property name="Vendor" value="Digi-Key"/>
       <property name="Vendor Part Number" value="1727-BUK7D36-60EXCT-ND"/>
       <property name="Synopsis" value="MOSFET N-CH 60V 5.5A/14A"/>
-      <property name="Comment" value="Nexperia USA Inc. BUK7D36-60EX N-Channel 60 V 5.5A (Ta), 14A (Tc) 2.3W (Ta), 15W (Tc) Surface Mount DFN2020MD-6"/>
       <property name="LCSC" value="C3288253"/>
       <property name="Sheetname" value="mosfet8"/>
       <property name="Sheetfile" value="mosfet.kicad_sch"/>
@@ -2010,7 +1899,6 @@
       <value>1uF_25V</value>
       <footprint>Janelia:C_0402_1005Metric</footprint>
       <fields>
-        <field name="Comment">Murata Electronics GRT155R61E105KE01D 1 µF ±10% 25V Ceramic Capacitor X5R 0402 (1005 Metric)</field>
         <field name="LCSC">C711085</field>
         <field name="Manufacturer">Murata Electronics</field>
         <field name="Manufacturer Part Number">GRT155R61E105KE01D</field>
@@ -2026,7 +1914,6 @@
       <property name="Package" value="0402"/>
       <property name="Manufacturer" value="Murata Electronics"/>
       <property name="Manufacturer Part Number" value="GRT155R61E105KE01D"/>
-      <property name="Comment" value="Murata Electronics GRT155R61E105KE01D 1 µF ±10% 25V Ceramic Capacitor X5R 0402 (1005 Metric)"/>
       <property name="LCSC" value="C711085"/>
       <property name="Sheetname" value="rp2040"/>
       <property name="Sheetfile" value="rp2040.kicad_sch"/>
@@ -2038,7 +1925,6 @@
       <value>1uF_25V</value>
       <footprint>Janelia:C_0402_1005Metric</footprint>
       <fields>
-        <field name="Comment">Murata Electronics GRT155R61E105KE01D 1 µF ±10% 25V Ceramic Capacitor X5R 0402 (1005 Metric)</field>
         <field name="LCSC">C711085</field>
         <field name="Manufacturer">Murata Electronics</field>
         <field name="Manufacturer Part Number">GRT155R61E105KE01D</field>
@@ -2054,7 +1940,6 @@
       <property name="Package" value="0402"/>
       <property name="Manufacturer" value="Murata Electronics"/>
       <property name="Manufacturer Part Number" value="GRT155R61E105KE01D"/>
-      <property name="Comment" value="Murata Electronics GRT155R61E105KE01D 1 µF ±10% 25V Ceramic Capacitor X5R 0402 (1005 Metric)"/>
       <property name="LCSC" value="C711085"/>
       <property name="Sheetname" value="rp2040"/>
       <property name="Sheetfile" value="rp2040.kicad_sch"/>
@@ -2066,7 +1951,6 @@
       <value>1uF_35V</value>
       <footprint>Janelia:C_0402_1005Metric</footprint>
       <fields>
-        <field name="Comment">Samsung Electro-Mechanics CL05A105KL5NRNC 1 µF ±10% 35V Ceramic Capacitor X5R 0402 (1005 Metric)</field>
         <field name="LCSC">C307413</field>
         <field name="Manufacturer">Samsung Electro-Mechanics</field>
         <field name="Manufacturer Part Number">CL05A105KL5NRNC</field>
@@ -2082,7 +1966,6 @@
       <property name="Manufacturer" value="Samsung Electro-Mechanics"/>
       <property name="Manufacturer Part Number" value="CL05A105KL5NRNC"/>
       <property name="Synopsis" value="CAP CER 1UF 35V X5R"/>
-      <property name="Comment" value="Samsung Electro-Mechanics CL05A105KL5NRNC 1 µF ±10% 35V Ceramic Capacitor X5R 0402 (1005 Metric)"/>
       <property name="LCSC" value="C307413"/>
       <property name="Sheetname" value="rp2040"/>
       <property name="Sheetfile" value="rp2040.kicad_sch"/>
@@ -2094,7 +1977,6 @@
       <value>0.1uF_100V</value>
       <footprint>Janelia:C_0402_1005Metric</footprint>
       <fields>
-        <field name="Comment">Murata Electronics GRM155R62A104KE14D 0.1 µF ±10% 100V Ceramic Capacitor X5R 0402 (1005 Metric)</field>
         <field name="LCSC">C162178</field>
         <field name="Manufacturer">Murata Electronics</field>
         <field name="Manufacturer Part Number">GRM155R62A104KE14D</field>
@@ -2110,7 +1992,6 @@
       <property name="Manufacturer Part Number" value="GRM155R62A104KE14D"/>
       <property name="Package" value="0402"/>
       <property name="Synopsis" value="CAP CER 0.1UF 100V X5R"/>
-      <property name="Comment" value="Murata Electronics GRM155R62A104KE14D 0.1 µF ±10% 100V Ceramic Capacitor X5R 0402 (1005 Metric)"/>
       <property name="LCSC" value="C162178"/>
       <property name="Sheetname" value="rp2040"/>
       <property name="Sheetfile" value="rp2040.kicad_sch"/>
@@ -2122,7 +2003,6 @@
       <value>0.1uF_100V</value>
       <footprint>Janelia:C_0402_1005Metric</footprint>
       <fields>
-        <field name="Comment">Murata Electronics GRM155R62A104KE14D 0.1 µF ±10% 100V Ceramic Capacitor X5R 0402 (1005 Metric)</field>
         <field name="LCSC">C162178</field>
         <field name="Manufacturer">Murata Electronics</field>
         <field name="Manufacturer Part Number">GRM155R62A104KE14D</field>
@@ -2138,7 +2018,6 @@
       <property name="Manufacturer Part Number" value="GRM155R62A104KE14D"/>
       <property name="Package" value="0402"/>
       <property name="Synopsis" value="CAP CER 0.1UF 100V X5R"/>
-      <property name="Comment" value="Murata Electronics GRM155R62A104KE14D 0.1 µF ±10% 100V Ceramic Capacitor X5R 0402 (1005 Metric)"/>
       <property name="LCSC" value="C162178"/>
       <property name="Sheetname" value="rp2040"/>
       <property name="Sheetfile" value="rp2040.kicad_sch"/>
@@ -2150,7 +2029,6 @@
       <value>0.1uF_100V</value>
       <footprint>Janelia:C_0402_1005Metric</footprint>
       <fields>
-        <field name="Comment">Murata Electronics GRM155R62A104KE14D 0.1 µF ±10% 100V Ceramic Capacitor X5R 0402 (1005 Metric)</field>
         <field name="LCSC">C162178</field>
         <field name="Manufacturer">Murata Electronics</field>
         <field name="Manufacturer Part Number">GRM155R62A104KE14D</field>
@@ -2166,7 +2044,6 @@
       <property name="Manufacturer Part Number" value="GRM155R62A104KE14D"/>
       <property name="Package" value="0402"/>
       <property name="Synopsis" value="CAP CER 0.1UF 100V X5R"/>
-      <property name="Comment" value="Murata Electronics GRM155R62A104KE14D 0.1 µF ±10% 100V Ceramic Capacitor X5R 0402 (1005 Metric)"/>
       <property name="LCSC" value="C162178"/>
       <property name="Sheetname" value="rp2040"/>
       <property name="Sheetfile" value="rp2040.kicad_sch"/>
@@ -2178,7 +2055,6 @@
       <value>0.1uF_100V</value>
       <footprint>Janelia:C_0402_1005Metric</footprint>
       <fields>
-        <field name="Comment">Murata Electronics GRM155R62A104KE14D 0.1 µF ±10% 100V Ceramic Capacitor X5R 0402 (1005 Metric)</field>
         <field name="LCSC">C162178</field>
         <field name="Manufacturer">Murata Electronics</field>
         <field name="Manufacturer Part Number">GRM155R62A104KE14D</field>
@@ -2194,7 +2070,6 @@
       <property name="Manufacturer Part Number" value="GRM155R62A104KE14D"/>
       <property name="Package" value="0402"/>
       <property name="Synopsis" value="CAP CER 0.1UF 100V X5R"/>
-      <property name="Comment" value="Murata Electronics GRM155R62A104KE14D 0.1 µF ±10% 100V Ceramic Capacitor X5R 0402 (1005 Metric)"/>
       <property name="LCSC" value="C162178"/>
       <property name="Sheetname" value="rp2040"/>
       <property name="Sheetfile" value="rp2040.kicad_sch"/>
@@ -2206,7 +2081,6 @@
       <value>0.1uF_100V</value>
       <footprint>Janelia:C_0402_1005Metric</footprint>
       <fields>
-        <field name="Comment">Murata Electronics GRM155R62A104KE14D 0.1 µF ±10% 100V Ceramic Capacitor X5R 0402 (1005 Metric)</field>
         <field name="LCSC">C162178</field>
         <field name="Manufacturer">Murata Electronics</field>
         <field name="Manufacturer Part Number">GRM155R62A104KE14D</field>
@@ -2222,7 +2096,6 @@
       <property name="Manufacturer Part Number" value="GRM155R62A104KE14D"/>
       <property name="Package" value="0402"/>
       <property name="Synopsis" value="CAP CER 0.1UF 100V X5R"/>
-      <property name="Comment" value="Murata Electronics GRM155R62A104KE14D 0.1 µF ±10% 100V Ceramic Capacitor X5R 0402 (1005 Metric)"/>
       <property name="LCSC" value="C162178"/>
       <property name="Sheetname" value="rp2040"/>
       <property name="Sheetfile" value="rp2040.kicad_sch"/>
@@ -2234,7 +2107,6 @@
       <value>0.1uF_100V</value>
       <footprint>Janelia:C_0402_1005Metric</footprint>
       <fields>
-        <field name="Comment">Murata Electronics GRM155R62A104KE14D 0.1 µF ±10% 100V Ceramic Capacitor X5R 0402 (1005 Metric)</field>
         <field name="LCSC">C162178</field>
         <field name="Manufacturer">Murata Electronics</field>
         <field name="Manufacturer Part Number">GRM155R62A104KE14D</field>
@@ -2250,7 +2122,6 @@
       <property name="Manufacturer Part Number" value="GRM155R62A104KE14D"/>
       <property name="Package" value="0402"/>
       <property name="Synopsis" value="CAP CER 0.1UF 100V X5R"/>
-      <property name="Comment" value="Murata Electronics GRM155R62A104KE14D 0.1 µF ±10% 100V Ceramic Capacitor X5R 0402 (1005 Metric)"/>
       <property name="LCSC" value="C162178"/>
       <property name="Sheetname" value="rp2040"/>
       <property name="Sheetfile" value="rp2040.kicad_sch"/>
@@ -2262,7 +2133,6 @@
       <value>0.1uF_100V</value>
       <footprint>Janelia:C_0402_1005Metric</footprint>
       <fields>
-        <field name="Comment">Murata Electronics GRM155R62A104KE14D 0.1 µF ±10% 100V Ceramic Capacitor X5R 0402 (1005 Metric)</field>
         <field name="LCSC">C162178</field>
         <field name="Manufacturer">Murata Electronics</field>
         <field name="Manufacturer Part Number">GRM155R62A104KE14D</field>
@@ -2278,7 +2148,6 @@
       <property name="Manufacturer Part Number" value="GRM155R62A104KE14D"/>
       <property name="Package" value="0402"/>
       <property name="Synopsis" value="CAP CER 0.1UF 100V X5R"/>
-      <property name="Comment" value="Murata Electronics GRM155R62A104KE14D 0.1 µF ±10% 100V Ceramic Capacitor X5R 0402 (1005 Metric)"/>
       <property name="LCSC" value="C162178"/>
       <property name="Sheetname" value="rp2040"/>
       <property name="Sheetfile" value="rp2040.kicad_sch"/>
@@ -2290,7 +2159,6 @@
       <value>1uF_35V</value>
       <footprint>Janelia:C_0402_1005Metric</footprint>
       <fields>
-        <field name="Comment">Samsung Electro-Mechanics CL05A105KL5NRNC 1 µF ±10% 35V Ceramic Capacitor X5R 0402 (1005 Metric)</field>
         <field name="LCSC">C307413</field>
         <field name="Manufacturer">Samsung Electro-Mechanics</field>
         <field name="Manufacturer Part Number">CL05A105KL5NRNC</field>
@@ -2306,7 +2174,6 @@
       <property name="Manufacturer" value="Samsung Electro-Mechanics"/>
       <property name="Manufacturer Part Number" value="CL05A105KL5NRNC"/>
       <property name="Synopsis" value="CAP CER 1UF 35V X5R"/>
-      <property name="Comment" value="Samsung Electro-Mechanics CL05A105KL5NRNC 1 µF ±10% 35V Ceramic Capacitor X5R 0402 (1005 Metric)"/>
       <property name="LCSC" value="C307413"/>
       <property name="Sheetname" value="rp2040"/>
       <property name="Sheetfile" value="rp2040.kicad_sch"/>
@@ -2318,7 +2185,6 @@
       <value>0.1uF_100V</value>
       <footprint>Janelia:C_0402_1005Metric</footprint>
       <fields>
-        <field name="Comment">Murata Electronics GRM155R62A104KE14D 0.1 µF ±10% 100V Ceramic Capacitor X5R 0402 (1005 Metric)</field>
         <field name="LCSC">C162178</field>
         <field name="Manufacturer">Murata Electronics</field>
         <field name="Manufacturer Part Number">GRM155R62A104KE14D</field>
@@ -2334,7 +2200,6 @@
       <property name="Manufacturer Part Number" value="GRM155R62A104KE14D"/>
       <property name="Package" value="0402"/>
       <property name="Synopsis" value="CAP CER 0.1UF 100V X5R"/>
-      <property name="Comment" value="Murata Electronics GRM155R62A104KE14D 0.1 µF ±10% 100V Ceramic Capacitor X5R 0402 (1005 Metric)"/>
       <property name="LCSC" value="C162178"/>
       <property name="Sheetname" value="rp2040"/>
       <property name="Sheetfile" value="rp2040.kicad_sch"/>
@@ -2346,7 +2211,6 @@
       <value>0.1uF_100V</value>
       <footprint>Janelia:C_0402_1005Metric</footprint>
       <fields>
-        <field name="Comment">Murata Electronics GRM155R62A104KE14D 0.1 µF ±10% 100V Ceramic Capacitor X5R 0402 (1005 Metric)</field>
         <field name="LCSC">C162178</field>
         <field name="Manufacturer">Murata Electronics</field>
         <field name="Manufacturer Part Number">GRM155R62A104KE14D</field>
@@ -2362,7 +2226,6 @@
       <property name="Manufacturer Part Number" value="GRM155R62A104KE14D"/>
       <property name="Package" value="0402"/>
       <property name="Synopsis" value="CAP CER 0.1UF 100V X5R"/>
-      <property name="Comment" value="Murata Electronics GRM155R62A104KE14D 0.1 µF ±10% 100V Ceramic Capacitor X5R 0402 (1005 Metric)"/>
       <property name="LCSC" value="C162178"/>
       <property name="Sheetname" value="rp2040"/>
       <property name="Sheetfile" value="rp2040.kicad_sch"/>
@@ -2374,7 +2237,6 @@
       <value>0.1uF_100V</value>
       <footprint>Janelia:C_0402_1005Metric</footprint>
       <fields>
-        <field name="Comment">Murata Electronics GRM155R62A104KE14D 0.1 µF ±10% 100V Ceramic Capacitor X5R 0402 (1005 Metric)</field>
         <field name="LCSC">C162178</field>
         <field name="Manufacturer">Murata Electronics</field>
         <field name="Manufacturer Part Number">GRM155R62A104KE14D</field>
@@ -2390,7 +2252,6 @@
       <property name="Manufacturer Part Number" value="GRM155R62A104KE14D"/>
       <property name="Package" value="0402"/>
       <property name="Synopsis" value="CAP CER 0.1UF 100V X5R"/>
-      <property name="Comment" value="Murata Electronics GRM155R62A104KE14D 0.1 µF ±10% 100V Ceramic Capacitor X5R 0402 (1005 Metric)"/>
       <property name="LCSC" value="C162178"/>
       <property name="Sheetname" value="rp2040"/>
       <property name="Sheetfile" value="rp2040.kicad_sch"/>
@@ -2402,7 +2263,6 @@
       <value>15pF_25V</value>
       <footprint>Janelia:C_0402_1005Metric</footprint>
       <fields>
-        <field name="Comment">KEMET C0402C150J3GACAUTO 15 pF ±5% 25V Ceramic Capacitor C0G, NP0 0402 (1005 Metric)</field>
         <field name="LCSC">C3888936</field>
         <field name="Manufacturer">KEMET</field>
         <field name="Manufacturer Part Number">C0402C150J3GACAUTO</field>
@@ -2418,7 +2278,6 @@
       <property name="Manufacturer" value="KEMET"/>
       <property name="Manufacturer Part Number" value="C0402C150J3GACAUTO"/>
       <property name="Synopsis" value="CAP CER 15PF 25V C0G/NP0"/>
-      <property name="Comment" value="KEMET C0402C150J3GACAUTO 15 pF ±5% 25V Ceramic Capacitor C0G, NP0 0402 (1005 Metric)"/>
       <property name="LCSC" value="C3888936"/>
       <property name="Sheetname" value="rp2040"/>
       <property name="Sheetfile" value="rp2040.kicad_sch"/>
@@ -2430,7 +2289,6 @@
       <value>15pF_25V</value>
       <footprint>Janelia:C_0402_1005Metric</footprint>
       <fields>
-        <field name="Comment">KEMET C0402C150J3GACAUTO 15 pF ±5% 25V Ceramic Capacitor C0G, NP0 0402 (1005 Metric)</field>
         <field name="LCSC">C3888936</field>
         <field name="Manufacturer">KEMET</field>
         <field name="Manufacturer Part Number">C0402C150J3GACAUTO</field>
@@ -2446,7 +2304,6 @@
       <property name="Manufacturer" value="KEMET"/>
       <property name="Manufacturer Part Number" value="C0402C150J3GACAUTO"/>
       <property name="Synopsis" value="CAP CER 15PF 25V C0G/NP0"/>
-      <property name="Comment" value="KEMET C0402C150J3GACAUTO 15 pF ±5% 25V Ceramic Capacitor C0G, NP0 0402 (1005 Metric)"/>
       <property name="LCSC" value="C3888936"/>
       <property name="Sheetname" value="rp2040"/>
       <property name="Sheetfile" value="rp2040.kicad_sch"/>
@@ -2458,7 +2315,6 @@
       <value>D_SCHOTTKY_40V_2A</value>
       <footprint>Janelia:CR_DSN2_152AB-C_OSI</footprint>
       <fields>
-        <field name="Comment">onsemi NSR20F40NXT5G Diode 40 V 2A Surface Mount 2-DSN (1.6x0.8), (0603)</field>
         <field name="LCSC">C153761</field>
         <field name="Manufacturer">onsemi</field>
         <field name="Manufacturer Part Number">NSR20F40NXT5G</field>
@@ -2474,7 +2330,6 @@
       <property name="Manufacturer" value="onsemi"/>
       <property name="Manufacturer Part Number" value="NSR20F40NXT5G"/>
       <property name="Sim.Enable" value="0"/>
-      <property name="Comment" value="onsemi NSR20F40NXT5G Diode 40 V 2A Surface Mount 2-DSN (1.6x0.8), (0603)"/>
       <property name="LCSC" value="C153761"/>
       <property name="Sheetname" value="rp2040"/>
       <property name="Sheetfile" value="rp2040.kicad_sch"/>
@@ -2486,7 +2341,6 @@
       <value>D_SCHOTTKY_40V_2A</value>
       <footprint>Janelia:CR_DSN2_152AB-C_OSI</footprint>
       <fields>
-        <field name="Comment">onsemi NSR20F40NXT5G Diode 40 V 2A Surface Mount 2-DSN (1.6x0.8), (0603)</field>
         <field name="LCSC">C153761</field>
         <field name="Manufacturer">onsemi</field>
         <field name="Manufacturer Part Number">NSR20F40NXT5G</field>
@@ -2502,7 +2356,6 @@
       <property name="Manufacturer" value="onsemi"/>
       <property name="Manufacturer Part Number" value="NSR20F40NXT5G"/>
       <property name="Sim.Enable" value="0"/>
-      <property name="Comment" value="onsemi NSR20F40NXT5G Diode 40 V 2A Surface Mount 2-DSN (1.6x0.8), (0603)"/>
       <property name="LCSC" value="C153761"/>
       <property name="Sheetname" value="rp2040"/>
       <property name="Sheetfile" value="rp2040.kicad_sch"/>
@@ -2514,7 +2367,6 @@
       <value>Connector_USB_C_Receptacle</value>
       <footprint>Janelia:USB_C_Receptacle_Amphenol_10152803-00011LF</footprint>
       <fields>
-        <field name="Comment">Amphenol ICC (FCI) 10152803-00011LF USB-C (USB TYPE-C) USB 3.2 Gen 2 (USB 3.1 Gen 2, Superspeed + (USB 3.1)) Receptacle Connector 24 Position Surface Mount, Right Angle</field>
         <field name="LCSC">C5410523</field>
         <field name="Manufacturer">Amphenol ICC (FCI)</field>
         <field name="Manufacturer Part Number">10152803-00011LF</field>
@@ -2528,7 +2380,6 @@
       <property name="Manufacturer Part Number" value="10152803-00011LF"/>
       <property name="Vendor" value="Digi-Key"/>
       <property name="Vendor Part Number" value="609-10152803-00011LFCT-ND"/>
-      <property name="Comment" value="Amphenol ICC (FCI) 10152803-00011LF USB-C (USB TYPE-C) USB 3.2 Gen 2 (USB 3.1 Gen 2, Superspeed + (USB 3.1)) Receptacle Connector 24 Position Surface Mount, Right Angle"/>
       <property name="LCSC" value="C5410523"/>
       <property name="Sheetname" value="rp2040"/>
       <property name="Sheetfile" value="rp2040.kicad_sch"/>
@@ -2541,7 +2392,6 @@
       <value>10.0k</value>
       <footprint>Janelia:R_0402_1005Metric</footprint>
       <fields>
-        <field name="Comment">YAGEO RC0402JR-0710KL 10 kOhms ±5% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Moisture Resistant Thick Film</field>
         <field name="LCSC">C106234</field>
         <field name="Manufacturer">YAGEO</field>
         <field name="Manufacturer Part Number">RC0402JR-0710KL</field>
@@ -2557,7 +2407,6 @@
       <property name="Manufacturer" value="YAGEO"/>
       <property name="Manufacturer Part Number" value="RC0402JR-0710KL"/>
       <property name="Synopsis" value="RES SMD 10K OHM 5% 1/10W"/>
-      <property name="Comment" value="YAGEO RC0402JR-0710KL 10 kOhms ±5% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Moisture Resistant Thick Film"/>
       <property name="LCSC" value="C106234"/>
       <property name="Sheetname" value="rp2040"/>
       <property name="Sheetfile" value="rp2040.kicad_sch"/>
@@ -2569,7 +2418,7 @@
       <value>5.1k</value>
       <footprint>Janelia:R_0402_1005Metric</footprint>
       <fields>
-        <field name="Comment">Panasonic Electronic Components ERJ-2GEJ512X 5.1 kOhms ±5% 0.1W, 1/10W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q200 Thick Film</field>
+        <field name="LCSC">C413002</field>
         <field name="Manufacturer">Panasonic Electronic Components</field>
         <field name="Manufacturer Part Number">ERJ-2GEJ512X</field>
         <field name="Package">0402</field>
@@ -2584,8 +2433,7 @@
       <property name="Manufacturer" value="Panasonic Electronic Components"/>
       <property name="Manufacturer Part Number" value="ERJ-2GEJ512X"/>
       <property name="Synopsis" value="RES SMD 5.1K OHM 5% 1/10W"/>
-      <property name="Comment" value="Panasonic Electronic Components ERJ-2GEJ512X 5.1 kOhms ±5% 0.1W, 1/10W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q200 Thick Film"/>
-      <property name="LCSC" value=""/>
+      <property name="LCSC" value="C413002"/>
       <property name="Sheetname" value="rp2040"/>
       <property name="Sheetfile" value="rp2040.kicad_sch"/>
       <property name="ki_description" value="5.1 kOhms ±5% 0.1W, 1/10W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q200 Thick Film"/>
@@ -2596,7 +2444,7 @@
       <value>5.1k</value>
       <footprint>Janelia:R_0402_1005Metric</footprint>
       <fields>
-        <field name="Comment">Panasonic Electronic Components ERJ-2GEJ512X 5.1 kOhms ±5% 0.1W, 1/10W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q200 Thick Film</field>
+        <field name="LCSC">C413002</field>
         <field name="Manufacturer">Panasonic Electronic Components</field>
         <field name="Manufacturer Part Number">ERJ-2GEJ512X</field>
         <field name="Package">0402</field>
@@ -2611,8 +2459,7 @@
       <property name="Manufacturer" value="Panasonic Electronic Components"/>
       <property name="Manufacturer Part Number" value="ERJ-2GEJ512X"/>
       <property name="Synopsis" value="RES SMD 5.1K OHM 5% 1/10W"/>
-      <property name="Comment" value="Panasonic Electronic Components ERJ-2GEJ512X 5.1 kOhms ±5% 0.1W, 1/10W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q200 Thick Film"/>
-      <property name="LCSC" value=""/>
+      <property name="LCSC" value="C413002"/>
       <property name="Sheetname" value="rp2040"/>
       <property name="Sheetfile" value="rp2040.kicad_sch"/>
       <property name="ki_description" value="5.1 kOhms ±5% 0.1W, 1/10W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q200 Thick Film"/>
@@ -2623,7 +2470,7 @@
       <value>27</value>
       <footprint>Janelia:R_0402_1005Metric</footprint>
       <fields>
-        <field name="Comment">Panasonic Electronic Components ERJ-2GEJ270X 27 Ohms ±5% 0.1W, 1/10W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q200 Thick Film</field>
+        <field name="LCSC">C278580</field>
         <field name="Manufacturer">Panasonic Electronic Components</field>
         <field name="Manufacturer Part Number">ERJ-2GEJ270X</field>
         <field name="Package">0402</field>
@@ -2638,8 +2485,7 @@
       <property name="Manufacturer" value="Panasonic Electronic Components"/>
       <property name="Manufacturer Part Number" value="ERJ-2GEJ270X"/>
       <property name="Synopsis" value="RES SMD 27 OHM 5% 1/10W"/>
-      <property name="Comment" value="Panasonic Electronic Components ERJ-2GEJ270X 27 Ohms ±5% 0.1W, 1/10W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q200 Thick Film"/>
-      <property name="LCSC" value=""/>
+      <property name="LCSC" value="C278580"/>
       <property name="Sheetname" value="rp2040"/>
       <property name="Sheetfile" value="rp2040.kicad_sch"/>
       <property name="ki_description" value="27 Ohms ±5% 0.1W, 1/10W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q200 Thick Film"/>
@@ -2650,7 +2496,7 @@
       <value>27</value>
       <footprint>Janelia:R_0402_1005Metric</footprint>
       <fields>
-        <field name="Comment">Panasonic Electronic Components ERJ-2GEJ270X 27 Ohms ±5% 0.1W, 1/10W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q200 Thick Film</field>
+        <field name="LCSC">C278580</field>
         <field name="Manufacturer">Panasonic Electronic Components</field>
         <field name="Manufacturer Part Number">ERJ-2GEJ270X</field>
         <field name="Package">0402</field>
@@ -2665,8 +2511,7 @@
       <property name="Manufacturer" value="Panasonic Electronic Components"/>
       <property name="Manufacturer Part Number" value="ERJ-2GEJ270X"/>
       <property name="Synopsis" value="RES SMD 27 OHM 5% 1/10W"/>
-      <property name="Comment" value="Panasonic Electronic Components ERJ-2GEJ270X 27 Ohms ±5% 0.1W, 1/10W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q200 Thick Film"/>
-      <property name="LCSC" value=""/>
+      <property name="LCSC" value="C278580"/>
       <property name="Sheetname" value="rp2040"/>
       <property name="Sheetfile" value="rp2040.kicad_sch"/>
       <property name="ki_description" value="27 Ohms ±5% 0.1W, 1/10W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q200 Thick Film"/>
@@ -2677,7 +2522,6 @@
       <value>1k</value>
       <footprint>Janelia:R_0402_1005Metric</footprint>
       <fields>
-        <field name="Comment">YAGEO RC0402FR-071KL 1 kOhms ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Moisture Resistant Thick Film</field>
         <field name="LCSC">C106235</field>
         <field name="Manufacturer">YAGEO</field>
         <field name="Manufacturer Part Number">RC0402FR-071KL</field>
@@ -2693,7 +2537,6 @@
       <property name="Manufacturer" value="YAGEO"/>
       <property name="Manufacturer Part Number" value="RC0402FR-071KL"/>
       <property name="Synopsis" value="RES SMD 1K OHM 1% 1/16W"/>
-      <property name="Comment" value="YAGEO RC0402FR-071KL 1 kOhms ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Moisture Resistant Thick Film"/>
       <property name="LCSC" value="C106235"/>
       <property name="Sheetname" value="rp2040"/>
       <property name="Sheetfile" value="rp2040.kicad_sch"/>
@@ -2705,7 +2548,6 @@
       <value>1k</value>
       <footprint>Janelia:R_0402_1005Metric</footprint>
       <fields>
-        <field name="Comment">YAGEO RC0402FR-071KL 1 kOhms ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Moisture Resistant Thick Film</field>
         <field name="LCSC">C106235</field>
         <field name="Manufacturer">YAGEO</field>
         <field name="Manufacturer Part Number">RC0402FR-071KL</field>
@@ -2721,7 +2563,6 @@
       <property name="Manufacturer" value="YAGEO"/>
       <property name="Manufacturer Part Number" value="RC0402FR-071KL"/>
       <property name="Synopsis" value="RES SMD 1K OHM 1% 1/16W"/>
-      <property name="Comment" value="YAGEO RC0402FR-071KL 1 kOhms ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Moisture Resistant Thick Film"/>
       <property name="LCSC" value="C106235"/>
       <property name="Sheetname" value="rp2040"/>
       <property name="Sheetfile" value="rp2040.kicad_sch"/>
@@ -2733,7 +2574,6 @@
       <value>Switch_Tactile_SPST-NO_SMT_Side</value>
       <footprint>Janelia:SMT_1045822_WRE</footprint>
       <fields>
-        <field name="Comment">Würth Elektronik 436333045822 Tactile Switch SPST-NO Side Actuated Surface Mount, Right Angle</field>
         <field name="LCSC">C7185056</field>
         <field name="Manufacturer">Würth Elektronik</field>
         <field name="Manufacturer Part Number">436333045822</field>
@@ -2747,7 +2587,6 @@
       <property name="Vendor" value="Digi-Key"/>
       <property name="Vendor Part Number" value="732-7060-1-ND"/>
       <property name="Synopsis" value="SWITCH TACTILE SPST-NO 0.05A 12V"/>
-      <property name="Comment" value="Würth Elektronik 436333045822 Tactile Switch SPST-NO Side Actuated Surface Mount, Right Angle"/>
       <property name="LCSC" value="C7185056"/>
       <property name="Sheetname" value="rp2040"/>
       <property name="Sheetfile" value="rp2040.kicad_sch"/>
@@ -2760,7 +2599,6 @@
       <value>Linear_3.3V_1A</value>
       <footprint>Janelia:TPS737Q1</footprint>
       <fields>
-        <field name="Comment">Texas Instruments TPS73733QDRBRQ1 Linear Voltage Regulator IC Positive Fixed 1 Output 1A 8-SON (3x3)</field>
         <field name="LCSC">C523768</field>
         <field name="Manufacturer">Texas Instruments</field>
         <field name="Manufacturer Part Number">TPS73733QDRBRQ1</field>
@@ -2776,7 +2614,6 @@
       <property name="Manufacturer Part Number" value="TPS73733QDRBRQ1"/>
       <property name="Vendor" value="Digi-Key"/>
       <property name="Vendor Part Number" value="296-24157-1-ND"/>
-      <property name="Comment" value="Texas Instruments TPS73733QDRBRQ1 Linear Voltage Regulator IC Positive Fixed 1 Output 1A 8-SON (3x3)"/>
       <property name="LCSC" value="C523768"/>
       <property name="Sheetname" value="rp2040"/>
       <property name="Sheetfile" value="rp2040.kicad_sch"/>
@@ -2789,7 +2626,6 @@
       <footprint>Janelia:QFN-56-1EP_7x7mm_P0.4mm_EP3.2x3.2mm</footprint>
       <datasheet>https://datasheets.raspberrypi.com/rp2040/rp2040-datasheet.pdf</datasheet>
       <fields>
-        <field name="Comment">Raspberry Pi SC0914(13) ARM Cortex-M0+ - Microcontroller IC 32-Bit Dual-Core 133MHz External Program Memory 56-QFN (7x7)</field>
         <field name="LCSC">C3227924</field>
         <field name="Manufacturer">Raspberry Pi</field>
         <field name="Manufacturer Part Number">SC0914(13)</field>
@@ -2805,7 +2641,6 @@
       <property name="Vendor" value="Digi-Key"/>
       <property name="Vendor Part Number" value="2648-SC0914(13)CT-ND"/>
       <property name="Synopsis" value="IC MCU 32BIT EXT MEM"/>
-      <property name="Comment" value="Raspberry Pi SC0914(13) ARM Cortex-M0+ - Microcontroller IC 32-Bit Dual-Core 133MHz External Program Memory 56-QFN (7x7)"/>
       <property name="LCSC" value="C3227924"/>
       <property name="Sheetname" value="rp2040"/>
       <property name="Sheetfile" value="rp2040.kicad_sch"/>
@@ -2819,7 +2654,6 @@
       <footprint>Janelia:WSON-8-1EP_6x5mm_P1.27mm_EP3.4x4.3mm</footprint>
       <datasheet>https://www.winbond.com/resource-files/w25q128jv%20revf%2003272018%20plus.pdf</datasheet>
       <fields>
-        <field name="Comment">Winbond Electronics W25Q128JVPIQ FLASH - NOR Memory IC 128Mbit SPI - Quad I/O, QPI, DTR 133 MHz 8-WSON (6x5)</field>
         <field name="LCSC">C190862</field>
         <field name="Manufacturer">Winbond Electronics</field>
         <field name="Manufacturer Part Number">W25Q128JVPIQ</field>
@@ -2835,7 +2669,6 @@
       <property name="Vendor" value="Digi-Key"/>
       <property name="Vendor Part Number" value="W25Q128JVPIQ-ND"/>
       <property name="Synopsis" value="IC FLASH 128MBIT SPI/QUAD"/>
-      <property name="Comment" value="Winbond Electronics W25Q128JVPIQ FLASH - NOR Memory IC 128Mbit SPI - Quad I/O, QPI, DTR 133 MHz 8-WSON (6x5)"/>
       <property name="LCSC" value="C190862"/>
       <property name="Sheetname" value="rp2040"/>
       <property name="Sheetfile" value="rp2040.kicad_sch"/>
@@ -2848,7 +2681,6 @@
       <value>Crystal_12MHz</value>
       <footprint>Janelia:Crystal_SMD_Abracon_ABM8-4Pin_3.2x2.5mm</footprint>
       <fields>
-        <field name="Comment">Abracon LLC ABM8-272-T3 12 MHz ±30ppm Crystal 10pF 50 Ohms 4-SMD, No Lead</field>
         <field name="LCSC">C20625731</field>
         <field name="Manufacturer">Abracon LLC</field>
         <field name="Manufacturer Part Number">ABM8-272-T3</field>
@@ -2862,7 +2694,6 @@
       <property name="Vendor" value="Digi-Key"/>
       <property name="Vendor Part Number" value="535-ABM8-272-T3CT-ND"/>
       <property name="Synopsis" value="CRYSTAL 12.0000MHZ 10PF SMD"/>
-      <property name="Comment" value="Abracon LLC ABM8-272-T3 12 MHz ±30ppm Crystal 10pF 50 Ohms 4-SMD, No Lead"/>
       <property name="LCSC" value="C20625731"/>
       <property name="Sheetname" value="rp2040"/>
       <property name="Sheetfile" value="rp2040.kicad_sch"/>
@@ -2892,7 +2723,6 @@
         <field name="Manufacturer Part Number">BUK7D36-60EX</field>
         <field name="Vendor">Digi-Key</field>
         <field name="Vendor Part Number">1727-BUK7D36-60EXCT-ND</field>
-        <field name="Comment">Nexperia USA Inc. BUK7D36-60EX N-Channel 60 V 5.5A (Ta), 14A (Tc) 2.3W (Ta), 15W (Tc) Surface Mount DFN2020MD-6</field>
         <field name="LCSC">C3288253</field>
       </fields>
       <pins>
@@ -2925,7 +2755,7 @@
         <field name="Synopsis">CAP ALUM HYB 220UF 20% 50V SMD</field>
         <field name="Manufacturer">Panasonic Electronic Components</field>
         <field name="Manufacturer Part Number">EEH-ZS1H221V</field>
-        <field name="Comment">Panasonic Electronic Components EEH-ZS1H221V 220 µF 50 V Aluminum - Polymer Capacitors Radial, Can - SMD 13mOhm 4000 Hrs @ 125°C</field>
+        <field name="LCSC">C454279</field>
       </fields>
       <pins>
         <pin num="1" name="" type="passive"/>
@@ -2949,7 +2779,6 @@
         <field name="Manufacturer">Murata Electronics</field>
         <field name="Manufacturer Part Number">GRM155R62A104KE14D</field>
         <field name="Package">0402</field>
-        <field name="Comment">Murata Electronics GRM155R62A104KE14D 0.1 µF ±10% 100V Ceramic Capacitor X5R 0402 (1005 Metric)</field>
         <field name="LCSC">C162178</field>
       </fields>
       <pins>
@@ -2974,7 +2803,6 @@
         <field name="Manufacturer">Murata Electronics</field>
         <field name="Manufacturer Part Number">GRT155C81E224KE01D</field>
         <field name="Package">0402</field>
-        <field name="Comment">Murata Electronics GRT155C81E224KE01D 0.22 µF ±10% 25V Ceramic Capacitor X6S 0402 (1005 Metric)</field>
         <field name="LCSC">C126623</field>
       </fields>
       <pins>
@@ -2999,7 +2827,6 @@
         <field name="Package">0402</field>
         <field name="Manufacturer">Murata Electronics</field>
         <field name="Manufacturer Part Number">GRT155R6YA474KE01D</field>
-        <field name="Comment">Murata Electronics GRT155R6YA474KE01D 0.47 µF ±10% 35V Ceramic Capacitor X5R 0402 (1005 Metric)</field>
         <field name="LCSC">C711580</field>
       </fields>
       <pins>
@@ -3024,7 +2851,6 @@
         <field name="Package">0402</field>
         <field name="Manufacturer">KEMET</field>
         <field name="Manufacturer Part Number">C0402C150J3GACAUTO</field>
-        <field name="Comment">KEMET C0402C150J3GACAUTO 15 pF ±5% 25V Ceramic Capacitor C0G, NP0 0402 (1005 Metric)</field>
         <field name="LCSC">C3888936</field>
       </fields>
       <pins>
@@ -3049,7 +2875,6 @@
         <field name="Package">0402</field>
         <field name="Manufacturer">Murata Electronics</field>
         <field name="Manufacturer Part Number">GRT155R61E105KE01D</field>
-        <field name="Comment">Murata Electronics GRT155R61E105KE01D 1 µF ±10% 25V Ceramic Capacitor X5R 0402 (1005 Metric)</field>
         <field name="LCSC">C711085</field>
       </fields>
       <pins>
@@ -3074,7 +2899,6 @@
         <field name="Package">0402</field>
         <field name="Manufacturer">Samsung Electro-Mechanics</field>
         <field name="Manufacturer Part Number">CL05A105KL5NRNC</field>
-        <field name="Comment">Samsung Electro-Mechanics CL05A105KL5NRNC 1 µF ±10% 35V Ceramic Capacitor X5R 0402 (1005 Metric)</field>
         <field name="LCSC">C307413</field>
       </fields>
       <pins>
@@ -3094,12 +2918,12 @@
         <field name="Value">2.2uF_100V</field>
         <field name="Footprint">Janelia:C_0805_2012Metric</field>
         <field name="Vendor">Digi-Key</field>
-        <field name="Vendor Part Number">490-GRT21BD72A225KE13KCT-ND</field>
+        <field name="Vendor Part Number">490-GRM21BD72A225KE01LCT-ND</field>
         <field name="Synopsis">CAP CER 2.2UF 100V X7T 0805</field>
         <field name="Package">0805</field>
         <field name="Manufacturer">Murata Electronics</field>
-        <field name="Manufacturer Part Number">GRT21BD72A225KE13K</field>
-        <field name="Comment">Murata Electronics GRT21BD72A225KE13K 2.2 µF ±10% 100V Ceramic Capacitor X7T 0805 (2012 Metric)</field>
+        <field name="Manufacturer Part Number">GRM21BD72A225KE01L</field>
+        <field name="LCSC">C2981733</field>
       </fields>
       <pins>
         <pin num="1" name="" type="passive"/>
@@ -3123,7 +2947,6 @@
         <field name="Package">0402</field>
         <field name="Manufacturer">TDK Corporation</field>
         <field name="Manufacturer Part Number">C1005X5R1V225K050BC</field>
-        <field name="Comment">TDK Corporation C1005X5R1V225K050BC 2.2 µF ±10% 35V Ceramic Capacitor X5R 0402 (1005 Metric)</field>
         <field name="LCSC">C2167643</field>
       </fields>
       <pins>
@@ -3148,7 +2971,6 @@
         <field name="Manufacturer">Murata Electronics</field>
         <field name="Manufacturer Part Number">GCM188R72A223KA37D</field>
         <field name="Package">0603</field>
-        <field name="Comment">Murata Electronics GCM188R72A223KA37D 0.022 µF ±10% 100V Ceramic Capacitor X7R 0603 (1608 Metric)</field>
         <field name="LCSC">C161234</field>
       </fields>
       <pins>
@@ -3173,7 +2995,6 @@
         <field name="Package">0805</field>
         <field name="Manufacturer">TDK Corporation</field>
         <field name="Manufacturer Part Number">C2012X5R1A476M125AC</field>
-        <field name="Comment">TDK Corporation C2012X5R1A476M125AC 47 µF ±20% 10V Ceramic Capacitor X5R 0805 (2012 Metric)</field>
         <field name="LCSC">C2182652</field>
       </fields>
       <pins>
@@ -3197,7 +3018,6 @@
         <field name="Manufacturer Part Number">5055680281</field>
         <field name="Vendor">Digi-Key</field>
         <field name="Vendor Part Number">WM26831CT-ND</field>
-        <field name="Comment">Molex 5055680281 Connector Header Surface Mount 2 position 0.049" (1.25mm)</field>
         <field name="LCSC">C17180191</field>
       </fields>
       <pins>
@@ -3221,7 +3041,6 @@
         <field name="Manufacturer Part Number">0874380243</field>
         <field name="Vendor">Digi-Key</field>
         <field name="Vendor Part Number">WM7646CT-ND</field>
-        <field name="Comment">Molex 0874380243 Connector Header Surface Mount, Right Angle 2 position 0.059" (1.50mm)</field>
         <field name="LCSC">C240853</field>
       </fields>
       <pins>
@@ -3245,7 +3064,6 @@
         <field name="Manufacturer Part Number">5015680207</field>
         <field name="Vendor">Digi-Key</field>
         <field name="Vendor Part Number">WM7893CT-ND</field>
-        <field name="Comment">Molex 5015680207 Connector Header Surface Mount, Right Angle 2 position 0.039" (1.00mm)</field>
         <field name="LCSC">C505123</field>
       </fields>
       <pins>
@@ -3269,7 +3087,6 @@
         <field name="Manufacturer Part Number">0874380443</field>
         <field name="Vendor">Digi-Key</field>
         <field name="Vendor Part Number">WM7648CT-ND</field>
-        <field name="Comment">Molex 0874380443 Connector Header Surface Mount, Right Angle 4 position 0.059" (1.50mm)</field>
         <field name="LCSC">C564208</field>
       </fields>
       <pins>
@@ -3293,7 +3110,6 @@
         <field name="Manufacturer Part Number">10152803-00011LF</field>
         <field name="Vendor">Digi-Key</field>
         <field name="Vendor Part Number">609-10152803-00011LFCT-ND</field>
-        <field name="Comment">Amphenol ICC (FCI) 10152803-00011LF USB-C (USB TYPE-C) USB 3.2 Gen 2 (USB 3.1 Gen 2, Superspeed + (USB 3.1)) Receptacle Connector 24 Position Surface Mount, Right Angle</field>
         <field name="LCSC">C5410523</field>
       </fields>
       <pins>
@@ -3343,7 +3159,6 @@
         <field name="Manufacturer Part Number">ABM8-272-T3</field>
         <field name="Vendor">Digi-Key</field>
         <field name="Vendor Part Number">535-ABM8-272-T3CT-ND</field>
-        <field name="Comment">Abracon LLC ABM8-272-T3 12 MHz ±30ppm Crystal 10pF 50 Ohms 4-SMD, No Lead</field>
         <field name="LCSC">C20625731</field>
       </fields>
       <pins>
@@ -3372,7 +3187,6 @@
         <field name="Manufacturer">onsemi</field>
         <field name="Manufacturer Part Number">NSR20F40NXT5G</field>
         <field name="Sim.Enable">0</field>
-        <field name="Comment">onsemi NSR20F40NXT5G Diode 40 V 2A Surface Mount 2-DSN (1.6x0.8), (0603)</field>
         <field name="LCSC">C153761</field>
       </fields>
       <pins>
@@ -3399,7 +3213,6 @@
         <field name="Manufacturer Part Number">SMF48A</field>
         <field name="Vendor">Digi-Key</field>
         <field name="Vendor Part Number">F5832CT-ND</field>
-        <field name="Comment">Littelfuse Inc. SMF48A 77.4V Clamp 2.6A Ipp Tvs Diode Surface Mount SOD-123F</field>
         <field name="Package"> SOD-123F</field>
         <field name="LCSC">C1509577</field>
       </fields>
@@ -3433,7 +3246,6 @@
         <field name="Manufacturer Part Number">255M</field>
         <field name="Vendor">Digi-Key</field>
         <field name="Vendor Part Number">381-2353-ND</field>
-        <field name="Comment">ebm-papst Inc. 255M Fan Tubeaxial 5VDC Square - 25mm L x 25mm H Sintec 1.2 CFM (0.034m³/min) 2 Wire Leads</field>
       </fields>
       <pins>
         <pin num="1" name="1" type="passive"/>
@@ -3441,8 +3253,8 @@
         <pin num="3" name="3" type="passive"/>
       </pins>
     </libpart>
-    <libpart lib="Janelia" part="LED_QT_GRN_2V_0402">
-      <description>Green 570nm LED Indication - Discrete 2V 0402 (1005 Metric)</description>
+    <libpart lib="Janelia" part="LED_KNB_20mA_GRN_2.1V_0402">
+      <description>Green 570nm LED Indication - Discrete 2.1V 0402 (1005 Metric)</description>
       <docs>~</docs>
       <footprints>
         <fp>LED*</fp>
@@ -3452,23 +3264,23 @@
       <fields>
         <field name="Reference">D</field>
         <field name="Value">LED_GRN</field>
-        <field name="Footprint">Janelia:LED_0402_1005Metric</field>
+        <field name="Footprint">Janelia:LED_0402-1005_KNB</field>
         <field name="Datasheet">~</field>
-        <field name="Synopsis">LED GREEN CLEAR</field>
+        <field name="Synopsis">LED GREEN CLEAR CHIP SMD</field>
         <field name="Package">0402</field>
-        <field name="Manufacturer">QT Brightek (QTB)</field>
-        <field name="Manufacturer Part Number">QBLP595-AG1</field>
+        <field name="Manufacturer">Kingbright</field>
+        <field name="Manufacturer Part Number">APHHS1005CGCK</field>
         <field name="Vendor">Digi-Key</field>
-        <field name="Vendor Part Number">1516-QBLP595-AG1CT-ND</field>
-        <field name="Comment">QT Brightek (QTB) QBLP595-AG1 Green 570nm LED Indication - Discrete 2V 0402 (1005 Metric)</field>
+        <field name="Vendor Part Number">754-1101-1-ND</field>
+        <field name="LCSC">C2853065</field>
       </fields>
       <pins>
         <pin num="1" name="K" type="passive"/>
         <pin num="2" name="A" type="passive"/>
       </pins>
     </libpart>
-    <libpart lib="Janelia" part="LED_QT_RED_2V_0402">
-      <description>Red 620nm LED Indication - Discrete 2V 0402 (1005 Metric)</description>
+    <libpart lib="Janelia" part="LED_KNB_20mA_RED_1.95V_0402">
+      <description>Red 630nm LED Indication - Discrete 1.95V 0402 (1005 Metric)</description>
       <docs>~</docs>
       <footprints>
         <fp>LED*</fp>
@@ -3478,23 +3290,22 @@
       <fields>
         <field name="Reference">D</field>
         <field name="Value">LED_RED</field>
-        <field name="Footprint">Janelia:LED_0402_1005Metric</field>
+        <field name="Footprint">Janelia:LED_0402-1005_KNB</field>
         <field name="Datasheet">~</field>
-        <field name="Synopsis">LED RED CLEAR 0402 SMD</field>
+        <field name="Synopsis">LED RED CLEAR CHIP SMD</field>
         <field name="Package">0402</field>
-        <field name="Manufacturer">QT Brightek (QTB)</field>
-        <field name="Manufacturer Part Number">QBLP595-R</field>
+        <field name="Manufacturer">Kingbright</field>
+        <field name="Manufacturer Part Number">APHHS1005SURCK</field>
         <field name="Vendor">Digi-Key</field>
-        <field name="Vendor Part Number">1516-1217-1-ND</field>
-        <field name="Comment">QT Brightek (QTB) QBLP595-R Red 620nm LED Indication - Discrete 2V 0402 (1005 Metric)</field>
-        <field name="LCSC">C9900058196</field>
+        <field name="Vendor Part Number">754-1104-1-ND</field>
+        <field name="LCSC">C2852592</field>
       </fields>
       <pins>
         <pin num="1" name="K" type="passive"/>
         <pin num="2" name="A" type="passive"/>
       </pins>
     </libpart>
-    <libpart lib="Janelia" part="LED_QT_YEL_2V_0402">
+    <libpart lib="Janelia" part="LED_KNB_20mA_YEL_2V_0402">
       <description>Yellow 590nm LED Indication - Discrete 2V 0402 (1005 Metric)</description>
       <docs>~</docs>
       <footprints>
@@ -3505,16 +3316,15 @@
       <fields>
         <field name="Reference">D</field>
         <field name="Value">LED_YEL</field>
-        <field name="Footprint">Janelia:LED_0402_1005Metric</field>
+        <field name="Footprint">Janelia:LED_0402-1005_KNB</field>
         <field name="Datasheet">~</field>
-        <field name="Synopsis">LED YELLOW CLEAR</field>
+        <field name="Synopsis">LED YELLOW CLEAR CHIP SMD</field>
         <field name="Package">0402</field>
-        <field name="Manufacturer">QT Brightek (QTB)</field>
-        <field name="Manufacturer Part Number">QBLP595-Y</field>
+        <field name="Manufacturer">Kingbright</field>
+        <field name="Manufacturer Part Number">APHHS1005SYCK</field>
         <field name="Vendor">Digi-Key</field>
-        <field name="Vendor Part Number">1516-1219-1-ND</field>
-        <field name="Comment">QT Brightek (QTB) QBLP595-Y Yellow 590nm LED Indication - Discrete 2V 0402 (1005 Metric)</field>
-        <field name="LCSC">C5829766</field>
+        <field name="Vendor Part Number">754-1105-1-ND</field>
+        <field name="LCSC">C5875733</field>
       </fields>
       <pins>
         <pin num="1" name="K" type="passive"/>
@@ -3540,7 +3350,6 @@
         <field name="Manufacturer Part Number">SD25-151-R</field>
         <field name="Vendor">Digi-Key</field>
         <field name="Vendor Part Number">283-4694-1-ND</field>
-        <field name="Comment">Eaton - Electronics Division SD25-151-R 150 µH Shielded Drum Core, Wirewound Inductor 553 mA 872.3mOhm Nonstandard</field>
         <field name="LCSC">C2453193</field>
       </fields>
       <pins>
@@ -3561,7 +3370,6 @@
         <field name="Vendor">Digi-Key</field>
         <field name="Vendor Part Number">MAX6816EUS+TCT-ND</field>
         <field name="Sim.Enable">0</field>
-        <field name="Comment">Analog Devices Inc./Maxim Integrated MAX6816EUS+T Switch Debouncer SOT-143-4</field>
         <field name="LCSC">C41637</field>
       </fields>
       <pins>
@@ -3588,7 +3396,6 @@
         <field name="Manufacturer Part Number">SC0914(13)</field>
         <field name="Vendor">Digi-Key</field>
         <field name="Vendor Part Number">2648-SC0914(13)CT-ND</field>
-        <field name="Comment">Raspberry Pi SC0914(13) ARM Cortex-M0+ - Microcontroller IC 32-Bit Dual-Core 133MHz External Program Memory 56-QFN (7x7)</field>
         <field name="LCSC">C3227924</field>
       </fields>
       <pins>
@@ -3666,7 +3473,6 @@
         <field name="Vendor">Digi-Key</field>
         <field name="Vendor Part Number">296-38914-1-ND</field>
         <field name="Sim.Enable">0</field>
-        <field name="Comment">Texas Instruments CSD17483F4 N-Channel 30 V 1.5A (Ta) 500mW (Ta) Surface Mount 3-PICOSTAR</field>
         <field name="LCSC">C139403</field>
       </fields>
       <pins>
@@ -3692,7 +3498,6 @@
         <field name="Manufacturer Part Number">W25Q128JVPIQ</field>
         <field name="Vendor">Digi-Key</field>
         <field name="Vendor Part Number">W25Q128JVPIQ-ND</field>
-        <field name="Comment">Winbond Electronics W25Q128JVPIQ FLASH - NOR Memory IC 128Mbit SPI - Quad I/O, QPI, DTR 133 MHz 8-WSON (6x5)</field>
         <field name="LCSC">C190862</field>
       </fields>
       <pins>
@@ -3737,7 +3542,6 @@
         <field name="Manufacturer Part Number">ECS-2520S33-160-FN-TR</field>
         <field name="Vendor">Digi-Key</field>
         <field name="Vendor Part Number">XC2195CT-ND</field>
-        <field name="Comment">ECS Inc. ECS-2520S33-160-FN-TR 16 MHz XO (Standard) HCMOS Oscillator 3.3V Enable/Disable 4-SMD, No Lead</field>
         <field name="LCSC">C2451298</field>
       </fields>
       <pins>
@@ -3766,7 +3570,6 @@
         <field name="Package">1206</field>
         <field name="Manufacturer">Delta Electronics/Cyntec</field>
         <field name="Manufacturer Part Number">VSRP1206S1-R150F</field>
-        <field name="Comment">Delta Electronics/Cyntec VSRP1206S1-R150F 150 mOhms ±1% 1W Chip Resistor 1206 (3216 Metric) Automotive AEC-Q200, Current Sense Thick Film</field>
         <field name="LCSC">C4090676</field>
       </fields>
       <pins>
@@ -3793,34 +3596,7 @@
         <field name="Package">0402</field>
         <field name="Manufacturer">YAGEO</field>
         <field name="Manufacturer Part Number">RC0402JR-0710KL</field>
-        <field name="Comment">YAGEO RC0402JR-0710KL 10 kOhms ±5% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Moisture Resistant Thick Film</field>
         <field name="LCSC">C106234</field>
-      </fields>
-      <pins>
-        <pin num="1" name="" type="passive"/>
-        <pin num="2" name="" type="passive"/>
-      </pins>
-    </libpart>
-    <libpart lib="Janelia" part="R_150_0.1W_0402">
-      <description>150 Ohms ±1% 0.1W, 1/10W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q200 Thick Film</description>
-      <footprints>
-        <fp>R?</fp>
-        <fp>SM0603</fp>
-        <fp>SM0805</fp>
-        <fp>R?-*</fp>
-        <fp>SM1206</fp>
-      </footprints>
-      <fields>
-        <field name="Reference">R</field>
-        <field name="Value">150</field>
-        <field name="Footprint">Janelia:R_0402_1005Metric</field>
-        <field name="Vendor">Digi-Key</field>
-        <field name="Vendor Part Number">P150LCT-ND</field>
-        <field name="Synopsis">RES SMD 150 OHM 1% 1/10W</field>
-        <field name="Package">0402</field>
-        <field name="Manufacturer">Panasonic Electronic Components</field>
-        <field name="Manufacturer Part Number">ERJ-2RKF1500X</field>
-        <field name="Comment">Panasonic Electronic Components ERJ-2RKF1500X 150 Ohms ±1% 0.1W, 1/10W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q200 Thick Film</field>
       </fields>
       <pins>
         <pin num="1" name="" type="passive"/>
@@ -3846,7 +3622,7 @@
         <field name="Package">0402</field>
         <field name="Manufacturer">Panasonic Electronic Components</field>
         <field name="Manufacturer Part Number">ERJ-2RKF15R0X</field>
-        <field name="Comment">Panasonic Electronic Components ERJ-2RKF15R0X 15 Ohms ±1% 0.1W, 1/10W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q200 Thick Film</field>
+        <field name="LCSC">C413047</field>
       </fields>
       <pins>
         <pin num="1" name="" type="passive"/>
@@ -3872,7 +3648,6 @@
         <field name="Package">0402</field>
         <field name="Manufacturer">YAGEO</field>
         <field name="Manufacturer Part Number">RC0402FR-071KL</field>
-        <field name="Comment">YAGEO RC0402FR-071KL 1 kOhms ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Moisture Resistant Thick Film</field>
         <field name="LCSC">C106235</field>
       </fields>
       <pins>
@@ -3899,7 +3674,7 @@
         <field name="Package">0402</field>
         <field name="Manufacturer">Panasonic Electronic Components</field>
         <field name="Manufacturer Part Number">ERJ-2GEJ2R2X</field>
-        <field name="Comment">Panasonic Electronic Components ERJ-2GEJ2R2X 2.2 Ohms ±5% 0.1W, 1/10W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q200 Thick Film</field>
+        <field name="LCSC">C412897</field>
       </fields>
       <pins>
         <pin num="1" name="" type="passive"/>
@@ -3925,8 +3700,32 @@
         <field name="Manufacturer Part Number">RA73F2A2K32BTD</field>
         <field name="Vendor">Digi-Key</field>
         <field name="Vendor Part Number">1712-RA73F2A2K32BTDCT-ND</field>
-        <field name="Comment">TE Connectivity Passive Product RA73F2A2K32BTD 2.32 kOhms ±0.1% 1W Chip Resistor 0805 (2012 Metric) Thin Film</field>
         <field name="LCSC">C3961061</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Janelia" part="R_249_0.06W_0402">
+      <description>249 Ohms ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q200 Thick Film</description>
+      <footprints>
+        <fp>R?</fp>
+        <fp>SM0603</fp>
+        <fp>SM0805</fp>
+        <fp>R?-*</fp>
+        <fp>SM1206</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">249</field>
+        <field name="Footprint">Janelia:R_0402_1005Metric</field>
+        <field name="Vendor">Digi-Key</field>
+        <field name="Vendor Part Number">541-249LCT-ND</field>
+        <field name="Package">0402</field>
+        <field name="Manufacturer">Vishay Dale</field>
+        <field name="Manufacturer Part Number">CRCW0402249RFKED</field>
+        <field name="LCSC">C482112</field>
       </fields>
       <pins>
         <pin num="1" name="" type="passive"/>
@@ -3952,7 +3751,7 @@
         <field name="Package">0402</field>
         <field name="Manufacturer">Panasonic Electronic Components</field>
         <field name="Manufacturer Part Number">ERJ-2GEJ270X</field>
-        <field name="Comment">Panasonic Electronic Components ERJ-2GEJ270X 27 Ohms ±5% 0.1W, 1/10W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q200 Thick Film</field>
+        <field name="LCSC">C278580</field>
       </fields>
       <pins>
         <pin num="1" name="" type="passive"/>
@@ -3978,7 +3777,6 @@
         <field name="Package">0402</field>
         <field name="Manufacturer">Stackpole Electronics Inc</field>
         <field name="Manufacturer Part Number">RMCF0402FT47R0</field>
-        <field name="Comment">Stackpole Electronics Inc RMCF0402FT47R0 47 Ohms ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q200 Thick Film</field>
         <field name="LCSC">C2479306</field>
       </fields>
       <pins>
@@ -4005,7 +3803,7 @@
         <field name="Package">0402</field>
         <field name="Manufacturer">Panasonic Electronic Components</field>
         <field name="Manufacturer Part Number">ERJ-2GEJ512X</field>
-        <field name="Comment">Panasonic Electronic Components ERJ-2GEJ512X 5.1 kOhms ±5% 0.1W, 1/10W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q200 Thick Film</field>
+        <field name="LCSC">C413002</field>
       </fields>
       <pins>
         <pin num="1" name="" type="passive"/>
@@ -4031,7 +3829,6 @@
         <field name="Package">0402</field>
         <field name="Manufacturer">Panasonic Electronic Components</field>
         <field name="Manufacturer Part Number">ERJ-2RKF64R9X</field>
-        <field name="Comment">Panasonic Electronic Components ERJ-2RKF64R9X 64.9 Ohms ±1% 0.1W, 1/10W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q200 Thick Film</field>
         <field name="LCSC">C2076866</field>
       </fields>
       <pins>
@@ -4054,7 +3851,6 @@
         <field name="Manufacturer Part Number">TPS73733QDRBRQ1</field>
         <field name="Vendor">Digi-Key</field>
         <field name="Vendor Part Number">296-24157-1-ND</field>
-        <field name="Comment">Texas Instruments TPS73733QDRBRQ1 Linear Voltage Regulator IC Positive Fixed 1 Output 1A 8-SON (3x3)</field>
         <field name="LCSC">C523768</field>
       </fields>
       <pins>
@@ -4084,7 +3880,6 @@
         <field name="Manufacturer Part Number">LM5166XDRCR</field>
         <field name="Vendor">Digi-Key</field>
         <field name="Vendor Part Number">296-47662-1-ND</field>
-        <field name="Comment">Texas Instruments LM5166XDRCR Buck Switching Regulator IC Positive Fixed 5V 1 Output 500mA 10-VFDFN Exposed Pad</field>
         <field name="LCSC">C2876564</field>
       </fields>
       <pins>
@@ -4115,7 +3910,6 @@
         <field name="Manufacturer Part Number">436333045822</field>
         <field name="Vendor">Digi-Key</field>
         <field name="Vendor Part Number">732-7060-1-ND</field>
-        <field name="Comment">Würth Elektronik 436333045822 Tactile Switch SPST-NO Side Actuated Surface Mount, Right Angle</field>
         <field name="LCSC">C7185056</field>
       </fields>
       <pins>
@@ -4142,7 +3936,6 @@
         <field name="Manufacturer Part Number">TMC5160A-WA</field>
         <field name="Vendor">Digi-Key</field>
         <field name="Vendor Part Number">505-TMC5160A-WA-ND</field>
-        <field name="Comment">Analog Devices Inc. TMC5160A-WA Bipolar Motor Driver Power MOSFET SPI, Step/Direction 56-QFN (8x8)</field>
         <field name="LCSC">C1161714</field>
       </fields>
       <pins>
