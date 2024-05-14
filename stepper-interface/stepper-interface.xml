@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>/home/polidorop/Repositories/kicad/stepper-interface/stepper-interface/stepper-interface.kicad_sch</source>
-    <date>Fri 10 May 2024 01:39:04 PM EDT</date>
+    <date>Tue 14 May 2024 11:24:57 AM EDT</date>
     <tool>Eeschema 7.0.11</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -2651,9 +2651,9 @@
       <footprint>Janelia:QFN-56-1EP_7x7mm_P0.4mm_EP3.2x3.2mm</footprint>
       <datasheet>https://datasheets.raspberrypi.com/rp2040/rp2040-datasheet.pdf</datasheet>
       <fields>
-        <field name="LCSC">C3227924</field>
+        <field name="LCSC">C2040</field>
         <field name="Manufacturer">Raspberry Pi</field>
-        <field name="Manufacturer Part Number">SC0914(13)</field>
+        <field name="Manufacturer Part Number">RP2040</field>
         <field name="Package">QFN-56(7x7)</field>
         <field name="Synopsis">IC MCU 32BIT EXT MEM</field>
         <field name="Vendor">Digi-Key</field>
@@ -2662,11 +2662,11 @@
       <libsource lib="Janelia" part="MCU_RP2040" description="ARM Cortex-M0+ - Microcontroller IC 32-Bit Dual-Core 133MHz External Program Memory 56-QFN (7x7)"/>
       <property name="Package" value="QFN-56(7x7)"/>
       <property name="Manufacturer" value="Raspberry Pi"/>
-      <property name="Manufacturer Part Number" value="SC0914(13)"/>
+      <property name="Manufacturer Part Number" value="RP2040"/>
       <property name="Vendor" value="Digi-Key"/>
       <property name="Vendor Part Number" value="2648-SC0914(13)CT-ND"/>
       <property name="Synopsis" value="IC MCU 32BIT EXT MEM"/>
-      <property name="LCSC" value="C3227924"/>
+      <property name="LCSC" value="C2040"/>
       <property name="Sheetname" value="rp2040"/>
       <property name="Sheetfile" value="rp2040.kicad_sch"/>
       <property name="ki_description" value="ARM Cortex-M0+ - Microcontroller IC 32-Bit Dual-Core 133MHz External Program Memory 56-QFN (7x7)"/>
@@ -3429,10 +3429,10 @@
         <field name="Synopsis">IC MCU 32BIT EXT MEM</field>
         <field name="Package">QFN-56(7x7)</field>
         <field name="Manufacturer">Raspberry Pi</field>
-        <field name="Manufacturer Part Number">SC0914(13)</field>
+        <field name="Manufacturer Part Number">RP2040</field>
         <field name="Vendor">Digi-Key</field>
         <field name="Vendor Part Number">2648-SC0914(13)CT-ND</field>
-        <field name="LCSC">C3227924</field>
+        <field name="LCSC">C2040</field>
       </fields>
       <pins>
         <pin num="1" name="IOVDD" type="power_in"/>
