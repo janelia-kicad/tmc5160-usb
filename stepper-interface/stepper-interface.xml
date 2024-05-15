@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>/home/polidorop/Repositories/kicad/stepper-interface/stepper-interface/stepper-interface.kicad_sch</source>
-    <date>Tue 14 May 2024 11:24:57 AM EDT</date>
+    <date>Wed 15 May 2024 01:43:28 PM EDT</date>
     <tool>Eeschema 7.0.11</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -1297,25 +1297,25 @@
       <value>0.15</value>
       <footprint>Janelia:R_1206_3216Metric</footprint>
       <fields>
-        <field name="LCSC">C4090676</field>
-        <field name="Manufacturer">Delta Electronics/Cyntec</field>
-        <field name="Manufacturer Part Number">VSRP1206S1-R150F</field>
+        <field name="LCSC">C2683383</field>
+        <field name="Manufacturer">TA-I Tech</field>
+        <field name="Manufacturer Part Number">RLH12FTCR150</field>
         <field name="Package">1206</field>
-        <field name="Synopsis">RES 0.15 OHM 1% 1W</field>
-        <field name="Vendor">Digi-Key</field>
-        <field name="Vendor Part Number">2037-VSRP1206S1-R150FCT-ND</field>
+        <field name="Synopsis">1W 150m Surface Mount Current Sensing Resistor</field>
+        <field name="Vendor">JLCPCB</field>
+        <field name="Vendor Part Number">C2683383</field>
       </fields>
-      <libsource lib="Janelia" part="R_0.15_1W_1206_CS" description="150 mOhms ±1% 1W Chip Resistor 1206 (3216 Metric) Automotive AEC-Q200, Current Sense Thick Film"/>
-      <property name="Vendor" value="Digi-Key"/>
-      <property name="Vendor Part Number" value="2037-VSRP1206S1-R150FCT-ND"/>
+      <libsource lib="Janelia" part="R_0.15_1W_1206_CS" description="1W 150m Surface Mount Current Sensing Resistors ±100ppm/℃ ±1% 1206 Current Sense Resistors/Shunt Resistors ROHS"/>
+      <property name="Vendor" value="JLCPCB"/>
+      <property name="Vendor Part Number" value="C2683383"/>
       <property name="Package" value="1206"/>
-      <property name="Manufacturer" value="Delta Electronics/Cyntec"/>
-      <property name="Manufacturer Part Number" value="VSRP1206S1-R150F"/>
-      <property name="Synopsis" value="RES 0.15 OHM 1% 1W"/>
-      <property name="LCSC" value="C4090676"/>
+      <property name="Manufacturer" value="TA-I Tech"/>
+      <property name="Manufacturer Part Number" value="RLH12FTCR150"/>
+      <property name="Synopsis" value="1W 150m Surface Mount Current Sensing Resistor"/>
+      <property name="LCSC" value="C2683383"/>
       <property name="Sheetname" value="tmc5160"/>
       <property name="Sheetfile" value="tmc5160.kicad_sch"/>
-      <property name="ki_description" value="150 mOhms ±1% 1W Chip Resistor 1206 (3216 Metric) Automotive AEC-Q200, Current Sense Thick Film"/>
+      <property name="ki_description" value="1W 150m Surface Mount Current Sensing Resistors ±100ppm/℃ ±1% 1206 Current Sense Resistors/Shunt Resistors ROHS"/>
       <sheetpath names="/tmc5160/" tstamps="/039ac378-5273-4081-85bf-9eb26cb5ed57/"/>
       <tstamps>5e579d71-2bcd-479e-979a-0a25f7894aaa</tstamps>
     </comp>
@@ -1323,25 +1323,25 @@
       <value>0.15</value>
       <footprint>Janelia:R_1206_3216Metric</footprint>
       <fields>
-        <field name="LCSC">C4090676</field>
-        <field name="Manufacturer">Delta Electronics/Cyntec</field>
-        <field name="Manufacturer Part Number">VSRP1206S1-R150F</field>
+        <field name="LCSC">C2683383</field>
+        <field name="Manufacturer">TA-I Tech</field>
+        <field name="Manufacturer Part Number">RLH12FTCR150</field>
         <field name="Package">1206</field>
-        <field name="Synopsis">RES 0.15 OHM 1% 1W</field>
-        <field name="Vendor">Digi-Key</field>
-        <field name="Vendor Part Number">2037-VSRP1206S1-R150FCT-ND</field>
+        <field name="Synopsis">1W 150m Surface Mount Current Sensing Resistor</field>
+        <field name="Vendor">JLCPCB</field>
+        <field name="Vendor Part Number">C2683383</field>
       </fields>
-      <libsource lib="Janelia" part="R_0.15_1W_1206_CS" description="150 mOhms ±1% 1W Chip Resistor 1206 (3216 Metric) Automotive AEC-Q200, Current Sense Thick Film"/>
-      <property name="Vendor" value="Digi-Key"/>
-      <property name="Vendor Part Number" value="2037-VSRP1206S1-R150FCT-ND"/>
+      <libsource lib="Janelia" part="R_0.15_1W_1206_CS" description="1W 150m Surface Mount Current Sensing Resistors ±100ppm/℃ ±1% 1206 Current Sense Resistors/Shunt Resistors ROHS"/>
+      <property name="Vendor" value="JLCPCB"/>
+      <property name="Vendor Part Number" value="C2683383"/>
       <property name="Package" value="1206"/>
-      <property name="Manufacturer" value="Delta Electronics/Cyntec"/>
-      <property name="Manufacturer Part Number" value="VSRP1206S1-R150F"/>
-      <property name="Synopsis" value="RES 0.15 OHM 1% 1W"/>
-      <property name="LCSC" value="C4090676"/>
+      <property name="Manufacturer" value="TA-I Tech"/>
+      <property name="Manufacturer Part Number" value="RLH12FTCR150"/>
+      <property name="Synopsis" value="1W 150m Surface Mount Current Sensing Resistor"/>
+      <property name="LCSC" value="C2683383"/>
       <property name="Sheetname" value="tmc5160"/>
       <property name="Sheetfile" value="tmc5160.kicad_sch"/>
-      <property name="ki_description" value="150 mOhms ±1% 1W Chip Resistor 1206 (3216 Metric) Automotive AEC-Q200, Current Sense Thick Film"/>
+      <property name="ki_description" value="1W 150m Surface Mount Current Sensing Resistors ±100ppm/℃ ±1% 1206 Current Sense Resistors/Shunt Resistors ROHS"/>
       <sheetpath names="/tmc5160/" tstamps="/039ac378-5273-4081-85bf-9eb26cb5ed57/"/>
       <tstamps>d7ce6e8d-6ef1-41e3-b326-89e22c09319e</tstamps>
     </comp>
@@ -3590,7 +3590,7 @@
       </pins>
     </libpart>
     <libpart lib="Janelia" part="R_0.15_1W_1206_CS">
-      <description>150 mOhms ±1% 1W Chip Resistor 1206 (3216 Metric) Automotive AEC-Q200, Current Sense Thick Film</description>
+      <description>1W 150m Surface Mount Current Sensing Resistors ±100ppm/℃ ±1% 1206 Current Sense Resistors/Shunt Resistors ROHS</description>
       <footprints>
         <fp>R?</fp>
         <fp>SM0603</fp>
@@ -3602,13 +3602,13 @@
         <field name="Reference">R</field>
         <field name="Value">0.15</field>
         <field name="Footprint">Janelia:R_1206_3216Metric</field>
-        <field name="Vendor">Digi-Key</field>
-        <field name="Vendor Part Number">2037-VSRP1206S1-R150FCT-ND</field>
-        <field name="Synopsis">RES 0.15 OHM 1% 1W</field>
+        <field name="Vendor">JLCPCB</field>
+        <field name="Vendor Part Number">C2683383</field>
+        <field name="Synopsis">1W 150m Surface Mount Current Sensing Resistor</field>
         <field name="Package">1206</field>
-        <field name="Manufacturer">Delta Electronics/Cyntec</field>
-        <field name="Manufacturer Part Number">VSRP1206S1-R150F</field>
-        <field name="LCSC">C4090676</field>
+        <field name="Manufacturer">TA-I Tech</field>
+        <field name="Manufacturer Part Number">RLH12FTCR150</field>
+        <field name="LCSC">C2683383</field>
       </fields>
       <pins>
         <pin num="1" name="" type="passive"/>
