@@ -11,12 +11,12 @@
 
 #+NAME: project-name
 #+BEGIN_SRC text :exports none :noweb yes
-stepper-interface
+tmc5160-usb
 #+END_SRC
 
 #+NAME: repository-name
 #+BEGIN_SRC text :exports none :noweb yes
-stepper-interface
+tmc5160-usb
 #+END_SRC
 
 #+NAME: documentation-version

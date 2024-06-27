@@ -67,4 +67,4 @@ trimmed-images:
 
 .PHONY: zipped-gerbers
 zipped-gerbers:
-	$(GUIX-SHELL) -- sh -c "rm -f documentation/gerbers/*.zip && zip -j -r documentation/gerbers/stepper-interface-1.0.zip documentation/gerbers"
+	$(GUIX-SHELL) -- sh -c "rm -f documentation/gerbers/*.zip && zip -j -r documentation/gerbers/tmc5160-usb-1.0.zip documentation/gerbers"

@@ -403,7 +403,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "stepper-interface.kicad_pro",
+    "filename": "tmc5160-usb.kicad_pro",
     "version": 1
   },
   "net_settings": {

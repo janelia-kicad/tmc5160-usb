@@ -1,6 +1,6 @@
 G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,7.0.11*
 G04 #@! TF.CreationDate,2024-05-10T14:22:17-04:00*
-G04 #@! TF.ProjectId,stepper-interface,73746570-7065-4722-9d69-6e7465726661,1.0*
+G04 #@! TF.ProjectId,tmc5160-usb,73746570-7065-4722-9d69-6e7465726661,1.0*
 G04 #@! TF.SameCoordinates,Original*
 G04 #@! TF.FileFunction,Copper,L1,Top*
 G04 #@! TF.FilePolarity,Positive*

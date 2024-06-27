@@ -5,7 +5,7 @@
   (paper "A4")
 
   (title_block
-    (title "stepper-interface")
+    (title "tmc5160-usb")
     (date "2024-05-10")
     (rev "1.0")
     (company "Howard Hughes Medical Institute")
@@ -540,7 +540,7 @@
     (pin "1" (uuid d88b44c8-f053-492b-a2cb-ce2b4fda9413))
     (pin "8" (uuid 010e4caf-dca2-4b8f-a8ed-caf0bc65879e))
     (instances
-      (project "stepper-interface"
+      (project "tmc5160-usb"
         (path "/df2b2e89-e055-4140-95de-f1df723db034/039ac378-5273-4081-85bf-9eb26cb5ed57/166b4ba4-5822-49d8-b309-f52ce04f60b1"
           (reference "U501") (unit 1)
         )
@@ -608,7 +608,7 @@
     (pin "2" (uuid cf54e939-bf99-46e7-8a3a-1fddaf396197))
     (pin "1" (uuid 8eec8ecf-90ab-444e-af31-0870c3c5f2ca))
     (instances
-      (project "stepper-interface"
+      (project "tmc5160-usb"
         (path "/df2b2e89-e055-4140-95de-f1df723db034/039ac378-5273-4081-85bf-9eb26cb5ed57/166b4ba4-5822-49d8-b309-f52ce04f60b1"
           (reference "R501") (unit 1)
         )
