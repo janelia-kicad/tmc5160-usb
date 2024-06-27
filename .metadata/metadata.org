@@ -41,7 +41,7 @@ tmc5160-usb
 
 #+NAME: synopsis
 #+BEGIN_SRC text :exports none :noweb yes
-Stepper motor controller and driver in various form factors.
+A stepper controller and driver board combining a TMC5160 and RP2040.
 #+END_SRC
 
 #+NAME: references

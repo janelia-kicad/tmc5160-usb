@@ -1,7 +1,7 @@
 # This file is generated automatically from metadata
 # File edits may be overwritten!
 - Project Name: tmc5160-usb
-- Synopsis: Stepper motor controller and driver in various form factors.
+- Synopsis: A stepper controller and driver board combining a TMC5160 and RP2040.
 - Documentation Version: 1.0.0
 - Pcb Version: 1.0
 - Enclosure Version: 1.0
