@@ -4139,11 +4139,11 @@
       <node ref="Y1301" pin="2" pinfunction="2" pintype="passive"/>
       <node ref="Y1301" pin="4" pinfunction="4" pintype="passive"/>
     </net>
-    <net code="7" name="/MISO">
+    <net code="7" name="/CIPO">
       <node ref="U1302" pin="31" pinfunction="GPIO20" pintype="bidirectional"/>
       <node ref="U401" pin="17" pinfunction="SDO/CFG0" pintype="bidirectional"/>
     </net>
-    <net code="8" name="/MOSI">
+    <net code="8" name="/COPI">
       <node ref="U1302" pin="30" pinfunction="GPIO19" pintype="bidirectional"/>
       <node ref="U401" pin="16" pinfunction="SDI/CFG1" pintype="input"/>
     </net>

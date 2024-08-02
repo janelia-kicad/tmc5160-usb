@@ -492,7 +492,7 @@
       },
       {
         "netclass": "Signal",
-        "pattern": "/MISO"
+        "pattern": "/CIPO"
       },
       {
         "netclass": "Signal",
@@ -512,7 +512,7 @@
       },
       {
         "netclass": "Signal",
-        "pattern": "/MOSI"
+        "pattern": "/COPI"
       },
       {
         "netclass": "Power",
